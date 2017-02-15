@@ -1,0 +1,158 @@
+[
+  {
+    "spanish": "buen tiempo",
+    "english": "good weather (no article)"
+  },
+  {
+    "spanish": "mal tiempo",
+    "english": "bad weather (no article)"
+  },
+  {
+    "spanish": "caliente",
+    "english": "hot"
+  },
+  {
+    "spanish": "el calor",
+    "english": "heat"
+  },
+  {
+    "spanish": "caluroso",
+    "english": "warm/hot"
+  },
+  {
+    "spanish": "el chubasco",
+    "english": "heavy shower"
+  },
+  {
+    "spanish": "el cielo",
+    "english": "sky"
+  },
+  {
+    "spanish": "el clima",
+    "english": "climate"
+  },
+  {
+    "spanish": "despejado",
+    "english": "clear (skies)"
+  },
+  {
+    "spanish": "estable",
+    "english": "stable"
+  },
+  {
+    "spanish": "fresco",
+    "english": "fresh/cool"
+  },
+  {
+    "spanish": "el frío",
+    "english": "cold"
+  },
+  {
+    "spanish": "el grado",
+    "english": "degree (temperature, maths, extent)"
+  },
+  {
+    "spanish": "el hielo",
+    "english": "ice"
+  },
+  {
+    "spanish": "húmedo",
+    "english": "damp"
+  },
+  {
+    "spanish": "la lluvia",
+    "english": "rain"
+  },
+  {
+    "spanish": "la niebla",
+    "english": "fog"
+  },
+  {
+    "spanish": "la nieve",
+    "english": "snow"
+  },
+  {
+    "spanish": "la nube",
+    "english": "cloud"
+  },
+  {
+    "spanish": "nublado",
+    "english": "cloudy (not \"nuboso\")"
+  },
+  {
+    "spanish": "nuboso",
+    "english": "cloudy (not \"nublado\")"
+  },
+  {
+    "spanish": "el pronóstico",
+    "english": "forecast"
+  },
+  {
+    "spanish": "el relámpago",
+    "english": "flash of lightning"
+  },
+  {
+    "spanish": "seco",
+    "english": "dry"
+  },
+  {
+    "spanish": "el sol",
+    "english": "sun"
+  },
+  {
+    "spanish": "la sombra",
+    "english": "shade"
+  },
+  {
+    "spanish": "la temperatura",
+    "english": "temperature"
+  },
+  {
+    "spanish": "templado",
+    "english": "mild"
+  },
+  {
+    "spanish": "el tiempo",
+    "english": "weather"
+  },
+  {
+    "spanish": "la tormenta",
+    "english": "storm"
+  },
+  {
+    "spanish": "tormentoso",
+    "english": "stormy"
+  },
+  {
+    "spanish": "el trueno",
+    "english": "clap of thunder"
+  },
+  {
+    "spanish": "el viento",
+    "english": "wind"
+  },
+  {
+    "spanish": "hacer (frío)",
+    "english": "to be (cold)"
+  },
+  {
+    "spanish": "helar",
+    "english": "to freeze"
+  },
+  {
+    "spanish": "llover",
+    "english": "to rain"
+  },
+  {
+    "spanish": "mojar(se)",
+    "english": "to get wet"
+  },
+  {
+    "spanish": "nevar",
+    "english": "to snow"
+  },
+  {
+    "spanish": "tener (calor)",
+    "english": "to be (hot)"
+  }
+]

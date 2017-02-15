@@ -1,0 +1,766 @@
+[
+  {
+    "spanish": "a la plancha",
+    "english": "grilled"
+  },
+  {
+    "spanish": "el aceite",
+    "english": "oil (cooking oil; lubricating oil)"
+  },
+  {
+    "spanish": "adictivo",
+    "english": "addictive"
+  },
+  {
+    "spanish": "el adicto",
+    "english": "addict"
+  },
+  {
+    "spanish": "el agua (f.)",
+    "english": "water (fem \"el\")"
+  },
+  {
+    "spanish": "el agua mineral con gas",
+    "english": "fizzy mineral water"
+  },
+  {
+    "spanish": "el agua mineral sin gas",
+    "english": "still mineral water"
+  },
+  {
+    "spanish": "el ajo",
+    "english": "garlic"
+  },
+  {
+    "spanish": "alcohólico",
+    "english": "alcoholic (adj.)"
+  },
+  {
+    "spanish": "el alimento",
+    "english": "food (not \"la alimentación\" or \"la comida\")"
+  },
+  {
+    "spanish": "el arroz",
+    "english": "rice"
+  },
+  {
+    "spanish": "asado",
+    "english": "roast"
+  },
+  {
+    "spanish": "el atún",
+    "english": "tuna"
+  },
+  {
+    "spanish": "el azúcar",
+    "english": "sugar"
+  },
+  {
+    "spanish": "el bacalao",
+    "english": "cod"
+  },
+  {
+    "spanish": "la barra (de pan)",
+    "english": "French loaf"
+  },
+  {
+    "spanish": "la bebida",
+    "english": "drink"
+  },
+  {
+    "spanish": "bien hecho",
+    "english": "well done"
+  },
+  {
+    "spanish": "el bistec",
+    "english": "steak (b.. not \"el bisté\")"
+  },
+  {
+    "spanish": "el bisté",
+    "english": "steak (b.. not \"el bistec\")"
+  },
+  {
+    "spanish": "el bocadillo",
+    "english": "sandwich"
+  },
+  {
+    "spanish": "el bombón",
+    "english": "chocolate (b)"
+  },
+  {
+    "spanish": "borracho",
+    "english": "drunk"
+  },
+  {
+    "spanish": "el café",
+    "english": "coffee"
+  },
+  {
+    "spanish": "los calamares",
+    "english": "squid (plural)"
+  },
+  {
+    "spanish": "cansado",
+    "english": "tired"
+  },
+  {
+    "spanish": "el caramelo",
+    "english": "sweet, piece of candy"
+  },
+  {
+    "spanish": "la carne",
+    "english": "meat"
+  },
+  {
+    "spanish": "los cereales",
+    "english": "cereals"
+  },
+  {
+    "spanish": "la cerveza",
+    "english": "beer"
+  },
+  {
+    "spanish": "los champiñones",
+    "english": "mushrooms"
+  },
+  {
+    "spanish": "el chocolate",
+    "english": "chocolate (c)"
+  },
+  {
+    "spanish": "el chorizo",
+    "english": "Spanish sausage"
+  },
+  {
+    "spanish": "los churros",
+    "english": "fritters"
+  },
+  {
+    "spanish": "el cigarrillo",
+    "english": "cigarette"
+  },
+  {
+    "spanish": "la cocaína",
+    "english": "cocaine"
+  },
+  {
+    "spanish": "la cocina",
+    "english": "cuisine"
+  },
+  {
+    "spanish": "la col",
+    "english": "cabbage"
+  },
+  {
+    "spanish": "la coliflor",
+    "english": "cauliflower"
+  },
+  {
+    "spanish": "la comida",
+    "english": "lunch/meal/food (not \"el alimento\" or \"la alimentación\")"
+  },
+  {
+    "spanish": "la comida basura",
+    "english": "junk food"
+  },
+  {
+    "spanish": "la comida rápida",
+    "english": "fast food"
+  },
+  {
+    "spanish": "el corazón",
+    "english": "heart"
+  },
+  {
+    "spanish": "el cuerpo",
+    "english": "body"
+  },
+  {
+    "spanish": "de cerdo",
+    "english": "pork (adj. phrase)"
+  },
+  {
+    "spanish": "de cordero",
+    "english": "lamb (adj. phrase)"
+  },
+  {
+    "spanish": "de ternera",
+    "english": "veal (adj. phrase)"
+  },
+  {
+    "spanish": "de vaca",
+    "english": "beef (adj. phrase)"
+  },
+  {
+    "spanish": "la depresión",
+    "english": "depression"
+  },
+  {
+    "spanish": "el desayuno",
+    "english": "breakfast"
+  },
+  {
+    "spanish": "la dieta",
+    "english": "diet"
+  },
+  {
+    "spanish": "el dolor",
+    "english": "pain"
+  },
+  {
+    "spanish": "la droga (blanda)",
+    "english": "(soft) drug"
+  },
+  {
+    "spanish": "la droga (dura)",
+    "english": "(hard) drug"
+  },
+  {
+    "spanish": "dulce",
+    "english": "sweet (adj.)"
+  },
+  {
+    "spanish": "el ejercicio (físico)",
+    "english": "(physical) exercise"
+  },
+  {
+    "spanish": "la enfermedad",
+    "english": "illness"
+  },
+  {
+    "spanish": "enfermo",
+    "english": "ill"
+  },
+  {
+    "spanish": "la ensalada",
+    "english": "salad"
+  },
+  {
+    "spanish": "el entrenamiento",
+    "english": "training"
+  },
+  {
+    "spanish": "los espaguetis",
+    "english": "spaghetti"
+  },
+  {
+    "spanish": "la farmacia",
+    "english": "chemists"
+  },
+  {
+    "spanish": "el filete",
+    "english": "steak (f)"
+  },
+  {
+    "spanish": "el flan",
+    "english": "crème caramel"
+  },
+  {
+    "spanish": "la fresa",
+    "english": "strawberry"
+  },
+  {
+    "spanish": "frito",
+    "english": "fried"
+  },
+  {
+    "spanish": "la fruta",
+    "english": "fruit"
+  },
+  {
+    "spanish": "el fumador",
+    "english": "smoker"
+  },
+  {
+    "spanish": "la galleta",
+    "english": "biscuit"
+  },
+  {
+    "spanish": "las gambas",
+    "english": "prawns"
+  },
+  {
+    "spanish": "el gazpacho",
+    "english": "cold vegetable soup"
+  },
+  {
+    "spanish": "la grasa",
+    "english": "fat"
+  },
+  {
+    "spanish": "los guisantes",
+    "english": "peas"
+  },
+  {
+    "spanish": "el hábito",
+    "english": "habit"
+  },
+  {
+    "spanish": "la hamburguesa",
+    "english": "hamburger"
+  },
+  {
+    "spanish": "el helado",
+    "english": "ice cream"
+  },
+  {
+    "spanish": "el huevo",
+    "english": "egg"
+  },
+  {
+    "spanish": "el humo",
+    "english": "smoke"
+  },
+  {
+    "spanish": "la inyección",
+    "english": "injection"
+  },
+  {
+    "spanish": "el jamón (de york)",
+    "english": "boiled ham"
+  },
+  {
+    "spanish": "el jamón serrano",
+    "english": "Parma ham"
+  },
+  {
+    "spanish": "las judías verdes",
+    "english": "green beans"
+  },
+  {
+    "spanish": "la leche",
+    "english": "milk"
+  },
+  {
+    "spanish": "la lechuga",
+    "english": "lettuce"
+  },
+  {
+    "spanish": "las legumbres",
+    "english": "vegetables (l)"
+  },
+  {
+    "spanish": "el limón",
+    "english": "lemon"
+  },
+  {
+    "spanish": "la limonada",
+    "english": "lemonade"
+  },
+  {
+    "spanish": "la mantequilla",
+    "english": "butter"
+  },
+  {
+    "spanish": "la manzana",
+    "english": "apple"
+  },
+  {
+    "spanish": "los mariscos",
+    "english": "seafood"
+  },
+  {
+    "spanish": "el melocotón",
+    "english": "peach"
+  },
+  {
+    "spanish": "la merienda",
+    "english": "snack/picnic"
+  },
+  {
+    "spanish": "la mermelada",
+    "english": "jam"
+  },
+  {
+    "spanish": "muerto",
+    "english": "dead"
+  },
+  {
+    "spanish": "la naranja",
+    "english": "orange"
+  },
+  {
+    "spanish": "la naranjada",
+    "english": "orangeade"
+  },
+  {
+    "spanish": "la nata",
+    "english": "cream"
+  },
+  {
+    "spanish": "la nuez",
+    "english": "nut"
+  },
+  {
+    "spanish": "la paella",
+    "english": "paella"
+  },
+  {
+    "spanish": "el pan",
+    "english": "bread"
+  },
+  {
+    "spanish": "la pasta",
+    "english": "pasta"
+  },
+  {
+    "spanish": "el pastel",
+    "english": "cake (p)"
+  },
+  {
+    "spanish": "la patata",
+    "english": "potato"
+  },
+  {
+    "spanish": "las patatas fritas",
+    "english": "chips/crisps"
+  },
+  {
+    "spanish": "la pera",
+    "english": "pear"
+  },
+  {
+    "spanish": "el perrito caliente",
+    "english": "hot dog"
+  },
+  {
+    "spanish": "el pescado",
+    "english": "fish (for eating)"
+  },
+  {
+    "spanish": "picante",
+    "english": "spicy"
+  },
+  {
+    "spanish": "el pimiento",
+    "english": "bell pepper (the vegetable)"
+  },
+  {
+    "spanish": "la pimienta",
+    "english": "pepper (the spice)"
+  },
+  {
+    "spanish": "la piña",
+    "english": "pineapple"
+  },
+  {
+    "spanish": "el plátano",
+    "english": "banana"
+  },
+  {
+    "spanish": "el pollo",
+    "english": "chicken"
+  },
+  {
+    "spanish": "los pulmones",
+    "english": "lungs"
+  },
+  {
+    "spanish": "el queso",
+    "english": "cheese"
+  },
+  {
+    "spanish": "la rehabilitación",
+    "english": "rehabilitation"
+  },
+  {
+    "spanish": "rico",
+    "english": "tasty; wealthy (r)"
+  },
+  {
+    "spanish": "la sal",
+    "english": "salt"
+  },
+  {
+    "spanish": "salado",
+    "english": "salty"
+  },
+  {
+    "spanish": "la salchicha",
+    "english": "sausage"
+  },
+  {
+    "spanish": "el salchichón",
+    "english": "salami-type sausage"
+  },
+  {
+    "spanish": "la salsa",
+    "english": "sauce"
+  },
+  {
+    "spanish": "la salud",
+    "english": "health"
+  },
+  {
+    "spanish": "saludable",
+    "english": "healthy (not \"sano\")"
+  },
+  {
+    "spanish": "la sangría",
+    "english": "sangria"
+  },
+  {
+    "spanish": "sano",
+    "english": "healthy (not \"saludable\")"
+  },
+  {
+    "spanish": "la sardina",
+    "english": "sardine"
+  },
+  {
+    "spanish": "la sopa",
+    "english": "soup"
+  },
+  {
+    "spanish": "el tabaco",
+    "english": "tobacco"
+  },
+  {
+    "spanish": "las tapas",
+    "english": "snacks"
+  },
+  {
+    "spanish": "la tarta",
+    "english": "cake (t)"
+  },
+  {
+    "spanish": "el té",
+    "english": "tea"
+  },
+  {
+    "spanish": "la tentación",
+    "english": "temptation"
+  },
+  {
+    "spanish": "el tomate",
+    "english": "tomato"
+  },
+  {
+    "spanish": "la tortilla",
+    "english": "omelette"
+  },
+  {
+    "spanish": "la tostada",
+    "english": "piece of toast"
+  },
+  {
+    "spanish": "las uvas",
+    "english": "grapes"
+  },
+  {
+    "spanish": "la vainilla",
+    "english": "vanilla"
+  },
+  {
+    "spanish": "vegetariano",
+    "english": "vegetarian"
+  },
+  {
+    "spanish": "las verduras",
+    "english": "vegetables (v)"
+  },
+  {
+    "spanish": "el vinagre",
+    "english": "vinegar"
+  },
+  {
+    "spanish": "el vino (blanco)",
+    "english": "(white) wine"
+  },
+  {
+    "spanish": "el vino (rosado)",
+    "english": "(rosé) wine"
+  },
+  {
+    "spanish": "el vino (tinto)",
+    "english": "(red) wine"
+  },
+  {
+    "spanish": "el yogur",
+    "english": "yogurt"
+  },
+  {
+    "spanish": "la zanahoria",
+    "english": "carrot"
+  },
+  {
+    "spanish": "el zumo (de fruta)",
+    "english": "(fruit) juice"
+  },
+  {
+    "spanish": "acostarse",
+    "english": "to go to bed"
+  },
+  {
+    "spanish": "afectar",
+    "english": "to affect"
+  },
+  {
+    "spanish": "arreglar",
+    "english": "to tidy/to repair"
+  },
+  {
+    "spanish": "beber",
+    "english": "to drink"
+  },
+  {
+    "spanish": "caerse",
+    "english": "to fall"
+  },
+  {
+    "spanish": "causar",
+    "english": "to cause"
+  },
+  {
+    "spanish": "cenar",
+    "english": "to have dinner/supper"
+  },
+  {
+    "spanish": "cocinar",
+    "english": "to cook"
+  },
+  {
+    "spanish": "comer",
+    "english": "to eat"
+  },
+  {
+    "spanish": "dejar de (+ inf.)",
+    "english": "to stop doing something (+ inf.)"
+  },
+  {
+    "spanish": "desayunar",
+    "english": "to have breakfast"
+  },
+  {
+    "spanish": "despertarse",
+    "english": "to wake up"
+  },
+  {
+    "spanish": "dormirse",
+    "english": "to go to sleep"
+  },
+  {
+    "spanish": "drogarse",
+    "english": "to take drugs"
+  },
+  {
+    "spanish": "emborracharse",
+    "english": "to get drunk"
+  },
+  {
+    "spanish": "encontrarse bien",
+    "english": "to feel well"
+  },
+  {
+    "spanish": "encontrarse mal",
+    "english": "to feel ill"
+  },
+  {
+    "spanish": "entrenarse",
+    "english": "to train"
+  },
+  {
+    "spanish": "estar en forma",
+    "english": "to be fit/in shape"
+  },
+  {
+    "spanish": "evitar",
+    "english": "to avoid"
+  },
+  {
+    "spanish": "fumar",
+    "english": "to smoke"
+  },
+  {
+    "spanish": "hacer aerobic",
+    "english": "to do aerobics"
+  },
+  {
+    "spanish": "hacer (ejercicio)",
+    "english": "to do (exercise)"
+  },
+  {
+    "spanish": "lavar",
+    "english": "to wash"
+  },
+  {
+    "spanish": "levantarse",
+    "english": "to get up"
+  },
+  {
+    "spanish": "limpiar",
+    "english": "to clean"
+  },
+  {
+    "spanish": "mantenerse en forma",
+    "english": "to keep oneself fit"
+  },
+  {
+    "spanish": "mejorar(se)",
+    "english": "to get better/to improve"
+  },
+  {
+    "spanish": "morir",
+    "english": "to die"
+  },
+  {
+    "spanish": "oler",
+    "english": "to smell"
+  },
+  {
+    "spanish": "preocuparse",
+    "english": "to worry"
+  },
+  {
+    "spanish": "preparar",
+    "english": "to prepare"
+  },
+  {
+    "spanish": "rehabilitar",
+    "english": "to rehabilitate"
+  },
+  {
+    "spanish": "relajarse",
+    "english": "to relax"
+  },
+  {
+    "spanish": "respirar",
+    "english": "to breathe"
+  },
+  {
+    "spanish": "tener dolor de...",
+    "english": "to have a pain(ful)..."
+  },
+  {
+    "spanish": "tener hambre",
+    "english": "to be hungry"
+  },
+  {
+    "spanish": "tener miedo",
+    "english": "to be afraid"
+  },
+  {
+    "spanish": "tener sed",
+    "english": "to be thirsty"
+  },
+  {
+    "spanish": "tener sueño",
+    "english": "to be sleepy"
+  },
+  {
+    "spanish": "tomar",
+    "english": "to take (t)"
+  },
+  {
+    "spanish": "la cebolla",
+    "english": "onion"
+  },
+  {
+    "spanish": "la cena",
+    "english": "dinner/supper"
+  },
+  {
+    "spanish": "la chuleta",
+    "english": "chop/cutlet"
+  }
+]

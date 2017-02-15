@@ -1,0 +1,654 @@
+[
+  {
+    "spanish": "las afueras",
+    "english": "outskirts"
+  },
+  {
+    "spanish": "la alfombra",
+    "english": "carpet/rug (a)"
+  },
+  {
+    "spanish": "alquilado",
+    "english": "rented"
+  },
+  {
+    "spanish": "el aniversario",
+    "english": "anniversary/birthday"
+  },
+  {
+    "spanish": "el aparcamiento",
+    "english": "car parking"
+  },
+  {
+    "spanish": "el apartamento",
+    "english": "apartment/flat"
+  },
+  {
+    "spanish": "el árbol",
+    "english": "tree"
+  },
+  {
+    "spanish": "el armario",
+    "english": "cupboard/wardrobe"
+  },
+  {
+    "spanish": "el ascensor",
+    "english": "lift"
+  },
+  {
+    "spanish": "el aseo",
+    "english": "toilet"
+  },
+  {
+    "spanish": "el ayuntamiento",
+    "english": "town hall"
+  },
+  {
+    "spanish": "el banco",
+    "english": "bank/bench"
+  },
+  {
+    "spanish": "el baño",
+    "english": "bath"
+  },
+  {
+    "spanish": "el barrio",
+    "english": "district/area"
+  },
+  {
+    "spanish": "la biblioteca",
+    "english": "library"
+  },
+  {
+    "spanish": "el bloque",
+    "english": "block (of flats)"
+  },
+  {
+    "spanish": "la bolera",
+    "english": "bowling alley"
+  },
+  {
+    "spanish": "el bosque",
+    "english": "wood/forest (b)"
+  },
+  {
+    "spanish": "la butaca",
+    "english": "armchair (b)"
+  },
+  {
+    "spanish": "la calefacción",
+    "english": "heating"
+  },
+  {
+    "spanish": "la calle",
+    "english": "street"
+  },
+  {
+    "spanish": "la cama",
+    "english": "bed"
+  },
+  {
+    "spanish": "el campo",
+    "english": "country(side)"
+  },
+  {
+    "spanish": "la cancha (de tenis)",
+    "english": "(tennis) court"
+  },
+  {
+    "spanish": "la casa",
+    "english": "house (c)"
+  },
+  {
+    "spanish": "la casa adosada",
+    "english": "semi-detached house"
+  },
+  {
+    "spanish": "el castillo",
+    "english": "castle"
+  },
+  {
+    "spanish": "la catedral",
+    "english": "cathedral"
+  },
+  {
+    "spanish": "el centro",
+    "english": "center"
+  },
+  {
+    "spanish": "el centro comercial",
+    "english": "shopping centre"
+  },
+  {
+    "spanish": "el césped",
+    "english": "lawn"
+  },
+  {
+    "spanish": "el chalet",
+    "english": "detached house (not \"el chalé\")"
+  },
+  {
+    "spanish": "el chalé",
+    "english": "detached house (not \"el chalet\")"
+  },
+  {
+    "spanish": "la chimenea",
+    "english": "chimney/fireplace"
+  },
+  {
+    "spanish": "el cine",
+    "english": "cinema"
+  },
+  {
+    "spanish": "la ciudad",
+    "english": "city"
+  },
+  {
+    "spanish": "el club de jóvenes",
+    "english": "youth club"
+  },
+  {
+    "spanish": "la cocina",
+    "english": "kitchen"
+  },
+  {
+    "spanish": "la cocina (de gas)",
+    "english": "gas cooker"
+  },
+  {
+    "spanish": "la cocina eléctrica",
+    "english": "electric cooker"
+  },
+  {
+    "spanish": "el comedor",
+    "english": "dining room"
+  },
+  {
+    "spanish": "la comisaría",
+    "english": "police station"
+  },
+  {
+    "spanish": "cómodo",
+    "english": "comfortable"
+  },
+  {
+    "spanish": "el concierto",
+    "english": "concert"
+  },
+  {
+    "spanish": "la construcción",
+    "english": "construction"
+  },
+  {
+    "spanish": "Correos",
+    "english": "post office"
+  },
+  {
+    "spanish": "la cortina",
+    "english": "curtain"
+  },
+  {
+    "spanish": "el cuarto de baño",
+    "english": "bathroom"
+  },
+  {
+    "spanish": "el cumpleaños",
+    "english": "birthday"
+  },
+  {
+    "spanish": "la dirección",
+    "english": "management"
+  },
+  {
+    "spanish": "la discoteca",
+    "english": "discotheque"
+  },
+  {
+    "spanish": "el dormitorio",
+    "english": "bedroom"
+  },
+  {
+    "spanish": "la ducha",
+    "english": "shower"
+  },
+  {
+    "spanish": "el edificio",
+    "english": "building"
+  },
+  {
+    "spanish": "la entrada",
+    "english": "entrance"
+  },
+  {
+    "spanish": "la equitación",
+    "english": "horse riding"
+  },
+  {
+    "spanish": "la escalera",
+    "english": "staircase"
+  },
+  {
+    "spanish": "el espacio",
+    "english": "space"
+  },
+  {
+    "spanish": "el espejo",
+    "english": "mirror"
+  },
+  {
+    "spanish": "la esquina",
+    "english": "corner"
+  },
+  {
+    "spanish": "la estación",
+    "english": "station"
+  },
+  {
+    "spanish": "la estación de servicio",
+    "english": "service station"
+  },
+  {
+    "spanish": "el estanco",
+    "english": "tobacconist's (e)"
+  },
+  {
+    "spanish": "el estante",
+    "english": "shelf"
+  },
+  {
+    "spanish": "la estantería",
+    "english": "bookcase/shelving"
+  },
+  {
+    "spanish": "el estéreo",
+    "english": "stereo"
+  },
+  {
+    "spanish": "la fábrica",
+    "english": "factory"
+  },
+  {
+    "spanish": "la fiesta de cumpleaños",
+    "english": "birthday party"
+  },
+  {
+    "spanish": "la flor",
+    "english": "flower"
+  },
+  {
+    "spanish": "el fregadero",
+    "english": "sink"
+  },
+  {
+    "spanish": "el frigorífico",
+    "english": "fridge (f)"
+  },
+  {
+    "spanish": "la galería (de arte)",
+    "english": "(art) gallery"
+  },
+  {
+    "spanish": "el garaje",
+    "english": "garage"
+  },
+  {
+    "spanish": "la granja",
+    "english": "farm"
+  },
+  {
+    "spanish": "la habitación",
+    "english": "room"
+  },
+  {
+    "spanish": "el habitante",
+    "english": "inhabitant"
+  },
+  {
+    "spanish": "histórico",
+    "english": "historic(al)"
+  },
+  {
+    "spanish": "la iglesia",
+    "english": "church"
+  },
+  {
+    "spanish": "la industria",
+    "english": "industry"
+  },
+  {
+    "spanish": "industrial",
+    "english": "industrial"
+  },
+  {
+    "spanish": "el jardín",
+    "english": "garden"
+  },
+  {
+    "spanish": "el ladrón",
+    "english": "thief"
+  },
+  {
+    "spanish": "el lago",
+    "english": "lake"
+  },
+  {
+    "spanish": "la lámpara",
+    "english": "lamp"
+  },
+  {
+    "spanish": "el lavabo",
+    "english": "washbasin"
+  },
+  {
+    "spanish": "la lavadora",
+    "english": "washing machine"
+  },
+  {
+    "spanish": "el lavaplatos",
+    "english": "dishwasher"
+  },
+  {
+    "spanish": "la librería",
+    "english": "bookcase/bookshop"
+  },
+  {
+    "spanish": "limpio",
+    "english": "clean"
+  },
+  {
+    "spanish": "la llave",
+    "english": "key"
+  },
+  {
+    "spanish": "la luz",
+    "english": "light"
+  },
+  {
+    "spanish": "la manta",
+    "english": "blanket"
+  },
+  {
+    "spanish": "la máquina",
+    "english": "machine"
+  },
+  {
+    "spanish": "la mesa",
+    "english": "table"
+  },
+  {
+    "spanish": "la mezquita",
+    "english": "mosque"
+  },
+  {
+    "spanish": "el microondas",
+    "english": "microwave"
+  },
+  {
+    "spanish": "el monumento",
+    "english": "monument"
+  },
+  {
+    "spanish": "la moqueta",
+    "english": "carpet/rug (m)"
+  },
+  {
+    "spanish": "los muebles",
+    "english": "furniture"
+  },
+  {
+    "spanish": "el museo",
+    "english": "museum"
+  },
+  {
+    "spanish": "la nevera",
+    "english": "fridge (n)"
+  },
+  {
+    "spanish": "el palacio",
+    "english": "palace"
+  },
+  {
+    "spanish": "la papelera",
+    "english": "wastepaper bin"
+  },
+  {
+    "spanish": "la pared",
+    "english": "wall"
+  },
+  {
+    "spanish": "el parque de atracciones",
+    "english": "amusement park"
+  },
+  {
+    "spanish": "el parque infantil",
+    "english": "children's playground"
+  },
+  {
+    "spanish": "el pasillo",
+    "english": "corridor"
+  },
+  {
+    "spanish": "el patio",
+    "english": "courtyard"
+  },
+  {
+    "spanish": "pintado",
+    "english": "painted"
+  },
+  {
+    "spanish": "la piscina",
+    "english": "swimming pool"
+  },
+  {
+    "spanish": "el piso",
+    "english": "floor/flat"
+  },
+  {
+    "spanish": "la planta",
+    "english": "floor/plant"
+  },
+  {
+    "spanish": "la planta baja",
+    "english": "ground floor"
+  },
+  {
+    "spanish": "la plaza",
+    "english": "square"
+  },
+  {
+    "spanish": "el polideportivo",
+    "english": "sports centre"
+  },
+  {
+    "spanish": "propio",
+    "english": "own"
+  },
+  {
+    "spanish": "la provincia",
+    "english": "province"
+  },
+  {
+    "spanish": "el pueblo",
+    "english": "small town"
+  },
+  {
+    "spanish": "el puente",
+    "english": "bridge"
+  },
+  {
+    "spanish": "la puerta",
+    "english": "door"
+  },
+  {
+    "spanish": "el puerto",
+    "english": "port"
+  },
+  {
+    "spanish": "el radiador",
+    "english": "radiator"
+  },
+  {
+    "spanish": "la región",
+    "english": "region/area"
+  },
+  {
+    "spanish": "residencial",
+    "english": "residential"
+  },
+  {
+    "spanish": "el río",
+    "english": "river"
+  },
+  {
+    "spanish": "el ruido",
+    "english": "noise"
+  },
+  {
+    "spanish": "ruidoso",
+    "english": "noisy"
+  },
+  {
+    "spanish": "la sala de estar",
+    "english": "living room"
+  },
+  {
+    "spanish": "el salón",
+    "english": "lounge"
+  },
+  {
+    "spanish": "el santo",
+    "english": "saint"
+  },
+  {
+    "spanish": "el semáforo",
+    "english": "traffic lights"
+  },
+  {
+    "spanish": "la sierra",
+    "english": "mountain range"
+  },
+  {
+    "spanish": "la silla",
+    "english": "chair"
+  },
+  {
+    "spanish": "el sillón",
+    "english": "armchair (s)"
+  },
+  {
+    "spanish": "el sofá",
+    "english": "sofa"
+  },
+  {
+    "spanish": "el sótano",
+    "english": "basement/cellar"
+  },
+  {
+    "spanish": "el suelo",
+    "english": "floor/ground"
+  },
+  {
+    "spanish": "el teatro",
+    "english": "theatre"
+  },
+  {
+    "spanish": "el teléfono (móvil)",
+    "english": "(mobile) phone"
+  },
+  {
+    "spanish": "el televisor",
+    "english": "television set"
+  },
+  {
+    "spanish": "la terraza",
+    "english": "terrace"
+  },
+  {
+    "spanish": "la tienda",
+    "english": "shop"
+  },
+  {
+    "spanish": "la ventana",
+    "english": "window"
+  },
+  {
+    "spanish": "la vida",
+    "english": "life"
+  },
+  {
+    "spanish": "la zona",
+    "english": "area"
+  },
+  {
+    "spanish": "la zona peatonal",
+    "english": "pedestrian precinct"
+  },
+  {
+    "spanish": "alquilar",
+    "english": "to rent/to hire"
+  },
+  {
+    "spanish": "arreglar",
+    "english": "to tidy/to repair"
+  },
+  {
+    "spanish": "bajar",
+    "english": "to go down"
+  },
+  {
+    "spanish": "celebrar",
+    "english": "to celebrate"
+  },
+  {
+    "spanish": "coger",
+    "english": "to take (c)"
+  },
+  {
+    "spanish": "compartir",
+    "english": "to share"
+  },
+  {
+    "spanish": "construir",
+    "english": "to build"
+  },
+  {
+    "spanish": "cumplir...años",
+    "english": "to be...years old"
+  },
+  {
+    "spanish": "dar a",
+    "english": "to look onto"
+  },
+  {
+    "spanish": "enseñar",
+    "english": "to show/to teach"
+  },
+  {
+    "spanish": "entrar",
+    "english": "to go in"
+  },
+  {
+    "spanish": "montar a caballo",
+    "english": "to ride (a horse)"
+  },
+  {
+    "spanish": "mostrar",
+    "english": "to show"
+  },
+  {
+    "spanish": "mudarse (de casa)",
+    "english": "to move (house)"
+  },
+  {
+    "spanish": "sentarse",
+    "english": "to sit down"
+  },
+  {
+    "spanish": "subir",
+    "english": "to go up"
+  },
+  {
+    "spanish": "vivir",
+    "english": "to live"
+  }
+]

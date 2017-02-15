@@ -1,0 +1,90 @@
+[
+  {
+    "spanish": "a pesar de",
+    "english": "in spite of"
+  },
+  {
+    "spanish": "así que",
+    "english": "so, therefore (a); as soon as"
+  },
+  {
+    "spanish": "aun (si)",
+    "english": "even (if) (a..)"
+  },
+  {
+    "spanish": "aunque",
+    "english": "although"
+  },
+  {
+    "spanish": "como",
+    "english": "like/as"
+  },
+  {
+    "spanish": "cuando",
+    "english": "when"
+  },
+  {
+    "spanish": "incluso",
+    "english": "even (i)"
+  },
+  {
+    "spanish": "mientras (que)",
+    "english": "while"
+  },
+  {
+    "spanish": "o",
+    "english": "or"
+  },
+  {
+    "spanish": "u",
+    "english": "or (preceding word beginning with \"o\" sound)"
+  },
+  {
+    "spanish": "pero",
+    "english": "but (p)"
+  },
+  {
+    "spanish": "por eso",
+    "english": "for that reason"
+  },
+  {
+    "spanish": "por lo tanto",
+    "english": "so/therefore (p)"
+  },
+  {
+    "spanish": "porque",
+    "english": "because"
+  },
+  {
+    "spanish": "pues",
+    "english": "then (p)"
+  },
+  {
+    "spanish": "si",
+    "english": "if"
+  },
+  {
+    "spanish": "sin embargo",
+    "english": "however"
+  },
+  {
+    "spanish": "tal vez",
+    "english": "perhaps (t)"
+  },
+  {
+    "spanish": "también",
+    "english": "also"
+  },
+  {
+    "spanish": "y",
+    "english": "and"
+  },
+  {
+    "spanish": "e",
+    "english": "and (preceding words beginning with i- or hi- sounds)"
+  },
+  {
+    "spanish": "ya (que)",
+    "english": "as/since"
+  }
+]
