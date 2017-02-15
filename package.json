@@ -1,0 +1,11 @@
+{
+  "name": "cli-flashcards",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/wongterrencew/cli-flashcards.git",
+  "author": "Terrence Wong <wongterrencew@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.1.2"
+  }
+}
