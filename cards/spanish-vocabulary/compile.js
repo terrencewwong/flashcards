@@ -6,4 +6,4 @@ const dictionary = files
   .map(file => require(path.join(DIR, file)))
   .reduce((allWords, words) => allWords.concat(words), [])
 
-console.log(dictionary)
+console.log(JSON.stringify(dictionary))
