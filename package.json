@@ -7,5 +7,9 @@
   "license": "MIT",
   "dependencies": {
     "colors": "^1.1.2"
+  },
+  "scripts": {
+    "compile": "yarn run compile:cards:spanish",
+    "compile:cards:spanish": "cd cards/spanish-vocabulary &&  node compile.js > all.json"
   }
 }
