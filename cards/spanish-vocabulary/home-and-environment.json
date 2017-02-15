@@ -1,0 +1,294 @@
+[
+  {
+    "spanish": "a pie",
+    "english": "on foot"
+  },
+  {
+    "spanish": "el accidente",
+    "english": "accident"
+  },
+  {
+    "spanish": "el aire",
+    "english": "air"
+  },
+  {
+    "spanish": "el atasco",
+    "english": "traffic jam"
+  },
+  {
+    "spanish": "la atmósfera",
+    "english": "atmosphere"
+  },
+  {
+    "spanish": "la basura",
+    "english": "rubbish"
+  },
+  {
+    "spanish": "la bolsa plástica",
+    "english": "plastic bag"
+  },
+  {
+    "spanish": "la campaña",
+    "english": "campaign"
+  },
+  {
+    "spanish": "la capa de ozono",
+    "english": "ozone layer"
+  },
+  {
+    "spanish": "el cartón",
+    "english": "cardboard"
+  },
+  {
+    "spanish": "la contaminación",
+    "english": "pollution"
+  },
+  {
+    "spanish": "el contenedor",
+    "english": "container"
+  },
+  {
+    "spanish": "el daño",
+    "english": "damage"
+  },
+  {
+    "spanish": "el desastre",
+    "english": "disaster"
+  },
+  {
+    "spanish": "la destrucción",
+    "english": "destruction"
+  },
+  {
+    "spanish": "ecológico",
+    "english": "ecological/environmentally friendly"
+  },
+  {
+    "spanish": "la electricidad",
+    "english": "electricity"
+  },
+  {
+    "spanish": "eléctrico",
+    "english": "electric"
+  },
+  {
+    "spanish": "la energía",
+    "english": "energy"
+  },
+  {
+    "spanish": "la extinción",
+    "english": "extinction"
+  },
+  {
+    "spanish": "el fuego",
+    "english": "fire"
+  },
+  {
+    "spanish": "la gasolina sin plomo",
+    "english": "unleaded petrol"
+  },
+  {
+    "spanish": "grave",
+    "english": "serious"
+  },
+  {
+    "spanish": "el medio ambiente",
+    "english": "environment"
+  },
+  {
+    "spanish": "medioambiental",
+    "english": "environmental"
+  },
+  {
+    "spanish": "mundial",
+    "english": "world (adj.)"
+  },
+  {
+    "spanish": "el mundo",
+    "english": "world"
+  },
+  {
+    "spanish": "la naturaleza",
+    "english": "nature"
+  },
+  {
+    "spanish": "el oxígeno",
+    "english": "oxygen"
+  },
+  {
+    "spanish": "el peligro",
+    "english": "danger"
+  },
+  {
+    "spanish": "peligroso",
+    "english": "dangerous"
+  },
+  {
+    "spanish": "el petróleo",
+    "english": "oil, petroleum, crude oil"
+  },
+  {
+    "spanish": "la pila",
+    "english": "battery"
+  },
+  {
+    "spanish": "el planeta",
+    "english": "planet"
+  },
+  {
+    "spanish": "poco sano",
+    "english": "not very healthy"
+  },
+  {
+    "spanish": "preocupado",
+    "english": "worried"
+  },
+  {
+    "spanish": "el problema",
+    "english": "problem"
+  },
+  {
+    "spanish": "los productos químicos",
+    "english": "chemicals"
+  },
+  {
+    "spanish": "químico",
+    "english": "chemical (adj.)"
+  },
+  {
+    "spanish": "recargable",
+    "english": "rechargeable"
+  },
+  {
+    "spanish": "reciclable",
+    "english": "recyclable"
+  },
+  {
+    "spanish": "el reciclaje",
+    "english": "recycling"
+  },
+  {
+    "spanish": "los residuos orgánicos",
+    "english": "organic waste"
+  },
+  {
+    "spanish": "el spray",
+    "english": "aerosol"
+  },
+  {
+    "spanish": "sucio",
+    "english": "dirty"
+  },
+  {
+    "spanish": "la Tierra",
+    "english": "Earth"
+  },
+  {
+    "spanish": "tóxico",
+    "english": "toxic/poisonous"
+  },
+  {
+    "spanish": "el tráfico",
+    "english": "traffic"
+  },
+  {
+    "spanish": "el transporte",
+    "english": "transport"
+  },
+  {
+    "spanish": "el uso",
+    "english": "use"
+  },
+  {
+    "spanish": "el vehículo",
+    "english": "vehicle"
+  },
+  {
+    "spanish": "apagar",
+    "english": "to turn off"
+  },
+  {
+    "spanish": "ayudar",
+    "english": "to help"
+  },
+  {
+    "spanish": "contaminar",
+    "english": "to pollute"
+  },
+  {
+    "spanish": "dañar",
+    "english": "to damage"
+  },
+  {
+    "spanish": "desaparecer",
+    "english": "to disappear"
+  },
+  {
+    "spanish": "ducharse",
+    "english": "to have a shower"
+  },
+  {
+    "spanish": "encender",
+    "english": "to light/ to turn on"
+  },
+  {
+    "spanish": "ensuciar",
+    "english": "to (make) dirty"
+  },
+  {
+    "spanish": "malgastar",
+    "english": "to waste"
+  },
+  {
+    "spanish": "matar",
+    "english": "to kill"
+  },
+  {
+    "spanish": "producir",
+    "english": "to produce"
+  },
+  {
+    "spanish": "proteger",
+    "english": "to protect"
+  },
+  {
+    "spanish": "reciclar",
+    "english": "to recycle"
+  },
+  {
+    "spanish": "recoger",
+    "english": "to pick up/to collect"
+  },
+  {
+    "spanish": "reducir",
+    "english": "to reduce"
+  },
+  {
+    "spanish": "reutilizar",
+    "english": "to reuse"
+  },
+  {
+    "spanish": "salvar",
+    "english": "to save (s)"
+  },
+  {
+    "spanish": "separar la basura",
+    "english": "to separate the rubbish"
+  },
+  {
+    "spanish": "tirar",
+    "english": "to throw (away)"
+  },
+  {
+    "spanish": "transportar",
+    "english": "to transport"
+  },
+  {
+    "spanish": "usar",
+    "english": "to use (not \"utilizar\")"
+  },
+  {
+    "spanish": "utilizar",
+    "english": "to use (not \"usar\")"
+  }
+]

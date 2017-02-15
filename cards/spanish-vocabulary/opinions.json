@@ -1,0 +1,466 @@
+[
+  {
+    "spanish": "aburrido",
+    "english": "boring"
+  },
+  {
+    "spanish": "aceptable",
+    "english": "acceptable"
+  },
+  {
+    "spanish": "afortunado",
+    "english": "fortunate/lucky"
+  },
+  {
+    "spanish": "agradable",
+    "english": "pleasant"
+  },
+  {
+    "spanish": "antiguo",
+    "english": "old/former (a)"
+  },
+  {
+    "spanish": "apropiado",
+    "english": "appropriate/suitable"
+  },
+  {
+    "spanish": "barato",
+    "english": "cheap"
+  },
+  {
+    "spanish": "bonito",
+    "english": "pretty"
+  },
+  {
+    "spanish": "bueno",
+    "english": "good"
+  },
+  {
+    "spanish": "la calidad",
+    "english": "quality"
+  },
+  {
+    "spanish": "caro",
+    "english": "expensive"
+  },
+  {
+    "spanish": "decepcionado",
+    "english": "disappointed"
+  },
+  {
+    "spanish": "decepcionante",
+    "english": "disappointing"
+  },
+  {
+    "spanish": "desafortunadamente",
+    "english": "unfortunately"
+  },
+  {
+    "spanish": "desagradable",
+    "english": "unpleasant"
+  },
+  {
+    "spanish": "la desventaja",
+    "english": "disadvantage"
+  },
+  {
+    "spanish": "la diferencia",
+    "english": "difference"
+  },
+  {
+    "spanish": "diferente",
+    "english": "different (not \"distinto\")"
+  },
+  {
+    "spanish": "difícil",
+    "english": "difficult"
+  },
+  {
+    "spanish": "la dificultad",
+    "english": "difficulty"
+  },
+  {
+    "spanish": "distinto",
+    "english": "different (not \"diferente\")"
+  },
+  {
+    "spanish": "divertido",
+    "english": "entertaining/fun (d)"
+  },
+  {
+    "spanish": "duro",
+    "english": "hard"
+  },
+  {
+    "spanish": "económico",
+    "english": "economical"
+  },
+  {
+    "spanish": "emocionante",
+    "english": "moving/exciting"
+  },
+  {
+    "spanish": "encantador",
+    "english": "delightful"
+  },
+  {
+    "spanish": "entretenido",
+    "english": "entertaining (e)"
+  },
+  {
+    "spanish": "especial",
+    "english": "special"
+  },
+  {
+    "spanish": "espléndido",
+    "english": "splendid"
+  },
+  {
+    "spanish": "estupendo",
+    "english": "marvellous"
+  },
+  {
+    "spanish": "estúpido",
+    "english": "stupid (e)"
+  },
+  {
+    "spanish": "excelente",
+    "english": "excellent (e)"
+  },
+  {
+    "spanish": "extraordinario",
+    "english": "extraordinary"
+  },
+  {
+    "spanish": "fácil",
+    "english": "easy"
+  },
+  {
+    "spanish": "famoso",
+    "english": "famous"
+  },
+  {
+    "spanish": "fantástico",
+    "english": "fantastic"
+  },
+  {
+    "spanish": "fascinante",
+    "english": "fascinating"
+  },
+  {
+    "spanish": "fatal",
+    "english": "awful"
+  },
+  {
+    "spanish": "favorable",
+    "english": "favourable"
+  },
+  {
+    "spanish": "favorito",
+    "english": "favourite (f)"
+  },
+  {
+    "spanish": "fenomenal",
+    "english": "fantastic/brilliant"
+  },
+  {
+    "spanish": "feo",
+    "english": "ugly"
+  },
+  {
+    "spanish": "genial",
+    "english": "great/brilliant"
+  },
+  {
+    "spanish": "hermoso",
+    "english": "beautiful"
+  },
+  {
+    "spanish": "horroroso",
+    "english": "dreadful/hideous"
+  },
+  {
+    "spanish": "ideal",
+    "english": "ideal"
+  },
+  {
+    "spanish": "importante",
+    "english": "important"
+  },
+  {
+    "spanish": "imposible",
+    "english": "impossible"
+  },
+  {
+    "spanish": "impresionante",
+    "english": "impressive"
+  },
+  {
+    "spanish": "increíble",
+    "english": "incredible"
+  },
+  {
+    "spanish": "inseguro",
+    "english": "unsafe/uncertain"
+  },
+  {
+    "spanish": "interesante",
+    "english": "interesting"
+  },
+  {
+    "spanish": "inútil",
+    "english": "useless"
+  },
+  {
+    "spanish": "mal",
+    "english": "bad(ly)"
+  },
+  {
+    "spanish": "malo",
+    "english": "bad"
+  },
+  {
+    "spanish": "maravilloso",
+    "english": "wonderful"
+  },
+  {
+    "spanish": "moderno",
+    "english": "modern"
+  },
+  {
+    "spanish": "negativo",
+    "english": "negative"
+  },
+  {
+    "spanish": "nuevo",
+    "english": "new"
+  },
+  {
+    "spanish": "perfecto",
+    "english": "perfect"
+  },
+  {
+    "spanish": "posible",
+    "english": "possible"
+  },
+  {
+    "spanish": "positivo",
+    "english": "positive"
+  },
+  {
+    "spanish": "precioso",
+    "english": "precious"
+  },
+  {
+    "spanish": "preferido",
+    "english": "favourite (p)"
+  },
+  {
+    "spanish": "profundo",
+    "english": "profound/deep"
+  },
+  {
+    "spanish": "raro",
+    "english": "strange/odd"
+  },
+  {
+    "spanish": "regular",
+    "english": "normal"
+  },
+  {
+    "spanish": "ridículo",
+    "english": "ridiculous"
+  },
+  {
+    "spanish": "seguro",
+    "english": "safe/certain"
+  },
+  {
+    "spanish": "sencillo",
+    "english": "simple"
+  },
+  {
+    "spanish": "sorprendido",
+    "english": "surprised"
+  },
+  {
+    "spanish": "típico",
+    "english": "typical"
+  },
+  {
+    "spanish": "tonto",
+    "english": "stupid (t)"
+  },
+  {
+    "spanish": "tranquilo",
+    "english": "quiet (t)"
+  },
+  {
+    "spanish": "único",
+    "english": "only/unique"
+  },
+  {
+    "spanish": "útil",
+    "english": "useful"
+  },
+  {
+    "spanish": "la ventaja",
+    "english": "advantage"
+  },
+  {
+    "spanish": "viejo",
+    "english": "old (v)"
+  },
+  {
+    "spanish": "aburrirse",
+    "english": "to be/get bored"
+  },
+  {
+    "spanish": "adorar",
+    "english": "to love (a)"
+  },
+  {
+    "spanish": "alegrar(se)",
+    "english": "to be happy"
+  },
+  {
+    "spanish": "apreciar",
+    "english": "to appreciate/to be fond of"
+  },
+  {
+    "spanish": "aprovechar(se)",
+    "english": "to take advantage"
+  },
+  {
+    "spanish": "creer",
+    "english": "to think/to believe"
+  },
+  {
+    "spanish": "dar igual",
+    "english": "to make no difference"
+  },
+  {
+    "spanish": "decepcionar",
+    "english": "to disappoint"
+  },
+  {
+    "spanish": "decir",
+    "english": "to say"
+  },
+  {
+    "spanish": "desear",
+    "english": "to want (d)"
+  },
+  {
+    "spanish": "detestar",
+    "english": "to hate (d)"
+  },
+  {
+    "spanish": "disfrutar",
+    "english": "to enjoy"
+  },
+  {
+    "spanish": "divertirse",
+    "english": "to enjoy oneself"
+  },
+  {
+    "spanish": "dudar",
+    "english": "to doubt"
+  },
+  {
+    "spanish": "encantar",
+    "english": "to love (e)"
+  },
+  {
+    "spanish": "esperar",
+    "english": "to hope; to wait"
+  },
+  {
+    "spanish": "estar a favor",
+    "english": "to agree (e.., not \"estar de acuerdo\")"
+  },
+  {
+    "spanish": "estar en contra",
+    "english": "to disagree"
+  },
+  {
+    "spanish": "estar de acuerdo",
+    "english": "to agree (e.., not \"estar a favor\")"
+  },
+  {
+    "spanish": "estar harto de",
+    "english": "to be fed up of"
+  },
+  {
+    "spanish": "fascinar",
+    "english": "to fascinate"
+  },
+  {
+    "spanish": "fastidiar",
+    "english": "to annoy (f)"
+  },
+  {
+    "spanish": "gustar",
+    "english": "to like"
+  },
+  {
+    "spanish": "interesarse",
+    "english": "to (be of) interest"
+  },
+  {
+    "spanish": "justificar",
+    "english": "to account for/to explain"
+  },
+  {
+    "spanish": "odiar",
+    "english": "to hate (o)"
+  },
+  {
+    "spanish": "opinar",
+    "english": "to think (o)"
+  },
+  {
+    "spanish": "parecer",
+    "english": "to appear"
+  },
+  {
+    "spanish": "pasarlo bien",
+    "english": "to have a good time"
+  },
+  {
+    "spanish": "pasarlo mal",
+    "english": "to have a bad time"
+  },
+  {
+    "spanish": "pensar",
+    "english": "to think (p)"
+  },
+  {
+    "spanish": "ponerse de acuerdo",
+    "english": "to reach an agreement (p..)"
+  },
+  {
+    "spanish": "preferir",
+    "english": "to prefer"
+  },
+  {
+    "spanish": "quedar en",
+    "english": "to meet at"
+  },
+  {
+    "spanish": "querer decir",
+    "english": "to mean"
+  },
+  {
+    "spanish": "reconocer",
+    "english": "to recognize"
+  },
+  {
+    "spanish": "sentir(se)",
+    "english": "to feel"
+  },
+  {
+    "spanish": "valer la pena",
+    "english": "to be worth it"
+  }
+]

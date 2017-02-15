@@ -1,0 +1,62 @@
+[
+  {
+    "spanish": "cierto",
+    "english": "true (c)"
+  },
+  {
+    "spanish": "correcto",
+    "english": "correct"
+  },
+  {
+    "spanish": "equivocado",
+    "english": "mistaken"
+  },
+  {
+    "spanish": "exacto",
+    "english": "exact"
+  },
+  {
+    "spanish": "falso",
+    "english": "false/untrue"
+  },
+  {
+    "spanish": "la falta",
+    "english": "error"
+  },
+  {
+    "spanish": "la mentira",
+    "english": "lie"
+  },
+  {
+    "spanish": "mentiroso",
+    "english": "lying, untruthful"
+  },
+  {
+    "spanish": "la razón",
+    "english": "reason"
+  },
+  {
+    "spanish": "la verdad",
+    "english": "truth"
+  },
+  {
+    "spanish": "verdadero",
+    "english": "true (v)"
+  },
+  {
+    "spanish": "corregir",
+    "english": "to correct"
+  },
+  {
+    "spanish": "estar equivocado",
+    "english": "to be mistaken"
+  },
+  {
+    "spanish": "mentir",
+    "english": "to lie (not tell the truth)"
+  },
+  {
+    "spanish": "tener razón",
+    "english": "to be right"
+  }
+]

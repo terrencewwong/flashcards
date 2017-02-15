@@ -1,0 +1,426 @@
+[
+  {
+    "spanish": "a tiempo completo",
+    "english": "full time"
+  },
+  {
+    "spanish": "a tiempo parcial",
+    "english": "part time"
+  },
+  {
+    "spanish": "el abogado",
+    "english": "lawyer"
+  },
+  {
+    "spanish": "el ama de casa (f.)",
+    "english": "housewife (fem \"el\")"
+  },
+  {
+    "spanish": "la ambición",
+    "english": "ambition"
+  },
+  {
+    "spanish": "arroba",
+    "english": "@"
+  },
+  {
+    "spanish": "la azafata",
+    "english": "flight attendant"
+  },
+  {
+    "spanish": "la barra",
+    "english": "slash"
+  },
+  {
+    "spanish": "el bombero",
+    "english": "firefighter"
+  },
+  {
+    "spanish": "el buzón",
+    "english": "postbox"
+  },
+  {
+    "spanish": "el cajero",
+    "english": "cashier"
+  },
+  {
+    "spanish": "la calificación",
+    "english": "qualification"
+  },
+  {
+    "spanish": "calificado",
+    "english": "qualified"
+  },
+  {
+    "spanish": "el camarero",
+    "english": "waiter"
+  },
+  {
+    "spanish": "el candidato",
+    "english": "candidate"
+  },
+  {
+    "spanish": "el carnicero",
+    "english": "butcher"
+  },
+  {
+    "spanish": "el carpintero",
+    "english": "carpenter"
+  },
+  {
+    "spanish": "la carta",
+    "english": "letter (item of mail)"
+  },
+  {
+    "spanish": "el cartero",
+    "english": "postman"
+  },
+  {
+    "spanish": "la cita",
+    "english": "appointment"
+  },
+  {
+    "spanish": "la clínica",
+    "english": "clinic"
+  },
+  {
+    "spanish": "el cocinero",
+    "english": "chef"
+  },
+  {
+    "spanish": "el comerciante",
+    "english": "shopkeeper"
+  },
+  {
+    "spanish": "el comercio",
+    "english": "commerce/shop"
+  },
+  {
+    "spanish": "competente",
+    "english": "competent"
+  },
+  {
+    "spanish": "la compañía",
+    "english": "company"
+  },
+  {
+    "spanish": "las condiciones de trabajo",
+    "english": "working conditions"
+  },
+  {
+    "spanish": "el contable",
+    "english": "accountant"
+  },
+  {
+    "spanish": "el contrato",
+    "english": "contract"
+  },
+  {
+    "spanish": "el correo",
+    "english": "post"
+  },
+  {
+    "spanish": "el correo electrónico",
+    "english": "email"
+  },
+  {
+    "spanish": "la correspondencia",
+    "english": "correspondence"
+  },
+  {
+    "spanish": "el dentista",
+    "english": "dentist"
+  },
+  {
+    "spanish": "el dependiente",
+    "english": "shop assistant"
+  },
+  {
+    "spanish": "los derechos",
+    "english": "rights"
+  },
+  {
+    "spanish": "el ejército",
+    "english": "army"
+  },
+  {
+    "spanish": "el electricista",
+    "english": "electrician"
+  },
+  {
+    "spanish": "el empleado",
+    "english": "employee"
+  },
+  {
+    "spanish": "el empleo",
+    "english": "job (e)"
+  },
+  {
+    "spanish": "la empresa",
+    "english": "firm/company"
+  },
+  {
+    "spanish": "el enfermero",
+    "english": "nurse"
+  },
+  {
+    "spanish": "la entrevista",
+    "english": "interview"
+  },
+  {
+    "spanish": "el entusiasmo",
+    "english": "enthusiasm"
+  },
+  {
+    "spanish": "el escritor",
+    "english": "writer"
+  },
+  {
+    "spanish": "la experiencia laboral",
+    "english": "work experience (e)"
+  },
+  {
+    "spanish": "la explicación",
+    "english": "explanation"
+  },
+  {
+    "spanish": "el granjero",
+    "english": "farmer"
+  },
+  {
+    "spanish": "el guión bajo",
+    "english": "underscore"
+  },
+  {
+    "spanish": "el hombre de negocios",
+    "english": "businessman"
+  },
+  {
+    "spanish": "el horario de trabajo",
+    "english": "working hours"
+  },
+  {
+    "spanish": "las horas de trabajo flexibles",
+    "english": "flexible working hours"
+  },
+  {
+    "spanish": "el ingeniero",
+    "english": "engineer"
+  },
+  {
+    "spanish": "la intención",
+    "english": "intention"
+  },
+  {
+    "spanish": "el intérprete",
+    "english": "interpreter"
+  },
+  {
+    "spanish": "el jardinero",
+    "english": "gardener"
+  },
+  {
+    "spanish": "el jefe",
+    "english": "boss"
+  },
+  {
+    "spanish": "laboral (adj.)",
+    "english": "work (adj.)"
+  },
+  {
+    "spanish": "la línea",
+    "english": "line"
+  },
+  {
+    "spanish": "la llamada",
+    "english": "call"
+  },
+  {
+    "spanish": "el mecánico",
+    "english": "mechanic"
+  },
+  {
+    "spanish": "el médico",
+    "english": "doctor (m)"
+  },
+  {
+    "spanish": "el mensaje",
+    "english": "message"
+  },
+  {
+    "spanish": "el militar",
+    "english": "soldier (m)"
+  },
+  {
+    "spanish": "el objetivo",
+    "english": "objective/aim"
+  },
+  {
+    "spanish": "el obrero",
+    "english": "worker (o)"
+  },
+  {
+    "spanish": "la oficina",
+    "english": "office (o)"
+  },
+  {
+    "spanish": "el panadero",
+    "english": "baker"
+  },
+  {
+    "spanish": "la participación",
+    "english": "participation"
+  },
+  {
+    "spanish": "el peluquero",
+    "english": "hairdresser"
+  },
+  {
+    "spanish": "el periodismo",
+    "english": "journalism"
+  },
+  {
+    "spanish": "el periodista",
+    "english": "journalist"
+  },
+  {
+    "spanish": "el pintor",
+    "english": "painter"
+  },
+  {
+    "spanish": "el policía",
+    "english": "police officer"
+  },
+  {
+    "spanish": "la preocupación",
+    "english": "preoccupation"
+  },
+  {
+    "spanish": "pronto",
+    "english": "ready"
+  },
+  {
+    "spanish": "punto",
+    "english": "dot"
+  },
+  {
+    "spanish": "puntocom",
+    "english": ".com (dot com)"
+  },
+  {
+    "spanish": "el recepcionista",
+    "english": "receptionist"
+  },
+  {
+    "spanish": "la responsabilidad",
+    "english": "responsibility"
+  },
+  {
+    "spanish": "el salario",
+    "english": "salary"
+  },
+  {
+    "spanish": "el secretario",
+    "english": "secretary"
+  },
+  {
+    "spanish": "el sello",
+    "english": "stamp"
+  },
+  {
+    "spanish": "el sobre",
+    "english": "envelope"
+  },
+  {
+    "spanish": "el soldado",
+    "english": "soldier (s)"
+  },
+  {
+    "spanish": "la solicitud",
+    "english": "request/application"
+  },
+  {
+    "spanish": "el sueldo",
+    "english": "pay/salary"
+  },
+  {
+    "spanish": "la tarjeta",
+    "english": "card"
+  },
+  {
+    "spanish": "el teletrabajo",
+    "english": "telesales work"
+  },
+  {
+    "spanish": "el título",
+    "english": "university degree"
+  },
+  {
+    "spanish": "el trabajador",
+    "english": "worker (t)"
+  },
+  {
+    "spanish": "el traductor",
+    "english": "translator"
+  },
+  {
+    "spanish": "el veterinario",
+    "english": "vet"
+  },
+  {
+    "spanish": "contactar",
+    "english": "to contact"
+  },
+  {
+    "spanish": "encontrar",
+    "english": "to find"
+  },
+  {
+    "spanish": "explicar",
+    "english": "to explain"
+  },
+  {
+    "spanish": "ganar",
+    "english": "to earn"
+  },
+  {
+    "spanish": "hacer prácticas",
+    "english": "to do training"
+  },
+  {
+    "spanish": "llamar por teléfono",
+    "english": "to phone"
+  },
+  {
+    "spanish": "obtener",
+    "english": "to obtain (o)"
+  },
+  {
+    "spanish": "pagar bien",
+    "english": "to pay well"
+  },
+  {
+    "spanish": "pagar mal",
+    "english": "to pay badly"
+  },
+  {
+    "spanish": "probar",
+    "english": "to have a go/to try"
+  },
+  {
+    "spanish": "rellenar",
+    "english": "to fill in"
+  },
+  {
+    "spanish": "tomar un año libre",
+    "english": "to take a gap year (not \"tomar un año sabático\")"
+  },
+  {
+    "spanish": "tomar un año sabático",
+    "english": "to take a gap year (not \"tomar un año libre\")"
+  },
+  {
+    "spanish": "trabajar",
+    "english": "to work (= be in a job)"
+  }
+]

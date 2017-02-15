@@ -1,0 +1,642 @@
+[
+  {
+    "spanish": "el acento",
+    "english": "accent"
+  },
+  {
+    "spanish": "la actividad",
+    "english": "activity"
+  },
+  {
+    "spanish": "el alemán",
+    "english": "German (language, man)"
+  },
+  {
+    "spanish": "el alumno",
+    "english": "pupil"
+  },
+  {
+    "spanish": "el apoyo",
+    "english": "support"
+  },
+  {
+    "spanish": "los apuntes",
+    "english": "notes"
+  },
+  {
+    "spanish": "el arte dramático",
+    "english": "drama"
+  },
+  {
+    "spanish": "la asignatura",
+    "english": "subject"
+  },
+  {
+    "spanish": "el aula (f.)",
+    "english": "classroom (fem \"el\")"
+  },
+  {
+    "spanish": "ausente",
+    "english": "absent"
+  },
+  {
+    "spanish": "la ayuda",
+    "english": "help"
+  },
+  {
+    "spanish": "el bachillerato",
+    "english": "higher secondary school course (GCSE)"
+  },
+  {
+    "spanish": "la biología",
+    "english": "biology"
+  },
+  {
+    "spanish": "el bolígrafo",
+    "english": "ballpoint pen (long form)"
+  },
+  {
+    "spanish": "el boli",
+    "english": "ballpoint pen (short form)"
+  },
+  {
+    "spanish": "la calculadora",
+    "english": "calculator"
+  },
+  {
+    "spanish": "el campo de deportes",
+    "english": "sports field"
+  },
+  {
+    "spanish": "la cantina",
+    "english": "canteen/cafeteria"
+  },
+  {
+    "spanish": "el castigo",
+    "english": "punishment"
+  },
+  {
+    "spanish": "el chicle",
+    "english": "chewing gum"
+  },
+  {
+    "spanish": "las ciencias",
+    "english": "science"
+  },
+  {
+    "spanish": "las ciencias económicas",
+    "english": "economics"
+  },
+  {
+    "spanish": "la clase",
+    "english": "class"
+  },
+  {
+    "spanish": "la cocina",
+    "english": "food technology"
+  },
+  {
+    "spanish": "el colegio",
+    "english": "school (c)"
+  },
+  {
+    "spanish": "el comercio",
+    "english": "business studies"
+  },
+  {
+    "spanish": "el comportamiento",
+    "english": "behaviour (not \"la conducta\")"
+  },
+  {
+    "spanish": "la conducta",
+    "english": "behaviour (not \"el comportamiento\")"
+  },
+  {
+    "spanish": "el consejo",
+    "english": "advice"
+  },
+  {
+    "spanish": "el cuaderno",
+    "english": "exercise book"
+  },
+  {
+    "spanish": "el curso",
+    "english": "course"
+  },
+  {
+    "spanish": "los deberes",
+    "english": "homework"
+  },
+  {
+    "spanish": "desobediente",
+    "english": "disobedient"
+  },
+  {
+    "spanish": "el detalle",
+    "english": "detail"
+  },
+  {
+    "spanish": "el dibujo",
+    "english": "art"
+  },
+  {
+    "spanish": "el diccionario",
+    "english": "dictionary"
+  },
+  {
+    "spanish": "el director",
+    "english": "headteacher"
+  },
+  {
+    "spanish": "diseñar",
+    "english": "to design"
+  },
+  {
+    "spanish": "la educación física",
+    "english": "PE"
+  },
+  {
+    "spanish": "la escuela",
+    "english": "school (e)"
+  },
+  {
+    "spanish": "el español",
+    "english": "Spanish (language, man)"
+  },
+  {
+    "spanish": "estricto",
+    "english": "strict (e)"
+  },
+  {
+    "spanish": "el estuche",
+    "english": "pencil case"
+  },
+  {
+    "spanish": "el estudiante",
+    "english": "student"
+  },
+  {
+    "spanish": "los estudios",
+    "english": "studies"
+  },
+  {
+    "spanish": "el examen",
+    "english": "exam"
+  },
+  {
+    "spanish": "el éxito",
+    "english": "success"
+  },
+  {
+    "spanish": "femenino",
+    "english": "female/girls'"
+  },
+  {
+    "spanish": "la física",
+    "english": "physics"
+  },
+  {
+    "spanish": "físico",
+    "english": "physical (adj.)"
+  },
+  {
+    "spanish": "el fracaso",
+    "english": "failure"
+  },
+  {
+    "spanish": "el francés",
+    "english": "French (language, man)"
+  },
+  {
+    "spanish": "la geografía",
+    "english": "geography"
+  },
+  {
+    "spanish": "la gimnasia",
+    "english": "gymnastics"
+  },
+  {
+    "spanish": "el gimnasio",
+    "english": "gymnasium"
+  },
+  {
+    "spanish": "la goma",
+    "english": "eraser"
+  },
+  {
+    "spanish": "la historia",
+    "english": "history"
+  },
+  {
+    "spanish": "el idioma",
+    "english": "language (i)"
+  },
+  {
+    "spanish": "la informática",
+    "english": "computing"
+  },
+  {
+    "spanish": "el inglés",
+    "english": "English (language, man)"
+  },
+  {
+    "spanish": "insolente",
+    "english": "insolent"
+  },
+  {
+    "spanish": "las instalaciones",
+    "english": "facilities"
+  },
+  {
+    "spanish": "el instituto",
+    "english": "school (i)"
+  },
+  {
+    "spanish": "el intercambio",
+    "english": "exchange"
+  },
+  {
+    "spanish": "el laboratorio",
+    "english": "laboratory"
+  },
+  {
+    "spanish": "los lápices de colores",
+    "english": "coloured pencils"
+  },
+  {
+    "spanish": "el lápiz",
+    "english": "pencil"
+  },
+  {
+    "spanish": "la lección",
+    "english": "lesson"
+  },
+  {
+    "spanish": "la lengua",
+    "english": "language (l)"
+  },
+  {
+    "spanish": "la letra",
+    "english": "letter (of the alphabet)"
+  },
+  {
+    "spanish": "la libertad",
+    "english": "freedom"
+  },
+  {
+    "spanish": "masculino",
+    "english": "male/boys'"
+  },
+  {
+    "spanish": "las matemáticas",
+    "english": "maths"
+  },
+  {
+    "spanish": "mixto",
+    "english": "mixed"
+  },
+  {
+    "spanish": "la mochila",
+    "english": "rucksack"
+  },
+  {
+    "spanish": "el nivel",
+    "english": "level"
+  },
+  {
+    "spanish": "la nota",
+    "english": "mark"
+  },
+  {
+    "spanish": "obligatorio",
+    "english": "compulsory"
+  },
+  {
+    "spanish": "la opción",
+    "english": "option"
+  },
+  {
+    "spanish": "la oportunidad",
+    "english": "opportunity"
+  },
+  {
+    "spanish": "optar",
+    "english": "to choose/to opt"
+  },
+  {
+    "spanish": "optativo",
+    "english": "optional"
+  },
+  {
+    "spanish": "la página",
+    "english": "page"
+  },
+  {
+    "spanish": "la palabra",
+    "english": "word"
+  },
+  {
+    "spanish": "el permiso",
+    "english": "permission"
+  },
+  {
+    "spanish": "la pizarra",
+    "english": "board"
+  },
+  {
+    "spanish": "las prácticas laborales",
+    "english": "work experience (p)"
+  },
+  {
+    "spanish": "la pregunta",
+    "english": "question"
+  },
+  {
+    "spanish": "la presentación (oral)",
+    "english": "(oral) presentation"
+  },
+  {
+    "spanish": "presente",
+    "english": "present (adj.)"
+  },
+  {
+    "spanish": "primario",
+    "english": "primary"
+  },
+  {
+    "spanish": "privado",
+    "english": "private"
+  },
+  {
+    "spanish": "el profesor",
+    "english": "teacher"
+  },
+  {
+    "spanish": "la prueba",
+    "english": "test"
+  },
+  {
+    "spanish": "público",
+    "english": "public (adj.)"
+  },
+  {
+    "spanish": "la química",
+    "english": "chemistry"
+  },
+  {
+    "spanish": "el recreo",
+    "english": "break(time)"
+  },
+  {
+    "spanish": "la regla",
+    "english": "rule/ruler"
+  },
+  {
+    "spanish": "la religión",
+    "english": "RE"
+  },
+  {
+    "spanish": "el respeto",
+    "english": "respect"
+  },
+  {
+    "spanish": "la respuesta",
+    "english": "answer"
+  },
+  {
+    "spanish": "el resultado",
+    "english": "result"
+  },
+  {
+    "spanish": "el resumen",
+    "english": "summary"
+  },
+  {
+    "spanish": "el sacapuntas",
+    "english": "pencil sharpener"
+  },
+  {
+    "spanish": "la sala de profesores",
+    "english": "staffroom"
+  },
+  {
+    "spanish": "el salón de actos",
+    "english": "assembly hall"
+  },
+  {
+    "spanish": "secundario",
+    "english": "secondary"
+  },
+  {
+    "spanish": "severo",
+    "english": "strict (s)"
+  },
+  {
+    "spanish": "el silencio",
+    "english": "silence"
+  },
+  {
+    "spanish": "sobresaliente",
+    "english": "excellent (s)"
+  },
+  {
+    "spanish": "el taller",
+    "english": "workshop"
+  },
+  {
+    "spanish": "la tarea",
+    "english": "task"
+  },
+  {
+    "spanish": "la tecnología",
+    "english": "technology"
+  },
+  {
+    "spanish": "el tema",
+    "english": "theme/topic"
+  },
+  {
+    "spanish": "el texto",
+    "english": "text"
+  },
+  {
+    "spanish": "las tijeras",
+    "english": "scissors"
+  },
+  {
+    "spanish": "trabajador",
+    "english": "hard-working"
+  },
+  {
+    "spanish": "el trabajo",
+    "english": "work (t)"
+  },
+  {
+    "spanish": "los trabajos manuales",
+    "english": "craft subjects"
+  },
+  {
+    "spanish": "el trimestre",
+    "english": "term"
+  },
+  {
+    "spanish": "el tutor",
+    "english": "tutor"
+  },
+  {
+    "spanish": "el uniforme",
+    "english": "uniform (noun)"
+  },
+  {
+    "spanish": "los vestuarios",
+    "english": "changing rooms"
+  },
+  {
+    "spanish": "la víctima",
+    "english": "victim"
+  },
+  {
+    "spanish": "el vocabulario",
+    "english": "vocabulary"
+  },
+  {
+    "spanish": "apoyar",
+    "english": "to support"
+  },
+  {
+    "spanish": "aprender",
+    "english": "to learn"
+  },
+  {
+    "spanish": "aprobar",
+    "english": "to pass"
+  },
+  {
+    "spanish": "atacar",
+    "english": "to attack"
+  },
+  {
+    "spanish": "callar(se)",
+    "english": "to be quiet"
+  },
+  {
+    "spanish": "castigar",
+    "english": "to punish"
+  },
+  {
+    "spanish": "charlar",
+    "english": "to chat"
+  },
+  {
+    "spanish": "comenzar",
+    "english": "to start (c)"
+  },
+  {
+    "spanish": "comprender",
+    "english": "to understand (c)"
+  },
+  {
+    "spanish": "contestar",
+    "english": "to answer"
+  },
+  {
+    "spanish": "dibujar",
+    "english": "to draw"
+  },
+  {
+    "spanish": "empezar",
+    "english": "to start (e)"
+  },
+  {
+    "spanish": "enseñar",
+    "english": "to teach"
+  },
+  {
+    "spanish": "entender",
+    "english": "to understand (e)"
+  },
+  {
+    "spanish": "escribir",
+    "english": "to write"
+  },
+  {
+    "spanish": "estudiar",
+    "english": "to study"
+  },
+  {
+    "spanish": "faltar",
+    "english": "to be absent"
+  },
+  {
+    "spanish": "fracasar",
+    "english": "to fail"
+  },
+  {
+    "spanish": "golpear",
+    "english": "to hit"
+  },
+  {
+    "spanish": "insultar",
+    "english": "to insult"
+  },
+  {
+    "spanish": "intimidar",
+    "english": "to intimidate"
+  },
+  {
+    "spanish": "levantar la mano",
+    "english": "to put up your hand"
+  },
+  {
+    "spanish": "mirar",
+    "english": "to look at"
+  },
+  {
+    "spanish": "molestar",
+    "english": "to annoy (m)"
+  },
+  {
+    "spanish": "olvidar",
+    "english": "to forget"
+  },
+  {
+    "spanish": "pasar",
+    "english": "to happen (p)"
+  },
+  {
+    "spanish": "pedir permiso",
+    "english": "to ask (for) permission"
+  },
+  {
+    "spanish": "preguntar",
+    "english": "to ask"
+  },
+  {
+    "spanish": "prometer",
+    "english": "to promise"
+  },
+  {
+    "spanish": "repasar",
+    "english": "to revise"
+  },
+  {
+    "spanish": "respetar",
+    "english": "to respect"
+  },
+  {
+    "spanish": "sacar buenas notas",
+    "english": "to get good marks"
+  },
+  {
+    "spanish": "sacar malas notas",
+    "english": "to get bad marks"
+  },
+  {
+    "spanish": "suspender",
+    "english": "to fail (an exam) (s)"
+  },
+  {
+    "spanish": "terminar",
+    "english": "to finish"
+  }
+]

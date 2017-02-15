@@ -1,0 +1,410 @@
+[
+  {
+    "spanish": "a diario",
+    "english": "daily (not \"diariamente\")"
+  },
+  {
+    "spanish": "a fines de...",
+    "english": "at the end of..."
+  },
+  {
+    "spanish": "a mediados de",
+    "english": "in the middle of... (to do with time)"
+  },
+  {
+    "spanish": "a menudo",
+    "english": "often"
+  },
+  {
+    "spanish": "a partir de",
+    "english": "from (a)"
+  },
+  {
+    "spanish": "a veces",
+    "english": "sometimes (not \"algunas veces\")"
+  },
+  {
+    "spanish": "ahora",
+    "english": "now"
+  },
+  {
+    "spanish": "al mismo tiempo",
+    "english": "at the same time"
+  },
+  {
+    "spanish": "algunas veces",
+    "english": "sometimes (not \"a veces\")"
+  },
+  {
+    "spanish": "anoche",
+    "english": "last night"
+  },
+  {
+    "spanish": "el año",
+    "english": "year"
+  },
+  {
+    "spanish": "antes (de)",
+    "english": "before"
+  },
+  {
+    "spanish": "aproximadamente",
+    "english": "approximately"
+  },
+  {
+    "spanish": "ayer",
+    "english": "yesterday"
+  },
+  {
+    "spanish": "breve",
+    "english": "short/brief"
+  },
+  {
+    "spanish": "cada...días",
+    "english": "every...days"
+  },
+  {
+    "spanish": "cada...horas",
+    "english": "every...hours"
+  },
+  {
+    "spanish": "casi",
+    "english": "almost"
+  },
+  {
+    "spanish": "de...a...",
+    "english": "from...to..."
+  },
+  {
+    "spanish": "de momento",
+    "english": "for the moment"
+  },
+  {
+    "spanish": "de nuevo",
+    "english": "again (d n)"
+  },
+  {
+    "spanish": "de repente",
+    "english": "suddenly"
+  },
+  {
+    "spanish": "de vez en cuando",
+    "english": "from time to time"
+  },
+  {
+    "spanish": "dentro de...(horas)",
+    "english": "within...(hours)"
+  },
+  {
+    "spanish": "desde",
+    "english": "from (d)"
+  },
+  {
+    "spanish": "desde hace",
+    "english": "since"
+  },
+  {
+    "spanish": "despacio",
+    "english": "slowly (d)"
+  },
+  {
+    "spanish": "después",
+    "english": "later/afterwards"
+  },
+  {
+    "spanish": "el día",
+    "english": "day"
+  },
+  {
+    "spanish": "el día festivo",
+    "english": "holiday"
+  },
+  {
+    "spanish": "el día laborable",
+    "english": "working day"
+  },
+  {
+    "spanish": "diariamente",
+    "english": "daily/every day (not \"a diario\")"
+  },
+  {
+    "spanish": "durante",
+    "english": "during"
+  },
+  {
+    "spanish": "durar",
+    "english": "to last"
+  },
+  {
+    "spanish": "en ese momento",
+    "english": "at that moment"
+  },
+  {
+    "spanish": "en este momento",
+    "english": "at this moment"
+  },
+  {
+    "spanish": "en seguida",
+    "english": "straight away"
+  },
+  {
+    "spanish": "entonces",
+    "english": "then (e)"
+  },
+  {
+    "spanish": "esta noche",
+    "english": "this night, tonight"
+  },
+  {
+    "spanish": "la estación",
+    "english": "season"
+  },
+  {
+    "spanish": "la fecha",
+    "english": "date"
+  },
+  {
+    "spanish": "el fin de semana",
+    "english": "weekend"
+  },
+  {
+    "spanish": "al final",
+    "english": "in/at the end"
+  },
+  {
+    "spanish": "finalmente",
+    "english": "finally/in the end"
+  },
+  {
+    "spanish": "frecuente",
+    "english": "frequent"
+  },
+  {
+    "spanish": "el futuro",
+    "english": "future (f)"
+  },
+  {
+    "spanish": "generalmente",
+    "english": "generally (g)"
+  },
+  {
+    "spanish": "hace",
+    "english": "since/ago (+ time)"
+  },
+  {
+    "spanish": "hoy",
+    "english": "today"
+  },
+  {
+    "spanish": "inmediatamente",
+    "english": "immediately"
+  },
+  {
+    "spanish": "lento",
+    "english": "slow (l)"
+  },
+  {
+    "spanish": "los lunes (etc.)",
+    "english": "on Mondays (etc.)"
+  },
+  {
+    "spanish": "luego",
+    "english": "then (l)"
+  },
+  {
+    "spanish": "mañana",
+    "english": "tomorrow"
+  },
+  {
+    "spanish": "la mañana",
+    "english": "morning"
+  },
+  {
+    "spanish": "el mes",
+    "english": "month"
+  },
+  {
+    "spanish": "mientras tanto",
+    "english": "meanwhile"
+  },
+  {
+    "spanish": "el momento",
+    "english": "moment"
+  },
+  {
+    "spanish": "mucho tiempo",
+    "english": "a long time"
+  },
+  {
+    "spanish": "la noche",
+    "english": "night"
+  },
+  {
+    "spanish": "normalmente",
+    "english": "normally"
+  },
+  {
+    "spanish": "otra vez",
+    "english": "again (o v)"
+  },
+  {
+    "spanish": "pasado",
+    "english": "last (p) (adj.)"
+  },
+  {
+    "spanish": "pasado mañana",
+    "english": "the day after tomorrow"
+  },
+  {
+    "spanish": "el pasado",
+    "english": "the past"
+  },
+  {
+    "spanish": "permanente",
+    "english": "permanent"
+  },
+  {
+    "spanish": "pocas veces",
+    "english": "rarely (p v)"
+  },
+  {
+    "spanish": "por año (etc.)",
+    "english": "per year (etc.)"
+  },
+  {
+    "spanish": "por fin",
+    "english": "at last"
+  },
+  {
+    "spanish": "por lo general",
+    "english": "generally (p)"
+  },
+  {
+    "spanish": "el porvenir",
+    "english": "future (p)"
+  },
+  {
+    "spanish": "al principio",
+    "english": "at the begining"
+  },
+  {
+    "spanish": "pronto",
+    "english": "soon"
+  },
+  {
+    "spanish": "próximo",
+    "english": "next/close/near"
+  },
+  {
+    "spanish": "(el mes) que viene",
+    "english": "next (month)"
+  },
+  {
+    "spanish": "quince días",
+    "english": "fortnight"
+  },
+  {
+    "spanish": "rápido",
+    "english": "quick"
+  },
+  {
+    "spanish": "raramente",
+    "english": "rarely (r)"
+  },
+  {
+    "spanish": "el rato",
+    "english": "short while"
+  },
+  {
+    "spanish": "reciente(mente)",
+    "english": "recently"
+  },
+  {
+    "spanish": "la semana",
+    "english": "week"
+  },
+  {
+    "spanish": "siempre",
+    "english": "always"
+  },
+  {
+    "spanish": "el siglo",
+    "english": "century"
+  },
+  {
+    "spanish": "siguiente",
+    "english": "following"
+  },
+  {
+    "spanish": "sobre",
+    "english": "about"
+  },
+  {
+    "spanish": "solamente",
+    "english": "only (not \"sólo\")"
+  },
+  {
+    "spanish": "sólo",
+    "english": "only (not \"solamente\")"
+  },
+  {
+    "spanish": "tardar",
+    "english": "to take time/to be late"
+  },
+  {
+    "spanish": "tarde",
+    "english": "late"
+  },
+  {
+    "spanish": "la tarde",
+    "english": "afternoon/evening"
+  },
+  {
+    "spanish": "temprano",
+    "english": "early"
+  },
+  {
+    "spanish": "tener prisa",
+    "english": "to be in a hurry"
+  },
+  {
+    "spanish": "el tiempo",
+    "english": "time"
+  },
+  {
+    "spanish": "todas las (semanas)",
+    "english": "every (week)"
+  },
+  {
+    "spanish": "todavía",
+    "english": "still"
+  },
+  {
+    "spanish": "todos los (días)",
+    "english": "every (day)"
+  },
+  {
+    "spanish": "últimamente",
+    "english": "lately/recently"
+  },
+  {
+    "spanish": "último",
+    "english": "last (u) (adj.)"
+  },
+  {
+    "spanish": "una vez",
+    "english": "once"
+  },
+  {
+    "spanish": "dos veces",
+    "english": "two times"
+  },
+  {
+    "spanish": "tres veces",
+    "english": "three times"
+  },
+  {
+    "spanish": "volver a (+inf.)",
+    "english": "to do something again (+inf.)"
+  }
+]

@@ -1,0 +1,918 @@
+[
+  {
+    "spanish": "el abanico",
+    "english": "fan (waved in hand)"
+  },
+  {
+    "spanish": "la aduana",
+    "english": "customs"
+  },
+  {
+    "spanish": "el aeropuerto",
+    "english": "airport"
+  },
+  {
+    "spanish": "el aire acondicionado",
+    "english": "air conditioning"
+  },
+  {
+    "spanish": "al aire libre",
+    "english": "in the open air"
+  },
+  {
+    "spanish": "el albergue juvenil",
+    "english": "youth hostel"
+  },
+  {
+    "spanish": "alemán",
+    "english": "German (adj.)"
+  },
+  {
+    "spanish": "Alemania",
+    "english": "Germany"
+  },
+  {
+    "spanish": "el alojamiento",
+    "english": "accommodation"
+  },
+  {
+    "spanish": "el ambiente",
+    "english": "atmosphere"
+  },
+  {
+    "spanish": "América del Sur",
+    "english": "South America"
+  },
+  {
+    "spanish": "el andén",
+    "english": "platform"
+  },
+  {
+    "spanish": "el Año Nuevo",
+    "english": "New Year"
+  },
+  {
+    "spanish": "el asiento",
+    "english": "seat"
+  },
+  {
+    "spanish": "el autobús",
+    "english": "bus"
+  },
+  {
+    "spanish": "el autocar",
+    "english": "coach"
+  },
+  {
+    "spanish": "la autopista",
+    "english": "motorway"
+  },
+  {
+    "spanish": "el avión",
+    "english": "aeroplane"
+  },
+  {
+    "spanish": "el balcón",
+    "english": "balcony"
+  },
+  {
+    "spanish": "el barco",
+    "english": "boat"
+  },
+  {
+    "spanish": "el billete",
+    "english": "ticket"
+  },
+  {
+    "spanish": "el (billete) de ida",
+    "english": "single (ticket)"
+  },
+  {
+    "spanish": "el (billete) de ida y vuelta",
+    "english": "return (ticket)"
+  },
+  {
+    "spanish": "británico",
+    "english": "British"
+  },
+  {
+    "spanish": "la cafetería",
+    "english": "café/coffee shop"
+  },
+  {
+    "spanish": "la cama de matrimonio",
+    "english": "double bed"
+  },
+  {
+    "spanish": "la cámara",
+    "english": "camera (c)"
+  },
+  {
+    "spanish": "el camino",
+    "english": "path/road"
+  },
+  {
+    "spanish": "el camping",
+    "english": "camping/campsite"
+  },
+  {
+    "spanish": "las islas Canarias",
+    "english": "the Canary Islands"
+  },
+  {
+    "spanish": "la caravana",
+    "english": "caravan"
+  },
+  {
+    "spanish": "el carnet",
+    "english": "pass"
+  },
+  {
+    "spanish": "la carretera",
+    "english": "road/highway"
+  },
+  {
+    "spanish": "la carta",
+    "english": "menu"
+  },
+  {
+    "spanish": "las castañuelas",
+    "english": "castanets"
+  },
+  {
+    "spanish": "castellano",
+    "english": "Castilian (adj.)"
+  },
+  {
+    "spanish": "el cheque de viaje",
+    "english": "traveller's cheque"
+  },
+  {
+    "spanish": "el cinturón de seguridad",
+    "english": "seatbelt"
+  },
+  {
+    "spanish": "la (primera) clase",
+    "english": "(first) class"
+  },
+  {
+    "spanish": "el coche",
+    "english": "car"
+  },
+  {
+    "spanish": "el conductor",
+    "english": "driver/motorist"
+  },
+  {
+    "spanish": "la consigna",
+    "english": "left-luggage office"
+  },
+  {
+    "spanish": "la corrida",
+    "english": "run/bullfight"
+  },
+  {
+    "spanish": "la costa",
+    "english": "coast"
+  },
+  {
+    "spanish": "la costumbre",
+    "english": "custom"
+  },
+  {
+    "spanish": "la crema solar",
+    "english": "suncream"
+  },
+  {
+    "spanish": "el cruce",
+    "english": "junction/crossroads"
+  },
+  {
+    "spanish": "la cuchara",
+    "english": "spoon"
+  },
+  {
+    "spanish": "el cuchillo",
+    "english": "knife"
+  },
+  {
+    "spanish": "la cuenta",
+    "english": "bill"
+  },
+  {
+    "spanish": "la cultura",
+    "english": "culture"
+  },
+  {
+    "spanish": "de primero",
+    "english": "first course"
+  },
+  {
+    "spanish": "delicioso",
+    "english": "delicious"
+  },
+  {
+    "spanish": "los deportes acuáticos",
+    "english": "water sports"
+  },
+  {
+    "spanish": "los deportes de invierno",
+    "english": "winter sports"
+  },
+  {
+    "spanish": "el destino",
+    "english": "destination"
+  },
+  {
+    "spanish": "Día de los Reyes",
+    "english": "Epiphany (6 January)"
+  },
+  {
+    "spanish": "directo",
+    "english": "direct"
+  },
+  {
+    "spanish": "el documento",
+    "english": "document"
+  },
+  {
+    "spanish": "el equipaje",
+    "english": "luggage"
+  },
+  {
+    "spanish": "escocés",
+    "english": "Scottish"
+  },
+  {
+    "spanish": "Escocia",
+    "english": "Scotland"
+  },
+  {
+    "spanish": "España",
+    "english": "Spain"
+  },
+  {
+    "spanish": "español",
+    "english": "Spanish (adj.)"
+  },
+  {
+    "spanish": "la especialidad",
+    "english": "speciality"
+  },
+  {
+    "spanish": "el esquí",
+    "english": "skiing"
+  },
+  {
+    "spanish": "la estación de autobuses",
+    "english": "bus station"
+  },
+  {
+    "spanish": "la estación de trenes",
+    "english": "train station"
+  },
+  {
+    "spanish": "Los Estados Unidos",
+    "english": "The United States"
+  },
+  {
+    "spanish": "Europa",
+    "english": "Europe"
+  },
+  {
+    "spanish": "europeo",
+    "english": "European (adj.)"
+  },
+  {
+    "spanish": "extranjero",
+    "english": "foreign, abroad"
+  },
+  {
+    "spanish": "el ferrocarril",
+    "english": "railway"
+  },
+  {
+    "spanish": "la ficha",
+    "english": "form"
+  },
+  {
+    "spanish": "la fiesta",
+    "english": "festival/party"
+  },
+  {
+    "spanish": "el flamenco",
+    "english": "flamenco"
+  },
+  {
+    "spanish": "el folleto",
+    "english": "leaflet"
+  },
+  {
+    "spanish": "la foto(grafía)",
+    "english": "photo(graph)"
+  },
+  {
+    "spanish": "francés",
+    "english": "French (adj.)"
+  },
+  {
+    "spanish": "Francia",
+    "english": "France"
+  },
+  {
+    "spanish": "(no) fumador",
+    "english": "(non) smoking"
+  },
+  {
+    "spanish": "Gales",
+    "english": "Wales"
+  },
+  {
+    "spanish": "galés",
+    "english": "Welsh (adj.)"
+  },
+  {
+    "spanish": "la gasolina",
+    "english": "petrol"
+  },
+  {
+    "spanish": "Gran Bretaña",
+    "english": "Great Britain"
+  },
+  {
+    "spanish": "Grecia",
+    "english": "Greece"
+  },
+  {
+    "spanish": "el guía",
+    "english": "guide"
+  },
+  {
+    "spanish": "la guía",
+    "english": "guidebook"
+  },
+  {
+    "spanish": "la habitación doble",
+    "english": "double room"
+  },
+  {
+    "spanish": "la habitación individual",
+    "english": "single room"
+  },
+  {
+    "spanish": "la hamburguesería",
+    "english": "burger bar"
+  },
+  {
+    "spanish": "la heladería",
+    "english": "ice-cream parlour"
+  },
+  {
+    "spanish": "incluido",
+    "english": "included"
+  },
+  {
+    "spanish": "la información",
+    "english": "information"
+  },
+  {
+    "spanish": "Inglaterra",
+    "english": "England"
+  },
+  {
+    "spanish": "inglés",
+    "english": "English"
+  },
+  {
+    "spanish": "la insolación",
+    "english": "sunstroke"
+  },
+  {
+    "spanish": "Irlanda",
+    "english": "Ireland"
+  },
+  {
+    "spanish": "irlandés",
+    "english": "Irish (adj.)"
+  },
+  {
+    "spanish": "la isla",
+    "english": "island"
+  },
+  {
+    "spanish": "Italia",
+    "english": "Italy"
+  },
+  {
+    "spanish": "italiano",
+    "english": "Italian (adj.)"
+  },
+  {
+    "spanish": "el lado",
+    "english": "side"
+  },
+  {
+    "spanish": "latinoamericano",
+    "english": "Latin American (adj.)"
+  },
+  {
+    "spanish": "libre",
+    "english": "free (l)"
+  },
+  {
+    "spanish": "la lista (de precios)",
+    "english": "(price) list"
+  },
+  {
+    "spanish": "la llegada",
+    "english": "arrival"
+  },
+  {
+    "spanish": "Londres",
+    "english": "London"
+  },
+  {
+    "spanish": "la maleta",
+    "english": "suitcase"
+  },
+  {
+    "spanish": "el mapa",
+    "english": "map"
+  },
+  {
+    "spanish": "la máquina de fotos",
+    "english": "camera (m)"
+  },
+  {
+    "spanish": "el mar",
+    "english": "sea"
+  },
+  {
+    "spanish": "media pensión",
+    "english": "half board"
+  },
+  {
+    "spanish": "el Mediterráneo",
+    "english": "the Mediterranean"
+  },
+  {
+    "spanish": "el menú del día",
+    "english": "set menu"
+  },
+  {
+    "spanish": "el menú turístico",
+    "english": "tourist menu"
+  },
+  {
+    "spanish": "el metro",
+    "english": "underground/metro"
+  },
+  {
+    "spanish": "mexicano (mejicano)",
+    "english": "Mexican (adj.)"
+  },
+  {
+    "spanish": "México (Méjico)",
+    "english": "Mexico"
+  },
+  {
+    "spanish": "la montaña",
+    "english": "mountain"
+  },
+  {
+    "spanish": "montañoso",
+    "english": "mountainous"
+  },
+  {
+    "spanish": "la moto(cicleta)",
+    "english": "motorcycle/motorbike"
+  },
+  {
+    "spanish": "nada más",
+    "english": "nothing else"
+  },
+  {
+    "spanish": "Navidad",
+    "english": "Christmas"
+  },
+  {
+    "spanish": "Nochebuena",
+    "english": "Christmas Eve"
+  },
+  {
+    "spanish": "Nochevieja",
+    "english": "New Year's Eve"
+  },
+  {
+    "spanish": "norteamericano",
+    "english": "(North) American (adj.)"
+  },
+  {
+    "spanish": "la oficina de turismo",
+    "english": "tourist office"
+  },
+  {
+    "spanish": "el país",
+    "english": "country"
+  },
+  {
+    "spanish": "Papá Noel",
+    "english": "Father Christmas"
+  },
+  {
+    "spanish": "el papel higiénico",
+    "english": "toilet paper"
+  },
+  {
+    "spanish": "la parada",
+    "english": "stop"
+  },
+  {
+    "spanish": "el parador",
+    "english": "(state-run) tourist hotel"
+  },
+  {
+    "spanish": "el parking",
+    "english": "car park"
+  },
+  {
+    "spanish": "el parque temático",
+    "english": "theme park"
+  },
+  {
+    "spanish": "el pasajero",
+    "english": "passenger"
+  },
+  {
+    "spanish": "el pasaporte",
+    "english": "passport"
+  },
+  {
+    "spanish": "el paso subterráneo",
+    "english": "underpass/subway"
+  },
+  {
+    "spanish": "la pensión",
+    "english": "boarding house"
+  },
+  {
+    "spanish": "pensión completa",
+    "english": "full board"
+  },
+  {
+    "spanish": "el permiso de conducir",
+    "english": "driving licence (p)"
+  },
+  {
+    "spanish": "la pista",
+    "english": "track/court"
+  },
+  {
+    "spanish": "el plan",
+    "english": "project"
+  },
+  {
+    "spanish": "el plano",
+    "english": "plan/map"
+  },
+  {
+    "spanish": "el plato",
+    "english": "dish/plate"
+  },
+  {
+    "spanish": "el plato combinado",
+    "english": "set main course"
+  },
+  {
+    "spanish": "la playa",
+    "english": "beach"
+  },
+  {
+    "spanish": "la plaza de toros",
+    "english": "bullring"
+  },
+  {
+    "spanish": "portugués",
+    "english": "Portuguese (adj.)"
+  },
+  {
+    "spanish": "la postal",
+    "english": "postcard"
+  },
+  {
+    "spanish": "el postre",
+    "english": "dessert"
+  },
+  {
+    "spanish": "la propina",
+    "english": "tip"
+  },
+  {
+    "spanish": "la recepción",
+    "english": "reception"
+  },
+  {
+    "spanish": "el recuerdo",
+    "english": "souvenir"
+  },
+  {
+    "spanish": "la reserva",
+    "english": "reservation"
+  },
+  {
+    "spanish": "el restaurante",
+    "english": "restaurant"
+  },
+  {
+    "spanish": "la rueda",
+    "english": "wheel"
+  },
+  {
+    "spanish": "el saco de dormir",
+    "english": "sleeping bag"
+  },
+  {
+    "spanish": "la sala de espera",
+    "english": "waiting room"
+  },
+  {
+    "spanish": "la salida",
+    "english": "departure/exit"
+  },
+  {
+    "spanish": "la Semana Santa",
+    "english": "Holy Week"
+  },
+  {
+    "spanish": "la señal",
+    "english": "signal/sign"
+  },
+  {
+    "spanish": "el servicio",
+    "english": "service"
+  },
+  {
+    "spanish": "los servicios",
+    "english": "toilets"
+  },
+  {
+    "spanish": "el sitio",
+    "english": "space/room"
+  },
+  {
+    "spanish": "la sombrilla",
+    "english": "parasol"
+  },
+  {
+    "spanish": "sudamericano",
+    "english": "South American (adj.)"
+  },
+  {
+    "spanish": "el suplemento",
+    "english": "supplement"
+  },
+  {
+    "spanish": "la taquilla",
+    "english": "ticket office"
+  },
+  {
+    "spanish": "el tenedor",
+    "english": "fork"
+  },
+  {
+    "spanish": "la tienda",
+    "english": "tent"
+  },
+  {
+    "spanish": "el torero",
+    "english": "bullfighter"
+  },
+  {
+    "spanish": "el toro",
+    "english": "bull"
+  },
+  {
+    "spanish": "la tradición",
+    "english": "tradition"
+  },
+  {
+    "spanish": "tradicional",
+    "english": "traditional"
+  },
+  {
+    "spanish": "Tráigame...",
+    "english": "Bring me..."
+  },
+  {
+    "spanish": "el transporte (público)",
+    "english": "public transport"
+  },
+  {
+    "spanish": "el tren",
+    "english": "train"
+  },
+  {
+    "spanish": "el turismo",
+    "english": "tourism"
+  },
+  {
+    "spanish": "turístico",
+    "english": "tourist (adj.)"
+  },
+  {
+    "spanish": "el turista",
+    "english": "tourist"
+  },
+  {
+    "spanish": "las vacaciones",
+    "english": "holidays"
+  },
+  {
+    "spanish": "el vaso",
+    "english": "glass (drinking container)"
+  },
+  {
+    "spanish": "la vía",
+    "english": "track"
+  },
+  {
+    "spanish": "el viaje",
+    "english": "journey/trip"
+  },
+  {
+    "spanish": "el viajero",
+    "english": "traveller"
+  },
+  {
+    "spanish": "la visita",
+    "english": "visit"
+  },
+  {
+    "spanish": "el visitante",
+    "english": "visitor"
+  },
+  {
+    "spanish": "la vista",
+    "english": "view"
+  },
+  {
+    "spanish": "el vuelo",
+    "english": "flight"
+  },
+  {
+    "spanish": "alojarse",
+    "english": "to stay (a)"
+  },
+  {
+    "spanish": "aparcar",
+    "english": "to park"
+  },
+  {
+    "spanish": "bañarse",
+    "english": "to swim (b)"
+  },
+  {
+    "spanish": "broncearse",
+    "english": "to sunbathe (b)"
+  },
+  {
+    "spanish": "buscar",
+    "english": "to look for"
+  },
+  {
+    "spanish": "cambiar",
+    "english": "to change (c)"
+  },
+  {
+    "spanish": "caminar",
+    "english": "to walk (c)"
+  },
+  {
+    "spanish": "conducir",
+    "english": "to drive"
+  },
+  {
+    "spanish": "continuar",
+    "english": "to continue"
+  },
+  {
+    "spanish": "cruzar",
+    "english": "to cross"
+  },
+  {
+    "spanish": "dejar",
+    "english": "to leave (something)"
+  },
+  {
+    "spanish": "descansar",
+    "english": "to rest"
+  },
+  {
+    "spanish": "doblar",
+    "english": "to turn (d)"
+  },
+  {
+    "spanish": "esquiar",
+    "english": "to ski"
+  },
+  {
+    "spanish": "estar de vacaciones",
+    "english": "to be on holiday"
+  },
+  {
+    "spanish": "funcionar",
+    "english": "to work (= function)"
+  },
+  {
+    "spanish": "informar(se)",
+    "english": "to inform/to find out"
+  },
+  {
+    "spanish": "ir al extranjero",
+    "english": "to go abroad"
+  },
+  {
+    "spanish": "ir de excursión",
+    "english": "to go on a trip"
+  },
+  {
+    "spanish": "ir de vacaciones",
+    "english": "to go on holiday"
+  },
+  {
+    "spanish": "llegar",
+    "english": "to arrive"
+  },
+  {
+    "spanish": "llevar",
+    "english": "to take (ll)"
+  },
+  {
+    "spanish": "parar",
+    "english": "to stop (p)"
+  },
+  {
+    "spanish": "pasar",
+    "english": "to spend time"
+  },
+  {
+    "spanish": "pedir",
+    "english": "to ask for"
+  },
+  {
+    "spanish": "quedarse",
+    "english": "to stay (q)"
+  },
+  {
+    "spanish": "recomendar",
+    "english": "to recommend"
+  },
+  {
+    "spanish": "recordar",
+    "english": "to remember"
+  },
+  {
+    "spanish": "reservar",
+    "english": "to book/to reserve"
+  },
+  {
+    "spanish": "sacar",
+    "english": "to take out"
+  },
+  {
+    "spanish": "sacar fotos",
+    "english": "to take photos"
+  },
+  {
+    "spanish": "seguir",
+    "english": "to follow"
+  },
+  {
+    "spanish": "tardar",
+    "english": "to take time/to be late"
+  },
+  {
+    "spanish": "tomar el sol",
+    "english": "to sunbathe (t)"
+  },
+  {
+    "spanish": "torcer",
+    "english": "to turn (t)"
+  },
+  {
+    "spanish": "traer",
+    "english": "to bring"
+  },
+  {
+    "spanish": "viajar",
+    "english": "to travel"
+  },
+  {
+    "spanish": "visitar",
+    "english": "to visit"
+  },
+  {
+    "spanish": "volver",
+    "english": "to go back/to return"
+  }
+]

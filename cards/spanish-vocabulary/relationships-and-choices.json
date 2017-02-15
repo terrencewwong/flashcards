@@ -1,0 +1,934 @@
+[
+  {
+    "spanish": "el abuelo",
+    "english": "grandfather"
+  },
+  {
+    "spanish": "activo",
+    "english": "active"
+  },
+  {
+    "spanish": "adolescente",
+    "english": "adolescent (adj.)"
+  },
+  {
+    "spanish": "el adolescente",
+    "english": "teenager"
+  },
+  {
+    "spanish": "adoptivo",
+    "english": "adoptive/adopted"
+  },
+  {
+    "spanish": "adulto",
+    "english": "adult (adj.)"
+  },
+  {
+    "spanish": "agresivo",
+    "english": "aggressive"
+  },
+  {
+    "spanish": "alegre",
+    "english": "happy (a)"
+  },
+  {
+    "spanish": "amable",
+    "english": "kind/nice"
+  },
+  {
+    "spanish": "ambicioso",
+    "english": "ambitious"
+  },
+  {
+    "spanish": "el amigo",
+    "english": "friend"
+  },
+  {
+    "spanish": "el amor",
+    "english": "love"
+  },
+  {
+    "spanish": "anciano",
+    "english": "old (a)"
+  },
+  {
+    "spanish": "el anciano",
+    "english": "old person"
+  },
+  {
+    "spanish": "animado",
+    "english": "lively"
+  },
+  {
+    "spanish": "el animal doméstico",
+    "english": "pet"
+  },
+  {
+    "spanish": "antipático",
+    "english": "unpleasant"
+  },
+  {
+    "spanish": "el apellido",
+    "english": "surname"
+  },
+  {
+    "spanish": "el aspecto",
+    "english": "look/appearance"
+  },
+  {
+    "spanish": "la atención",
+    "english": "attention"
+  },
+  {
+    "spanish": "la barba",
+    "english": "beard"
+  },
+  {
+    "spanish": "el bebé",
+    "english": "baby"
+  },
+  {
+    "spanish": "el beneficio",
+    "english": "benefit"
+  },
+  {
+    "spanish": "el beso",
+    "english": "kiss"
+  },
+  {
+    "spanish": "el bigote",
+    "english": "moustache"
+  },
+  {
+    "spanish": "la boca",
+    "english": "mouth"
+  },
+  {
+    "spanish": "el brazo",
+    "english": "arm"
+  },
+  {
+    "spanish": "el caballo",
+    "english": "horse"
+  },
+  {
+    "spanish": "la cabeza",
+    "english": "head"
+  },
+  {
+    "spanish": "calvo",
+    "english": "bald"
+  },
+  {
+    "spanish": "el canario",
+    "english": "person from the Canary Islands"
+  },
+  {
+    "spanish": "el carácter",
+    "english": "character"
+  },
+  {
+    "spanish": "el cariño",
+    "english": "love/affection"
+  },
+  {
+    "spanish": "el carnet de identidad",
+    "english": "identity card"
+  },
+  {
+    "spanish": "casado",
+    "english": "married"
+  },
+  {
+    "spanish": "el casamiento",
+    "english": "marriage/wedding (c)"
+  },
+  {
+    "spanish": "castaño",
+    "english": "chestnut coloured"
+  },
+  {
+    "spanish": "el chico",
+    "english": "boy (c)"
+  },
+  {
+    "spanish": "la cobaya",
+    "english": "guinea pig"
+  },
+  {
+    "spanish": "cómico",
+    "english": "funny"
+  },
+  {
+    "spanish": "el compañero",
+    "english": "companion/partner"
+  },
+  {
+    "spanish": "comprensivo",
+    "english": "understanding (adj.)"
+  },
+  {
+    "spanish": "el conejo",
+    "english": "rabbit"
+  },
+  {
+    "spanish": "el conflicto",
+    "english": "conflict"
+  },
+  {
+    "spanish": "contento",
+    "english": "happy (c)"
+  },
+  {
+    "spanish": "corto",
+    "english": "short"
+  },
+  {
+    "spanish": "creativo",
+    "english": "creative"
+  },
+  {
+    "spanish": "la cualidad",
+    "english": "quality, attribute, characteristic"
+  },
+  {
+    "spanish": "cuidadoso",
+    "english": "careful"
+  },
+  {
+    "spanish": "el dedo",
+    "english": "finger"
+  },
+  {
+    "spanish": "el defecto",
+    "english": "defect"
+  },
+  {
+    "spanish": "los demás",
+    "english": "others"
+  },
+  {
+    "spanish": "deportivo",
+    "english": "sporting"
+  },
+  {
+    "spanish": "la discriminación",
+    "english": "discrimination"
+  },
+  {
+    "spanish": "la discusión",
+    "english": "discussion/argument"
+  },
+  {
+    "spanish": "divorciado",
+    "english": "divorced"
+  },
+  {
+    "spanish": "el divorcio",
+    "english": "divorce"
+  },
+  {
+    "spanish": "la documentación",
+    "english": "documentation"
+  },
+  {
+    "spanish": "la edad",
+    "english": "age"
+  },
+  {
+    "spanish": "educado",
+    "english": "polite (e)"
+  },
+  {
+    "spanish": "egoísta",
+    "english": "selfish"
+  },
+  {
+    "spanish": "la encuesta",
+    "english": "survey/opinion poll"
+  },
+  {
+    "spanish": "el extranjero",
+    "english": "foreigner"
+  },
+  {
+    "spanish": "extrovertido",
+    "english": "extrovert"
+  },
+  {
+    "spanish": "la familia",
+    "english": "family"
+  },
+  {
+    "spanish": "la familia adoptiva",
+    "english": "adoptive family"
+  },
+  {
+    "spanish": "la felicidad",
+    "english": "happiness"
+  },
+  {
+    "spanish": "feliz",
+    "english": "happy (f)"
+  },
+  {
+    "spanish": "formal",
+    "english": "polite (f)"
+  },
+  {
+    "spanish": "fuerte",
+    "english": "strong"
+  },
+  {
+    "spanish": "las gafas",
+    "english": "glasses"
+  },
+  {
+    "spanish": "el gato",
+    "english": "cat"
+  },
+  {
+    "spanish": "la generación",
+    "english": "generation"
+  },
+  {
+    "spanish": "la gente",
+    "english": "people"
+  },
+  {
+    "spanish": "gracioso",
+    "english": "funny"
+  },
+  {
+    "spanish": "guapo",
+    "english": "good-looking"
+  },
+  {
+    "spanish": "hablador",
+    "english": "talkative"
+  },
+  {
+    "spanish": "el hermanastro",
+    "english": "stepbrother"
+  },
+  {
+    "spanish": "el hermano",
+    "english": "brother"
+  },
+  {
+    "spanish": "el hijo (único)",
+    "english": "(only) son"
+  },
+  {
+    "spanish": "el hogar",
+    "english": "home (h)"
+  },
+  {
+    "spanish": "el hombre",
+    "english": "man"
+  },
+  {
+    "spanish": "honesto",
+    "english": "honest"
+  },
+  {
+    "spanish": "honrado",
+    "english": "honoured"
+  },
+  {
+    "spanish": "la identidad",
+    "english": "identity"
+  },
+  {
+    "spanish": "la igualdad",
+    "english": "equality"
+  },
+  {
+    "spanish": "impaciente",
+    "english": "impatient"
+  },
+  {
+    "spanish": "incluir",
+    "english": "to include"
+  },
+  {
+    "spanish": "la independencia",
+    "english": "independence"
+  },
+  {
+    "spanish": "independiente",
+    "english": "independent"
+  },
+  {
+    "spanish": "la influencia",
+    "english": "influence"
+  },
+  {
+    "spanish": "injusto",
+    "english": "unjust"
+  },
+  {
+    "spanish": "el inmigrante",
+    "english": "immigrant"
+  },
+  {
+    "spanish": "inteligente",
+    "english": "intelligent"
+  },
+  {
+    "spanish": "introvertido",
+    "english": "introverted"
+  },
+  {
+    "spanish": "la invitación",
+    "english": "invitation"
+  },
+  {
+    "spanish": "el invitado",
+    "english": "guest"
+  },
+  {
+    "spanish": "joven",
+    "english": "young (adj.)"
+  },
+  {
+    "spanish": "el joven",
+    "english": "young person"
+  },
+  {
+    "spanish": "jubilado",
+    "english": "retired"
+  },
+  {
+    "spanish": "justo",
+    "english": "fair/just"
+  },
+  {
+    "spanish": "la juventud",
+    "english": "youth"
+  },
+  {
+    "spanish": "largo",
+    "english": "long"
+  },
+  {
+    "spanish": "liso",
+    "english": "straight"
+  },
+  {
+    "spanish": "loco",
+    "english": "mad"
+  },
+  {
+    "spanish": "la madrastra",
+    "english": "stepmother"
+  },
+  {
+    "spanish": "la madre",
+    "english": "mother"
+  },
+  {
+    "spanish": "maleducado",
+    "english": "rude"
+  },
+  {
+    "spanish": "el maltrato",
+    "english": "ill-treatment"
+  },
+  {
+    "spanish": "la mamá",
+    "english": "mum"
+  },
+  {
+    "spanish": "la mano",
+    "english": "hand"
+  },
+  {
+    "spanish": "el marido",
+    "english": "husband (m)"
+  },
+  {
+    "spanish": "la mascota",
+    "english": "mascot/pet"
+  },
+  {
+    "spanish": "el matrimonio",
+    "english": "marriage/married couple"
+  },
+  {
+    "spanish": "moreno",
+    "english": "dark (adj.) (skin and hair tone)"
+  },
+  {
+    "spanish": "el muchacho",
+    "english": "boy (m)"
+  },
+  {
+    "spanish": "la mujer",
+    "english": "wife/woman"
+  },
+  {
+    "spanish": "nacido",
+    "english": "born"
+  },
+  {
+    "spanish": "el nacimiento",
+    "english": "birth"
+  },
+  {
+    "spanish": "la nacionalidad",
+    "english": "nationality"
+  },
+  {
+    "spanish": "la nariz",
+    "english": "nose"
+  },
+  {
+    "spanish": "la necesidad",
+    "english": "necessity"
+  },
+  {
+    "spanish": "nervioso",
+    "english": "nervous"
+  },
+  {
+    "spanish": "el nieto",
+    "english": "grandson"
+  },
+  {
+    "spanish": "el niño",
+    "english": "child"
+  },
+  {
+    "spanish": "el nombre",
+    "english": "name"
+  },
+  {
+    "spanish": "el novio",
+    "english": "boyfriend"
+  },
+  {
+    "spanish": "el ojo",
+    "english": "eye"
+  },
+  {
+    "spanish": "la ONG",
+    "english": "NGO (non-governmental organisation)"
+  },
+  {
+    "spanish": "optimista",
+    "english": "optimistic"
+  },
+  {
+    "spanish": "la oreja",
+    "english": "ear"
+  },
+  {
+    "spanish": "orgulloso",
+    "english": "proud"
+  },
+  {
+    "spanish": "paciente",
+    "english": "patient"
+  },
+  {
+    "spanish": "el padrastro",
+    "english": "stepfather"
+  },
+  {
+    "spanish": "el padre",
+    "english": "father"
+  },
+  {
+    "spanish": "los padres",
+    "english": "parents"
+  },
+  {
+    "spanish": "el pájaro",
+    "english": "bird"
+  },
+  {
+    "spanish": "el papá",
+    "english": "dad"
+  },
+  {
+    "spanish": "parado",
+    "english": "unemployed"
+  },
+  {
+    "spanish": "la pareja",
+    "english": "pair/couple"
+  },
+  {
+    "spanish": "el paro",
+    "english": "unemployment"
+  },
+  {
+    "spanish": "las pecas",
+    "english": "freckles"
+  },
+  {
+    "spanish": "pelirrojo",
+    "english": "red-haired"
+  },
+  {
+    "spanish": "el pelo",
+    "english": "hair"
+  },
+  {
+    "spanish": "perezoso",
+    "english": "lazy"
+  },
+  {
+    "spanish": "el periquito",
+    "english": "parakeet"
+  },
+  {
+    "spanish": "el perro",
+    "english": "dog"
+  },
+  {
+    "spanish": "la persona",
+    "english": "person"
+  },
+  {
+    "spanish": "la personalidad",
+    "english": "personality"
+  },
+  {
+    "spanish": "pesimista",
+    "english": "pessimistic"
+  },
+  {
+    "spanish": "el pez",
+    "english": "fish (living)"
+  },
+  {
+    "spanish": "el pie",
+    "english": "foot"
+  },
+  {
+    "spanish": "la pierna",
+    "english": "leg"
+  },
+  {
+    "spanish": "pobre",
+    "english": "poor"
+  },
+  {
+    "spanish": "la pobreza",
+    "english": "poverty"
+  },
+  {
+    "spanish": "práctico",
+    "english": "practical"
+  },
+  {
+    "spanish": "la preferencia",
+    "english": "preference"
+  },
+  {
+    "spanish": "el prejuicio",
+    "english": "prejudice"
+  },
+  {
+    "spanish": "el primo",
+    "english": "cousin"
+  },
+  {
+    "spanish": "prudente",
+    "english": "sensible"
+  },
+  {
+    "spanish": "el racismo",
+    "english": "racism"
+  },
+  {
+    "spanish": "racista",
+    "english": "racist"
+  },
+  {
+    "spanish": "la reacción",
+    "english": "reaction"
+  },
+  {
+    "spanish": "reservado",
+    "english": "reserved"
+  },
+  {
+    "spanish": "responsable",
+    "english": "responsible"
+  },
+  {
+    "spanish": "la reunión",
+    "english": "meeting"
+  },
+  {
+    "spanish": "rizado",
+    "english": "curly"
+  },
+  {
+    "spanish": "rubio",
+    "english": "blonde"
+  },
+  {
+    "spanish": "la sensación",
+    "english": "feeling/sensation"
+  },
+  {
+    "spanish": "el sentido del humor",
+    "english": "sense of humour"
+  },
+  {
+    "spanish": "el sentimiento",
+    "english": "feeling"
+  },
+  {
+    "spanish": "el señor",
+    "english": "gentleman"
+  },
+  {
+    "spanish": "la señora",
+    "english": "lady"
+  },
+  {
+    "spanish": "la señorita",
+    "english": "young lady"
+  },
+  {
+    "spanish": "separado",
+    "english": "separated"
+  },
+  {
+    "spanish": "serio",
+    "english": "serious"
+  },
+  {
+    "spanish": "el sida",
+    "english": "AIDS"
+  },
+  {
+    "spanish": "simpático",
+    "english": "nice/pleasant"
+  },
+  {
+    "spanish": "sincero",
+    "english": "sincere"
+  },
+  {
+    "spanish": "soltero",
+    "english": "single"
+  },
+  {
+    "spanish": "la tienda con fines benéficos",
+    "english": "charity shop"
+  },
+  {
+    "spanish": "tímido",
+    "english": "shy/timid"
+  },
+  {
+    "spanish": "el tío",
+    "english": "uncle"
+  },
+  {
+    "spanish": "tolerante",
+    "english": "tolerant"
+  },
+  {
+    "spanish": "la tortuga",
+    "english": "tortoise"
+  },
+  {
+    "spanish": "travieso",
+    "english": "naughty"
+  },
+  {
+    "spanish": "triste",
+    "english": "sad"
+  },
+  {
+    "spanish": "valiente",
+    "english": "brave"
+  },
+  {
+    "spanish": "el vandalismo",
+    "english": "vandalism"
+  },
+  {
+    "spanish": "el vecino",
+    "english": "neighbour"
+  },
+  {
+    "spanish": "la violencia",
+    "english": "violence"
+  },
+  {
+    "spanish": "violento",
+    "english": "violent"
+  },
+  {
+    "spanish": "voluntario",
+    "english": "voluntary (adj.)"
+  },
+  {
+    "spanish": "la voz",
+    "english": "voice"
+  },
+  {
+    "spanish": "adoptar",
+    "english": "to adopt"
+  },
+  {
+    "spanish": "arruinar",
+    "english": "to ruin"
+  },
+  {
+    "spanish": "beneficiar",
+    "english": "to benefit"
+  },
+  {
+    "spanish": "besar",
+    "english": "to kiss"
+  },
+  {
+    "spanish": "casarse",
+    "english": "to get married"
+  },
+  {
+    "spanish": "conocer",
+    "english": "to know (a person or place)"
+  },
+  {
+    "spanish": "contribuir",
+    "english": "to contribute"
+  },
+  {
+    "spanish": "conversar",
+    "english": "to talk (c)"
+  },
+  {
+    "spanish": "cuidar",
+    "english": "to look after"
+  },
+  {
+    "spanish": "dar las gracias",
+    "english": "to thank (d)"
+  },
+  {
+    "spanish": "decidir",
+    "english": "to decide"
+  },
+  {
+    "spanish": "describir",
+    "english": "to describe"
+  },
+  {
+    "spanish": "destruir",
+    "english": "to destroy"
+  },
+  {
+    "spanish": "discutir",
+    "english": "to discuss/to argue"
+  },
+  {
+    "spanish": "divorciarse",
+    "english": "to get divorced"
+  },
+  {
+    "spanish": "educar",
+    "english": "to educate"
+  },
+  {
+    "spanish": "enamorarse",
+    "english": "to fall in love"
+  },
+  {
+    "spanish": "enfadar(se)",
+    "english": "to get angry"
+  },
+  {
+    "spanish": "estar en paro",
+    "english": "to be unemployed"
+  },
+  {
+    "spanish": "formar parte (de)",
+    "english": "to be part (of)"
+  },
+  {
+    "spanish": "hablar",
+    "english": "to speak, talk (h)"
+  },
+  {
+    "spanish": "inmigrar",
+    "english": "to immigrate"
+  },
+  {
+    "spanish": "jubilarse",
+    "english": "to retire"
+  },
+  {
+    "spanish": "llamarse",
+    "english": "to be called"
+  },
+  {
+    "spanish": "llevar (puesto)",
+    "english": "to wear"
+  },
+  {
+    "spanish": "llevarse bien con",
+    "english": "to get on well with"
+  },
+  {
+    "spanish": "llevarse mal con",
+    "english": "to get on badly with"
+  },
+  {
+    "spanish": "maltratar",
+    "english": "to ill-treat"
+  },
+  {
+    "spanish": "nacer",
+    "english": "to be born"
+  },
+  {
+    "spanish": "ofender",
+    "english": "to offend"
+  },
+  {
+    "spanish": "ofenderse",
+    "english": "to take offence"
+  },
+  {
+    "spanish": "parecerse a...",
+    "english": "to ressemble"
+  },
+  {
+    "spanish": "ponerse",
+    "english": "to put on"
+  },
+  {
+    "spanish": "separarse",
+    "english": "to part"
+  },
+  {
+    "spanish": "supervisar",
+    "english": "to supervise"
+  },
+  {
+    "spanish": "tener (el pelo...)",
+    "english": "to have (...hair)"
+  },
+  {
+    "spanish": "tener (los ojos...)",
+    "english": "to have (...eyes)"
+  },
+  {
+    "spanish": "tener...años",
+    "english": "to be...years old"
+  },
+  {
+    "spanish": "tener suerte",
+    "english": "to be lucky"
+  }
+]
