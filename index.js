@@ -1,33 +1,20 @@
-const readline = require('readline')
+const rl = require('readline-sync')
 const {green, red, underline} = require('colors') // modifies String prototype
+const dictionary = require('./cards/spanish-vocabulary/all.json')
 
-const dictionary = {
-  "hello": {
-    english: "hello",
-    spanish: "hola"
+dictionary.forEach((word, index) => {
+  const source = word.english
+  const target = word.spanish
+
+  const answer = rl.question(`Translate ${underline(source)}: `)
+
+  if (verify(target, answer)) {
+    console.log(green('correct!'))
+  } else {
+    console.log(red('wrong!'), target)
   }
-}
-
-const rl = readline.createInterface({
-  input: process.stdin,
-  output: process.stdout
 })
 
-for (key in dictionary) {
-  const word = dictionary[key]
-  const source = 'english'
-  const target = 'spanish'
-  rl.question(`Translate ${underline(word[source])}: `, (answer) => {
-    if (verify(key, target, answer)) {
-      console.log(green('correct!'))
-    } else {
-      console.log(red('wrong!'))
-    }
-    rl.close()
-  })
-}
-
-function verify (key, target, answer) {
-  const word = dictionary[key]
-  return answer.toLowerCase() === word[target].toLowerCase()
+function verify (expected, answer) {
+  return answer.toLowerCase() === expected.toLowerCase()
 }
