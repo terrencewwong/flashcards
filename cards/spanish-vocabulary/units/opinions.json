@@ -9,7 +9,7 @@
   },
   {
     "spanish": "afortunado",
-    "english": "fortunate/lucky"
+    "english": ["fortunate", "lucky"]
   },
   {
     "spanish": "agradable",
@@ -17,11 +17,11 @@
   },
   {
     "spanish": "antiguo",
-    "english": "old/former (a)"
+    "english": ["old", "former"]
   },
   {
     "spanish": "apropiado",
-    "english": "appropriate/suitable"
+    "english": ["appropriate", "suitable"]
   },
   {
     "spanish": "barato",
@@ -64,28 +64,12 @@
     "english": "disadvantage"
   },
   {
-    "spanish": "la diferencia",
-    "english": "difference"
-  },
-  {
-    "spanish": "diferente",
-    "english": "different (not \"distinto\")"
-  },
-  {
-    "spanish": "difícil",
-    "english": "difficult"
-  },
-  {
     "spanish": "la dificultad",
     "english": "difficulty"
   },
   {
     "spanish": "distinto",
-    "english": "different (not \"diferente\")"
-  },
-  {
-    "spanish": "divertido",
-    "english": "entertaining/fun (d)"
+    "english": "different"
   },
   {
     "spanish": "duro",
@@ -97,7 +81,7 @@
   },
   {
     "spanish": "emocionante",
-    "english": "moving/exciting"
+    "english": ["moving", "exciting"]
   },
   {
     "spanish": "encantador",
@@ -105,7 +89,7 @@
   },
   {
     "spanish": "entretenido",
-    "english": "entertaining (e)"
+    "english": "entertaining"
   },
   {
     "spanish": "especial",
@@ -121,11 +105,11 @@
   },
   {
     "spanish": "estúpido",
-    "english": "stupid (e)"
+    "english": "stupid"
   },
   {
     "spanish": "excelente",
-    "english": "excellent (e)"
+    "english": "excellent"
   },
   {
     "spanish": "extraordinario",
@@ -156,12 +140,8 @@
     "english": "favourable"
   },
   {
-    "spanish": "favorito",
-    "english": "favourite (f)"
-  },
-  {
     "spanish": "fenomenal",
-    "english": "fantastic/brilliant"
+    "english": ["fantastic", "brilliant"]
   },
   {
     "spanish": "feo",
@@ -169,7 +149,7 @@
   },
   {
     "spanish": "genial",
-    "english": "great/brilliant"
+    "english": ["great", "brilliant"]
   },
   {
     "spanish": "hermoso",
@@ -177,7 +157,7 @@
   },
   {
     "spanish": "horroroso",
-    "english": "dreadful/hideous"
+    "english": ["dreadful", "hideous"]
   },
   {
     "spanish": "ideal",
@@ -201,7 +181,7 @@
   },
   {
     "spanish": "inseguro",
-    "english": "unsafe/uncertain"
+    "english": ["unsafe", "uncertain"]
   },
   {
     "spanish": "interesante",
@@ -212,14 +192,6 @@
     "english": "useless"
   },
   {
-    "spanish": "mal",
-    "english": "bad(ly)"
-  },
-  {
-    "spanish": "malo",
-    "english": "bad"
-  },
-  {
     "spanish": "maravilloso",
     "english": "wonderful"
   },
@@ -228,40 +200,20 @@
     "english": "modern"
   },
   {
-    "spanish": "negativo",
-    "english": "negative"
-  },
-  {
-    "spanish": "nuevo",
-    "english": "new"
-  },
-  {
-    "spanish": "perfecto",
-    "english": "perfect"
-  },
-  {
-    "spanish": "posible",
-    "english": "possible"
-  },
-  {
-    "spanish": "positivo",
-    "english": "positive"
-  },
-  {
     "spanish": "precioso",
     "english": "precious"
   },
   {
     "spanish": "preferido",
-    "english": "favourite (p)"
+    "english": "favourite"
   },
   {
     "spanish": "profundo",
-    "english": "profound/deep"
+    "english": ["profound", "deep"]
   },
   {
     "spanish": "raro",
-    "english": "strange/odd"
+    "english": ["strange", "odd"]
   },
   {
     "spanish": "regular",
@@ -270,10 +222,6 @@
   {
     "spanish": "ridículo",
     "english": "ridiculous"
-  },
-  {
-    "spanish": "seguro",
-    "english": "safe/certain"
   },
   {
     "spanish": "sencillo",
@@ -289,15 +237,15 @@
   },
   {
     "spanish": "tonto",
-    "english": "stupid (t)"
+    "english": "stupid"
   },
   {
     "spanish": "tranquilo",
-    "english": "quiet (t)"
+    "english": "quiet"
   },
   {
     "spanish": "único",
-    "english": "only/unique"
+    "english": ["only", "unique"]
   },
   {
     "spanish": "útil",
@@ -308,32 +256,24 @@
     "english": "advantage"
   },
   {
-    "spanish": "viejo",
-    "english": "old (v)"
-  },
-  {
     "spanish": "aburrirse",
-    "english": "to be/get bored"
+    "english": ["to be", "get bored"]
   },
   {
     "spanish": "adorar",
-    "english": "to love (a)"
+    "english": "to love"
   },
   {
-    "spanish": "alegrar(se)",
+    "spanish": "alegrarse",
     "english": "to be happy"
   },
   {
     "spanish": "apreciar",
-    "english": "to appreciate/to be fond of"
+    "english": ["to appreciate", "to be fond of"]
   },
   {
-    "spanish": "aprovechar(se)",
+    "spanish": "aprovecharse",
     "english": "to take advantage"
-  },
-  {
-    "spanish": "creer",
-    "english": "to think/to believe"
   },
   {
     "spanish": "dar igual",
@@ -349,11 +289,11 @@
   },
   {
     "spanish": "desear",
-    "english": "to want (d)"
+    "english": "to want"
   },
   {
     "spanish": "detestar",
-    "english": "to hate (d)"
+    "english": "to hate"
   },
   {
     "spanish": "disfrutar",
@@ -368,24 +308,20 @@
     "english": "to doubt"
   },
   {
-    "spanish": "encantar",
-    "english": "to love (e)"
+    "spanish": "encantar a alguien",
+    "english": "to love"
   },
   {
     "spanish": "esperar",
-    "english": "to hope; to wait"
+    "english": ["to hope", "to wait"]
   },
   {
-    "spanish": "estar a favor",
-    "english": "to agree (e.., not \"estar de acuerdo\")"
+    "spanish": ["estar a favor", "estar de acuerdo"],
+    "english": "to agree"
   },
   {
     "spanish": "estar en contra",
     "english": "to disagree"
-  },
-  {
-    "spanish": "estar de acuerdo",
-    "english": "to agree (e.., not \"estar a favor\")"
   },
   {
     "spanish": "estar harto de",
@@ -397,7 +333,7 @@
   },
   {
     "spanish": "fastidiar",
-    "english": "to annoy (f)"
+    "english": "to annoy"
   },
   {
     "spanish": "gustar",
@@ -409,15 +345,15 @@
   },
   {
     "spanish": "justificar",
-    "english": "to account for/to explain"
+    "english": ["to account for", "to explain"]
   },
   {
     "spanish": "odiar",
-    "english": "to hate (o)"
+    "english": "to hate"
   },
   {
     "spanish": "opinar",
-    "english": "to think (o)"
+    "english": "to think"
   },
   {
     "spanish": "parecer",
@@ -432,12 +368,8 @@
     "english": "to have a bad time"
   },
   {
-    "spanish": "pensar",
-    "english": "to think (p)"
-  },
-  {
     "spanish": "ponerse de acuerdo",
-    "english": "to reach an agreement (p..)"
+    "english": "to reach an agreement"
   },
   {
     "spanish": "preferir",
@@ -456,7 +388,7 @@
     "english": "to recognize"
   },
   {
-    "spanish": "sentir(se)",
+    "spanish": "sentirse",
     "english": "to feel"
   },
   {

@@ -8,8 +8,9 @@
     "english": "pottery"
   },
   {
-    "spanish": "el cristal",
-    "english": "glass (the material), crystal (c)"
+    "spanish": ["el cristal", "el vidrio"],
+    "english": "glass",
+    "clarification": "material"
   },
   {
     "spanish": "el cuero",
@@ -21,7 +22,7 @@
   },
   {
     "spanish": "la madera",
-    "english": "wood (the material)"
+    "english": "wood"
   },
   {
     "spanish": "el oro",
@@ -33,7 +34,7 @@
   },
   {
     "spanish": "la piel",
-    "english": "leather/skin"
+    "english": ["leather", "skin"]
   },
   {
     "spanish": "el plástico",
@@ -49,10 +50,6 @@
   },
   {
     "spanish": "la tela",
-    "english": "cloth/fabric"
-  },
-  {
-    "spanish": "el vidrio",
-    "english": "glass (the material) (v)"
+    "english": ["cloth", "fabric"]
   }
 ]
