@@ -6,7 +6,8 @@
   "author": "Terrence Wong <wongterrencew@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "colors": "^1.1.2"
+    "colors": "^1.1.2",
+    "readline-sync": "^1.4.6"
   },
   "scripts": {
     "compile": "yarn run compile:cards:spanish",
