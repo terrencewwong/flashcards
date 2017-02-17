@@ -13,7 +13,7 @@
   },
   {
     "spanish": "el despacho",
-    "english": "office (d)"
+    "english": "office"
   },
   {
     "spanish": "la enseñanza",
@@ -21,7 +21,7 @@
   },
   {
     "spanish": "riguroso",
-    "english": "strict (r)"
+    "english": "strict"
   },
   {
     "spanish": "comportarse",
@@ -33,7 +33,7 @@
   },
   {
     "spanish": "ponerse a (+ inf.)",
-    "english": "to start/to begin (+ inf.) (p..)"
+    "english": ["to start", "to begin"]
   },
   {
     "spanish": "traducir",

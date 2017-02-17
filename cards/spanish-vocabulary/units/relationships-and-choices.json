@@ -1,15 +1,11 @@
 [
   {
-    "spanish": "el abuelo",
-    "english": "grandfather"
-  },
-  {
     "spanish": "activo",
     "english": "active"
   },
   {
     "spanish": "adolescente",
-    "english": "adolescent (adj.)"
+    "english": "adolescent"
   },
   {
     "spanish": "el adolescente",
@@ -17,11 +13,7 @@
   },
   {
     "spanish": "adoptivo",
-    "english": "adoptive/adopted"
-  },
-  {
-    "spanish": "adulto",
-    "english": "adult (adj.)"
+    "english": ["adoptive", "adopted"]
   },
   {
     "spanish": "agresivo",
@@ -29,11 +21,11 @@
   },
   {
     "spanish": "alegre",
-    "english": "happy (a)"
+    "english": "happy"
   },
   {
     "spanish": "amable",
-    "english": "kind/nice"
+    "english": ["kind", "nice"]
   },
   {
     "spanish": "ambicioso",
@@ -49,7 +41,7 @@
   },
   {
     "spanish": "anciano",
-    "english": "old (a)"
+    "english": "old"
   },
   {
     "spanish": "el anciano",
@@ -73,7 +65,7 @@
   },
   {
     "spanish": "el aspecto",
-    "english": "look/appearance"
+    "english": ["look", "appearance"]
   },
   {
     "spanish": "la atención",
@@ -129,7 +121,7 @@
   },
   {
     "spanish": "el cariño",
-    "english": "love/affection"
+    "english": ["love", "affection"]
   },
   {
     "spanish": "el carnet de identidad",
@@ -141,15 +133,11 @@
   },
   {
     "spanish": "el casamiento",
-    "english": "marriage/wedding (c)"
+    "english": ["marriage", "wedding"]
   },
   {
     "spanish": "castaño",
     "english": "chestnut coloured"
-  },
-  {
-    "spanish": "el chico",
-    "english": "boy (c)"
   },
   {
     "spanish": "la cobaya",
@@ -160,12 +148,8 @@
     "english": "funny"
   },
   {
-    "spanish": "el compañero",
-    "english": "companion/partner"
-  },
-  {
     "spanish": "comprensivo",
-    "english": "understanding (adj.)"
+    "english": "understanding"
   },
   {
     "spanish": "el conejo",
@@ -177,7 +161,7 @@
   },
   {
     "spanish": "contento",
-    "english": "happy (c)"
+    "english": "happy"
   },
   {
     "spanish": "corto",
@@ -189,7 +173,7 @@
   },
   {
     "spanish": "la cualidad",
-    "english": "quality, attribute, characteristic"
+    "english": ["quality", "attribute", "characteristic"]
   },
   {
     "spanish": "cuidadoso",
@@ -217,7 +201,7 @@
   },
   {
     "spanish": "la discusión",
-    "english": "discussion/argument"
+    "english": ["discussion", "argument"]
   },
   {
     "spanish": "divorciado",
@@ -245,19 +229,11 @@
   },
   {
     "spanish": "la encuesta",
-    "english": "survey/opinion poll"
-  },
-  {
-    "spanish": "el extranjero",
-    "english": "foreigner"
+    "english": ["survey", "opinion poll"]
   },
   {
     "spanish": "extrovertido",
     "english": "extrovert"
-  },
-  {
-    "spanish": "la familia",
-    "english": "family"
   },
   {
     "spanish": "la familia adoptiva",
@@ -269,11 +245,11 @@
   },
   {
     "spanish": "feliz",
-    "english": "happy (f)"
+    "english": "happy"
   },
   {
     "spanish": "formal",
-    "english": "polite (f)"
+    "english": "polite"
   },
   {
     "spanish": "fuerte",
@@ -282,10 +258,6 @@
   {
     "spanish": "las gafas",
     "english": "glasses"
-  },
-  {
-    "spanish": "el gato",
-    "english": "cat"
   },
   {
     "spanish": "la generación",
@@ -300,10 +272,6 @@
     "english": "funny"
   },
   {
-    "spanish": "guapo",
-    "english": "good-looking"
-  },
-  {
     "spanish": "hablador",
     "english": "talkative"
   },
@@ -316,16 +284,8 @@
     "english": "brother"
   },
   {
-    "spanish": "el hijo (único)",
-    "english": "(only) son"
-  },
-  {
     "spanish": "el hogar",
-    "english": "home (h)"
-  },
-  {
-    "spanish": "el hombre",
-    "english": "man"
+    "english": "home"
   },
   {
     "spanish": "honesto",
@@ -389,7 +349,7 @@
   },
   {
     "spanish": "joven",
-    "english": "young (adj.)"
+    "english": "young"
   },
   {
     "spanish": "el joven",
@@ -401,7 +361,7 @@
   },
   {
     "spanish": "justo",
-    "english": "fair/just"
+    "english": ["fair", "just"]
   },
   {
     "spanish": "la juventud",
@@ -449,23 +409,20 @@
   },
   {
     "spanish": "la mascota",
-    "english": "mascot/pet"
+    "english": ["mascot", "pet"]
   },
   {
     "spanish": "el matrimonio",
-    "english": "marriage/married couple"
+    "english": ["marriage", "married couple"]
   },
   {
     "spanish": "moreno",
-    "english": "dark (adj.) (skin and hair tone)"
+    "english": "dark",
+    "clarification": "for skin tone or hair color"
   },
   {
     "spanish": "el muchacho",
-    "english": "boy (m)"
-  },
-  {
-    "spanish": "la mujer",
-    "english": "wife/woman"
+    "english": "boy"
   },
   {
     "spanish": "nacido",
@@ -504,16 +461,8 @@
     "english": "name"
   },
   {
-    "spanish": "el novio",
-    "english": "boyfriend"
-  },
-  {
     "spanish": "el ojo",
     "english": "eye"
-  },
-  {
-    "spanish": "la ONG",
-    "english": "NGO (non-governmental organisation)"
   },
   {
     "spanish": "optimista",
@@ -536,14 +485,6 @@
     "english": "stepfather"
   },
   {
-    "spanish": "el padre",
-    "english": "father"
-  },
-  {
-    "spanish": "los padres",
-    "english": "parents"
-  },
-  {
     "spanish": "el pájaro",
     "english": "bird"
   },
@@ -557,7 +498,7 @@
   },
   {
     "spanish": "la pareja",
-    "english": "pair/couple"
+    "english": ["pair", "couple"]
   },
   {
     "spanish": "el paro",
@@ -601,7 +542,8 @@
   },
   {
     "spanish": "el pez",
-    "english": "fish (living)"
+    "english": "fish",
+    "clarification": "animal, not culinary"
   },
   {
     "spanish": "el pie",
@@ -673,7 +615,7 @@
   },
   {
     "spanish": "la sensación",
-    "english": "feeling/sensation"
+    "english": ["feeling", "sensation"]
   },
   {
     "spanish": "el sentido del humor",
@@ -682,18 +624,6 @@
   {
     "spanish": "el sentimiento",
     "english": "feeling"
-  },
-  {
-    "spanish": "el señor",
-    "english": "gentleman"
-  },
-  {
-    "spanish": "la señora",
-    "english": "lady"
-  },
-  {
-    "spanish": "la señorita",
-    "english": "young lady"
   },
   {
     "spanish": "separado",
@@ -709,7 +639,7 @@
   },
   {
     "spanish": "simpático",
-    "english": "nice/pleasant"
+    "english": ["nice", "pleasant"]
   },
   {
     "spanish": "sincero",
@@ -725,7 +655,7 @@
   },
   {
     "spanish": "tímido",
-    "english": "shy/timid"
+    "english": ["shy", "timid"]
   },
   {
     "spanish": "el tío",
@@ -742,10 +672,6 @@
   {
     "spanish": "travieso",
     "english": "naughty"
-  },
-  {
-    "spanish": "triste",
-    "english": "sad"
   },
   {
     "spanish": "valiente",
@@ -769,7 +695,7 @@
   },
   {
     "spanish": "voluntario",
-    "english": "voluntary (adj.)"
+    "english": "voluntary"
   },
   {
     "spanish": "la voz",
@@ -796,16 +722,12 @@
     "english": "to get married"
   },
   {
-    "spanish": "conocer",
-    "english": "to know (a person or place)"
-  },
-  {
     "spanish": "contribuir",
     "english": "to contribute"
   },
   {
     "spanish": "conversar",
-    "english": "to talk (c)"
+    "english": "to talk"
   },
   {
     "spanish": "cuidar",
@@ -813,7 +735,7 @@
   },
   {
     "spanish": "dar las gracias",
-    "english": "to thank (d)"
+    "english": "to thank"
   },
   {
     "spanish": "decidir",
@@ -829,7 +751,7 @@
   },
   {
     "spanish": "discutir",
-    "english": "to discuss/to argue"
+    "english": ["to discuss", "to argue"]
   },
   {
     "spanish": "divorciarse",
@@ -844,7 +766,7 @@
     "english": "to fall in love"
   },
   {
-    "spanish": "enfadar(se)",
+    "spanish": "enfadarse",
     "english": "to get angry"
   },
   {
@@ -857,7 +779,7 @@
   },
   {
     "spanish": "hablar",
-    "english": "to speak, talk (h)"
+    "english": ["to speak", "talk"]
   },
   {
     "spanish": "inmigrar",
@@ -872,7 +794,7 @@
     "english": "to be called"
   },
   {
-    "spanish": "llevar (puesto)",
+    "spanish": "llevar",
     "english": "to wear"
   },
   {
@@ -914,14 +836,6 @@
   {
     "spanish": "supervisar",
     "english": "to supervise"
-  },
-  {
-    "spanish": "tener (el pelo...)",
-    "english": "to have (...hair)"
-  },
-  {
-    "spanish": "tener (los ojos...)",
-    "english": "to have (...eyes)"
   },
   {
     "spanish": "tener...años",
