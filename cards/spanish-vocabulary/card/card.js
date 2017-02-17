@@ -21,7 +21,25 @@ module.exports = class Card {
   }
 
   render (variant) {
-    return this[variant]
+    const english = this.renderEnglish()
+    const spanish = this.renderSpanish()
+
+    switch (variant) {
+      case ENGLISH:
+        return [english, spanish]
+      case SPANISH:
+        return [spanish, english]
+      default:
+        throw new Error('Invalid variant.')
+    }
+  }
+
+  renderEnglish () {
+    return `English - ${this.english}`
+  }
+
+  renderSpanish () {
+    return `español - ${this.spanish}`
   }
 
   renderRandomVariant () {

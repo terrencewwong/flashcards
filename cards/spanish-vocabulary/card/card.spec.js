@@ -4,7 +4,7 @@ const CardBuilder = require('./card.data')
 describe('card', () => {
   it('it should render the english variant properly', () => {
 		const card = CardBuilder.create().build()
-		expect(card.render('english')).toBe(card.english)
+		expect(card.render('english')).toEqual([card.renderEnglish(), card.renderSpanish()])
 	})
 
 	it('it can render a random variant', () => {
