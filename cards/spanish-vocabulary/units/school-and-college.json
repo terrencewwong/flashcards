@@ -8,10 +8,6 @@
     "english": "activity"
   },
   {
-    "spanish": "el alemán",
-    "english": "German (language, man)"
-  },
-  {
     "spanish": "el alumno",
     "english": "pupil"
   },
@@ -32,8 +28,8 @@
     "english": "subject"
   },
   {
-    "spanish": "el aula (f.)",
-    "english": "classroom (fem \"el\")"
+    "spanish": "el aula",
+    "english": "classroom"
   },
   {
     "spanish": "ausente",
@@ -52,12 +48,8 @@
     "english": "biology"
   },
   {
-    "spanish": "el bolígrafo",
-    "english": "ballpoint pen (long form)"
-  },
-  {
-    "spanish": "el boli",
-    "english": "ballpoint pen (short form)"
+    "spanish": ["el bolígrafo", "el boli"],
+    "english": "ballpoint pen"
   },
   {
     "spanish": "la calculadora",
@@ -69,7 +61,7 @@
   },
   {
     "spanish": "la cantina",
-    "english": "canteen/cafeteria"
+    "english": ["canteen", "cafeteria"]
   },
   {
     "spanish": "el castigo",
@@ -97,19 +89,15 @@
   },
   {
     "spanish": "el colegio",
-    "english": "school (c)"
+    "english": "school"
   },
   {
     "spanish": "el comercio",
     "english": "business studies"
   },
   {
-    "spanish": "el comportamiento",
-    "english": "behaviour (not \"la conducta\")"
-  },
-  {
-    "spanish": "la conducta",
-    "english": "behaviour (not \"el comportamiento\")"
+    "spanish": ["el comportamiento",  "la conducta"],
+    "english": "behaviour"
   },
   {
     "spanish": "el consejo",
@@ -156,16 +144,8 @@
     "english": "PE"
   },
   {
-    "spanish": "la escuela",
-    "english": "school (e)"
-  },
-  {
-    "spanish": "el español",
-    "english": "Spanish (language, man)"
-  },
-  {
     "spanish": "estricto",
-    "english": "strict (e)"
+    "english": "strict"
   },
   {
     "spanish": "el estuche",
@@ -188,24 +168,16 @@
     "english": "success"
   },
   {
-    "spanish": "femenino",
-    "english": "female/girls'"
-  },
-  {
     "spanish": "la física",
     "english": "physics"
   },
   {
     "spanish": "físico",
-    "english": "physical (adj.)"
+    "english": "physical"
   },
   {
     "spanish": "el fracaso",
     "english": "failure"
-  },
-  {
-    "spanish": "el francés",
-    "english": "French (language, man)"
   },
   {
     "spanish": "la geografía",
@@ -228,16 +200,8 @@
     "english": "history"
   },
   {
-    "spanish": "el idioma",
-    "english": "language (i)"
-  },
-  {
     "spanish": "la informática",
     "english": "computing"
-  },
-  {
-    "spanish": "el inglés",
-    "english": "English (language, man)"
   },
   {
     "spanish": "insolente",
@@ -249,7 +213,7 @@
   },
   {
     "spanish": "el instituto",
-    "english": "school (i)"
+    "english": "school"
   },
   {
     "spanish": "el intercambio",
@@ -261,7 +225,7 @@
   },
   {
     "spanish": "los lápices de colores",
-    "english": "coloured pencils"
+    "english": "colored pencils"
   },
   {
     "spanish": "el lápiz",
@@ -272,24 +236,17 @@
     "english": "lesson"
   },
   {
-    "spanish": "la lengua",
-    "english": "language (l)"
-  },
-  {
     "spanish": "la letra",
-    "english": "letter (of the alphabet)"
+    "english": "letter",
+    "clarifiation": "of the alphabet"
   },
   {
     "spanish": "la libertad",
     "english": "freedom"
   },
   {
-    "spanish": "masculino",
-    "english": "male/boys'"
-  },
-  {
     "spanish": "las matemáticas",
-    "english": "maths"
+    "english": "mathematics"
   },
   {
     "spanish": "mixto",
@@ -305,7 +262,7 @@
   },
   {
     "spanish": "la nota",
-    "english": "mark"
+    "english": ["mark", "grade"]
   },
   {
     "spanish": "obligatorio",
@@ -345,7 +302,7 @@
   },
   {
     "spanish": "las prácticas laborales",
-    "english": "work experience (p)"
+    "english": "work experience"
   },
   {
     "spanish": "la pregunta",
@@ -357,7 +314,7 @@
   },
   {
     "spanish": "presente",
-    "english": "present (adj.)"
+    "english": "present"
   },
   {
     "spanish": "primario",
@@ -377,7 +334,7 @@
   },
   {
     "spanish": "público",
-    "english": "public (adj.)"
+    "english": "public"
   },
   {
     "spanish": "la química",
@@ -389,11 +346,11 @@
   },
   {
     "spanish": "la regla",
-    "english": "rule/ruler"
+    "english": "rule"
   },
   {
     "spanish": "la religión",
-    "english": "RE"
+    "english": "religion"
   },
   {
     "spanish": "el respeto",
@@ -429,7 +386,7 @@
   },
   {
     "spanish": "severo",
-    "english": "strict (s)"
+    "english": "strict"
   },
   {
     "spanish": "el silencio",
@@ -437,7 +394,7 @@
   },
   {
     "spanish": "sobresaliente",
-    "english": "excellent (s)"
+    "english": "excellent"
   },
   {
     "spanish": "el taller",
@@ -453,7 +410,7 @@
   },
   {
     "spanish": "el tema",
-    "english": "theme/topic"
+    "english": ["theme", "topic"]
   },
   {
     "spanish": "el texto",
@@ -469,7 +426,7 @@
   },
   {
     "spanish": "el trabajo",
-    "english": "work (t)"
+    "english": "work"
   },
   {
     "spanish": "los trabajos manuales",
@@ -485,7 +442,8 @@
   },
   {
     "spanish": "el uniforme",
-    "english": "uniform (noun)"
+    "english": "uniform",
+    "partOfSpeech": "noun"
   },
   {
     "spanish": "los vestuarios",
@@ -516,7 +474,7 @@
     "english": "to attack"
   },
   {
-    "spanish": "callar(se)",
+    "spanish": "callarse",
     "english": "to be quiet"
   },
   {
@@ -529,11 +487,11 @@
   },
   {
     "spanish": "comenzar",
-    "english": "to start (c)"
+    "english": "to start"
   },
   {
     "spanish": "comprender",
-    "english": "to understand (c)"
+    "english": "to understand"
   },
   {
     "spanish": "contestar",
@@ -545,7 +503,7 @@
   },
   {
     "spanish": "empezar",
-    "english": "to start (e)"
+    "english": "to start"
   },
   {
     "spanish": "enseñar",
@@ -553,7 +511,7 @@
   },
   {
     "spanish": "entender",
-    "english": "to understand (e)"
+    "english": "to understand"
   },
   {
     "spanish": "escribir",
@@ -593,7 +551,7 @@
   },
   {
     "spanish": "molestar",
-    "english": "to annoy (m)"
+    "english": "to annoy"
   },
   {
     "spanish": "olvidar",
@@ -601,7 +559,7 @@
   },
   {
     "spanish": "pasar",
-    "english": "to happen (p)"
+    "english": "to happen"
   },
   {
     "spanish": "pedir permiso",
@@ -633,7 +591,7 @@
   },
   {
     "spanish": "suspender",
-    "english": "to fail (an exam) (s)"
+    "english": "to fail (an exam)"
   },
   {
     "spanish": "terminar",
