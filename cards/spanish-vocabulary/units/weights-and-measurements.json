@@ -5,7 +5,7 @@
   },
   {
     "spanish": "alto",
-    "english": "high/tall"
+    "english": ["high", "tall"]
   },
   {
     "spanish": "la altura",
@@ -25,7 +25,7 @@
   },
   {
     "spanish": "la bolsa",
-    "english": "bag (not \"el bolso\")"
+    "english": "bag"
   },
   {
     "spanish": "el bote",
@@ -45,7 +45,7 @@
   },
   {
     "spanish": "el cartón",
-    "english": "cardboard; carton"
+    "english": ["cardboard", "carton"]
   },
   {
     "spanish": "el centímetro",
@@ -53,7 +53,7 @@
   },
   {
     "spanish": "completo",
-    "english": "full (c)"
+    "english": "full"
   },
   {
     "spanish": "un cuarto",
@@ -61,7 +61,7 @@
   },
   {
     "spanish": "delgado",
-    "english": "slim, thin"
+    "english": ["slim", "thin"]
   },
   {
     "spanish": "el doble",
@@ -72,8 +72,8 @@
     "english": "narrow"
   },
   {
-    "spanish": "gordo",
-    "english": "fat (not \"grueso\")"
+    "spanish": ["gordo", "grueso"],
+    "english": "fat"
   },
   {
     "spanish": "el gramo",
@@ -82,10 +82,6 @@
   {
     "spanish": "grande",
     "english": "big"
-  },
-  {
-    "spanish": "grueso",
-    "english": "fat (not \"gordo\")"
   },
   {
     "spanish": "la lata",
@@ -97,7 +93,7 @@
   },
   {
     "spanish": "lleno",
-    "english": "full (l)"
+    "english": "full"
   },
   {
     "spanish": "mediano",
@@ -109,15 +105,13 @@
   },
   {
     "spanish": "medio",
-    "english": "half (m) (adj.)"
+    "english": "half",
+    "partOfSpeech": "adjective"
   },
   {
     "spanish": "la mitad",
-    "english": "half (l m) (noun)"
-  },
-  {
-    "spanish": "mucho",
-    "english": "a lot of"
+    "english": "half",
+    "partOfSpeech": "noun"
   },
   {
     "spanish": "el paquete",
@@ -125,19 +119,11 @@
   },
   {
     "spanish": "el pedazo",
-    "english": "piece (p)"
-  },
-  {
-    "spanish": "pequeño",
-    "english": "small"
+    "english": "piece"
   },
   {
     "spanish": "el peso",
     "english": "weight"
-  },
-  {
-    "spanish": "un poco",
-    "english": "a little"
   },
   {
     "spanish": "la ración",
@@ -148,16 +134,12 @@
     "english": "enough"
   },
   {
-    "spanish": "la talla",
-    "english": "size (not \"el tamaño\")"
-  },
-  {
-    "spanish": "el tamaño",
-    "english": "size (not \"la talla\")"
+    "spanish": ["el tamaño", "la talla"],
+    "english": "size"
   },
   {
     "spanish": "el trozo",
-    "english": "piece (t)"
+    "english": "piece"
   },
   {
     "spanish": "vacío",
