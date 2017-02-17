@@ -12,8 +12,8 @@
     "english": "lawyer"
   },
   {
-    "spanish": "el ama de casa (f.)",
-    "english": "housewife (fem \"el\")"
+    "spanish": "el ama de casa",
+    "english": "housewife"
   },
   {
     "spanish": "la ambición",
@@ -69,7 +69,8 @@
   },
   {
     "spanish": "la carta",
-    "english": "letter (item of mail)"
+    "english": "letter",
+    "clarification": "mail"
   },
   {
     "spanish": "el cartero",
@@ -93,7 +94,7 @@
   },
   {
     "spanish": "el comercio",
-    "english": "commerce/shop"
+    "english": ["commerce", "shop"]
   },
   {
     "spanish": "competente",
@@ -153,7 +154,7 @@
   },
   {
     "spanish": "el empleo",
-    "english": "job (e)"
+    "english": "job"
   },
   {
     "spanish": "la empresa",
@@ -177,7 +178,7 @@
   },
   {
     "spanish": "la experiencia laboral",
-    "english": "work experience (e)"
+    "english": "work experience"
   },
   {
     "spanish": "la explicación",
@@ -224,8 +225,9 @@
     "english": "boss"
   },
   {
-    "spanish": "laboral (adj.)",
-    "english": "work (adj.)"
+    "spanish": "laboral",
+    "english": "work",
+    "partOfSpeech": "adjective"
   },
   {
     "spanish": "la línea",
@@ -241,7 +243,7 @@
   },
   {
     "spanish": "el médico",
-    "english": "doctor (m)"
+    "english": "doctor"
   },
   {
     "spanish": "el mensaje",
@@ -249,19 +251,19 @@
   },
   {
     "spanish": "el militar",
-    "english": "soldier (m)"
+    "english": "soldier"
   },
   {
     "spanish": "el objetivo",
-    "english": "objective/aim"
+    "english": ["objective", "aim", "goal"]
   },
   {
     "spanish": "el obrero",
-    "english": "worker (o)"
+    "english": "worker"
   },
   {
     "spanish": "la oficina",
-    "english": "office (o)"
+    "english": "office"
   },
   {
     "spanish": "el panadero",
@@ -305,7 +307,7 @@
   },
   {
     "spanish": "puntocom",
-    "english": ".com (dot com)"
+    "english": ".com"
   },
   {
     "spanish": "el recepcionista",
@@ -333,7 +335,7 @@
   },
   {
     "spanish": "el soldado",
-    "english": "soldier (s)"
+    "english": "soldier"
   },
   {
     "spanish": "la solicitud",
@@ -341,7 +343,7 @@
   },
   {
     "spanish": "el sueldo",
-    "english": "pay/salary"
+    "english": ["pay", "salary"]
   },
   {
     "spanish": "la tarjeta",
@@ -357,7 +359,7 @@
   },
   {
     "spanish": "el trabajador",
-    "english": "worker (t)"
+    "english": "worker"
   },
   {
     "spanish": "el traductor",
@@ -393,7 +395,7 @@
   },
   {
     "spanish": "obtener",
-    "english": "to obtain (o)"
+    "english": "to obtain"
   },
   {
     "spanish": "pagar bien",
@@ -412,15 +414,11 @@
     "english": "to fill in"
   },
   {
-    "spanish": "tomar un año libre",
-    "english": "to take a gap year (not \"tomar un año sabático\")"
-  },
-  {
-    "spanish": "tomar un año sabático",
-    "english": "to take a gap year (not \"tomar un año libre\")"
+    "spanish": ["tomar un año libre", "tomar un año sabático"],
+    "english": "to take a gap year"
   },
   {
     "spanish": "trabajar",
-    "english": "to work (= be in a job)"
+    "english": "to work"
   }
 ]

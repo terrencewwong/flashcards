@@ -12,10 +12,6 @@
     "english": "warming"
   },
   {
-    "spanish": "los CFCs",
-    "english": "CFCs"
-  },
-  {
     "spanish": "el combustible (fósil)",
     "english": "fossil fuel"
   },
@@ -29,7 +25,7 @@
   },
   {
     "spanish": "la culpa",
-    "english": "fault/blame"
+    "english": ["fault", "blame"]
   },
   {
     "spanish": "la deforestación",
@@ -112,7 +108,7 @@
     "english": "to blame"
   },
   {
-    "spanish": "inquietar(se)",
-    "english": "to worry (i)"
+    "spanish": "inquietarse",
+    "english": "to worry"
   }
 ]

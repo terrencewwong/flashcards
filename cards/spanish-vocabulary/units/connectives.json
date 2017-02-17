@@ -1,7 +1,7 @@
 [
   {
     "spanish": "además",
-    "english": "in addition/also"
+    "english": ["in addition", "also"]
   },
   {
     "spanish": "aparte de",

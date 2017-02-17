@@ -13,7 +13,8 @@
   },
   {
     "spanish": "el balón",
-    "english": "ball (large: basketball, football)"
+    "english": "ball",
+    "clarification": "large: basketball, football"
   },
   {
     "spanish": "la bufanda",
@@ -25,7 +26,7 @@
   },
   {
     "spanish": "la cazadora",
-    "english": "jacket (not \"la chaqueta\")"
+    "english": "jacket"
   },
   {
     "spanish": "el ciberespacio",
@@ -68,12 +69,8 @@
     "english": "medal"
   },
   {
-    "spanish": "las medias",
-    "english": "tights (m) (plural)"
-  },
-  {
     "spanish": "el panty",
-    "english": "tights (p) (singular)"
+    "english": "panties"
   },
   {
     "spanish": "la prensa",
@@ -109,11 +106,11 @@
   },
   {
     "spanish": "la tabacalera",
-    "english": "tobacconist's (t)"
+    "english": "tobacco store"
   },
   {
     "spanish": "el torneo",
-    "english": "tournament/competition"
+    "english": ["tournament", "competition"]
   },
   {
     "spanish": "el usuario",
@@ -125,15 +122,15 @@
   },
   {
     "spanish": "acceder",
-    "english": "to agree (a.., not \"acceder\")"
+    "english": "to agree"
   },
   {
     "spanish": "adjuntar",
-    "english": "to enclose/to attach"
+    "english": ["to enclose", "to attach"]
   },
   {
     "spanish": "cargar",
-    "english": "to load/to charge"
+    "english": ["to load", "to charge"]
   },
   {
     "spanish": "dar una vuelta",
@@ -145,7 +142,7 @@
   },
   {
     "spanish": "lograr",
-    "english": "to get (l), to obtain"
+    "english": ["to get", "to obtain"]
   },
   {
     "spanish": "reírse",

@@ -4,20 +4,12 @@
     "english": "quite"
   },
   {
-    "spanish": "bien",
-    "english": "well; good"
-  },
-  {
     "spanish": "demasiado",
     "english": "too much"
   },
   {
-    "spanish": "la descripción",
-    "english": "description"
-  },
-  {
     "spanish": "igual que",
-    "english": "like/the same as"
+    "english": ["like", "the same as"]
   },
   {
     "spanish": "más (que)",
@@ -25,23 +17,20 @@
   },
   {
     "spanish": "máximo",
-    "english": "maximum (adj.)"
+    "english": "maximum",
+    "partOfSpeech": "adjective"
   },
   {
     "spanish": "mayor",
-    "english": "larger/older"
+    "english": ["larger", "older"]
   },
   {
     "spanish": "la mayoría",
     "english": "the majority"
   },
   {
-    "spanish": "mejor",
-    "english": "better"
-  },
-  {
     "spanish": "menor",
-    "english": "smaller/younger"
+    "english": ["smaller", "younger"]
   },
   {
     "spanish": "menos (que)",
@@ -49,15 +38,8 @@
   },
   {
     "spanish": "mínimo",
-    "english": "minimum (adj.)"
-  },
-  {
-    "spanish": "mismo",
-    "english": "same"
-  },
-  {
-    "spanish": "muy",
-    "english": "very"
+    "english": "minimum",
+    "partOfSpeech": "adjective"
   },
   {
     "spanish": "parecido a",
@@ -66,14 +48,6 @@
   {
     "spanish": "peor",
     "english": "worse"
-  },
-  {
-    "spanish": "poco",
-    "english": "little/ not much"
-  },
-  {
-    "spanish": "por ejemplo",
-    "english": "for example"
   },
   {
     "spanish": "tan...como",

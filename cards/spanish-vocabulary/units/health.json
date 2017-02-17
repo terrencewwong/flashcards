@@ -5,7 +5,7 @@
   },
   {
     "spanish": "el aceite",
-    "english": "oil (cooking oil; lubricating oil)"
+    "english": "oil"
   },
   {
     "spanish": "adictivo",
@@ -16,28 +16,12 @@
     "english": "addict"
   },
   {
-    "spanish": "el agua (f.)",
-    "english": "water (fem \"el\")"
-  },
-  {
-    "spanish": "el agua mineral con gas",
-    "english": "fizzy mineral water"
-  },
-  {
-    "spanish": "el agua mineral sin gas",
-    "english": "still mineral water"
-  },
-  {
     "spanish": "el ajo",
     "english": "garlic"
   },
   {
     "spanish": "alcohólico",
-    "english": "alcoholic (adj.)"
-  },
-  {
-    "spanish": "el alimento",
-    "english": "food (not \"la alimentación\" or \"la comida\")"
+    "english": "alcoholic"
   },
   {
     "spanish": "el arroz",
@@ -60,7 +44,7 @@
     "english": "cod"
   },
   {
-    "spanish": "la barra (de pan)",
+    "spanish": "la barra",
     "english": "French loaf"
   },
   {
@@ -72,20 +56,16 @@
     "english": "well done"
   },
   {
-    "spanish": "el bistec",
-    "english": "steak (b.. not \"el bisté\")"
-  },
-  {
-    "spanish": "el bisté",
-    "english": "steak (b.. not \"el bistec\")"
+    "spanish": ["el bistec",  "el bisté"],
+    "english": "steak"
   },
   {
     "spanish": "el bocadillo",
     "english": "sandwich"
   },
   {
-    "spanish": "el bombón",
-    "english": "chocolate (b)"
+    "spanish": ["el bombón", "el chocolate"],
+    "english": "chocolate"
   },
   {
     "spanish": "borracho",
@@ -97,7 +77,7 @@
   },
   {
     "spanish": "los calamares",
-    "english": "squid (plural)"
+    "english": "squid"
   },
   {
     "spanish": "cansado",
@@ -105,35 +85,15 @@
   },
   {
     "spanish": "el caramelo",
-    "english": "sweet, piece of candy"
-  },
-  {
-    "spanish": "la carne",
-    "english": "meat"
+    "english": ["sweet", "piece of candy"]
   },
   {
     "spanish": "los cereales",
     "english": "cereals"
   },
   {
-    "spanish": "la cerveza",
-    "english": "beer"
-  },
-  {
     "spanish": "los champiñones",
     "english": "mushrooms"
-  },
-  {
-    "spanish": "el chocolate",
-    "english": "chocolate (c)"
-  },
-  {
-    "spanish": "el chorizo",
-    "english": "Spanish sausage"
-  },
-  {
-    "spanish": "los churros",
-    "english": "fritters"
   },
   {
     "spanish": "el cigarrillo",
@@ -144,20 +104,12 @@
     "english": "cocaine"
   },
   {
-    "spanish": "la cocina",
-    "english": "cuisine"
-  },
-  {
     "spanish": "la col",
     "english": "cabbage"
   },
   {
     "spanish": "la coliflor",
     "english": "cauliflower"
-  },
-  {
-    "spanish": "la comida",
-    "english": "lunch/meal/food (not \"el alimento\" or \"la alimentación\")"
   },
   {
     "spanish": "la comida basura",
@@ -177,19 +129,19 @@
   },
   {
     "spanish": "de cerdo",
-    "english": "pork (adj. phrase)"
+    "english": "pork"
   },
   {
     "spanish": "de cordero",
-    "english": "lamb (adj. phrase)"
+    "english": "lamb"
   },
   {
     "spanish": "de ternera",
-    "english": "veal (adj. phrase)"
+    "english": "veal"
   },
   {
     "spanish": "de vaca",
-    "english": "beef (adj. phrase)"
+    "english": "beef"
   },
   {
     "spanish": "la depresión",
@@ -217,7 +169,7 @@
   },
   {
     "spanish": "dulce",
-    "english": "sweet (adj.)"
+    "english": "sweet"
   },
   {
     "spanish": "el ejercicio (físico)",
@@ -249,7 +201,7 @@
   },
   {
     "spanish": "el filete",
-    "english": "steak (f)"
+    "english": "steak"
   },
   {
     "spanish": "el flan",
@@ -262,10 +214,6 @@
   {
     "spanish": "frito",
     "english": "fried"
-  },
-  {
-    "spanish": "la fruta",
-    "english": "fruit"
   },
   {
     "spanish": "el fumador",
@@ -316,10 +264,6 @@
     "english": "injection"
   },
   {
-    "spanish": "el jamón (de york)",
-    "english": "boiled ham"
-  },
-  {
     "spanish": "el jamón serrano",
     "english": "Parma ham"
   },
@@ -337,7 +281,7 @@
   },
   {
     "spanish": "las legumbres",
-    "english": "vegetables (l)"
+    "english": "vegetables"
   },
   {
     "spanish": "el limón",
@@ -352,20 +296,12 @@
     "english": "butter"
   },
   {
-    "spanish": "la manzana",
-    "english": "apple"
-  },
-  {
     "spanish": "los mariscos",
     "english": "seafood"
   },
   {
     "spanish": "el melocotón",
     "english": "peach"
-  },
-  {
-    "spanish": "la merienda",
-    "english": "snack/picnic"
   },
   {
     "spanish": "la mermelada",
@@ -392,10 +328,6 @@
     "english": "nut"
   },
   {
-    "spanish": "la paella",
-    "english": "paella"
-  },
-  {
     "spanish": "el pan",
     "english": "bread"
   },
@@ -405,7 +337,7 @@
   },
   {
     "spanish": "el pastel",
-    "english": "cake (p)"
+    "english": "cake"
   },
   {
     "spanish": "la patata",
@@ -413,7 +345,7 @@
   },
   {
     "spanish": "las patatas fritas",
-    "english": "chips/crisps"
+    "english": "french fries"
   },
   {
     "spanish": "la pera",
@@ -425,7 +357,7 @@
   },
   {
     "spanish": "el pescado",
-    "english": "fish (for eating)"
+    "english": "fish"
   },
   {
     "spanish": "picante",
@@ -433,11 +365,11 @@
   },
   {
     "spanish": "el pimiento",
-    "english": "bell pepper (the vegetable)"
+    "english": "bell pepper"
   },
   {
     "spanish": "la pimienta",
-    "english": "pepper (the spice)"
+    "english": "pepper"
   },
   {
     "spanish": "la piña",
@@ -464,10 +396,6 @@
     "english": "rehabilitation"
   },
   {
-    "spanish": "rico",
-    "english": "tasty; wealthy (r)"
-  },
-  {
     "spanish": "la sal",
     "english": "salt"
   },
@@ -492,16 +420,12 @@
     "english": "health"
   },
   {
-    "spanish": "saludable",
-    "english": "healthy (not \"sano\")"
+    "spanish": ["saludable", "sano"],
+    "english": "healthy"
   },
   {
     "spanish": "la sangría",
     "english": "sangria"
-  },
-  {
-    "spanish": "sano",
-    "english": "healthy (not \"saludable\")"
   },
   {
     "spanish": "la sardina",
@@ -521,7 +445,7 @@
   },
   {
     "spanish": "la tarta",
-    "english": "cake (t)"
+    "english": "cake"
   },
   {
     "spanish": "el té",
@@ -557,23 +481,15 @@
   },
   {
     "spanish": "las verduras",
-    "english": "vegetables (v)"
+    "english": "vegetables"
   },
   {
     "spanish": "el vinagre",
     "english": "vinegar"
   },
   {
-    "spanish": "el vino (blanco)",
-    "english": "(white) wine"
-  },
-  {
-    "spanish": "el vino (rosado)",
-    "english": "(rosé) wine"
-  },
-  {
-    "spanish": "el vino (tinto)",
-    "english": "(red) wine"
+    "spanish": "el vino rosado",
+    "english": "rosé"
   },
   {
     "spanish": "el yogur",
@@ -597,7 +513,7 @@
   },
   {
     "spanish": "arreglar",
-    "english": "to tidy/to repair"
+    "english": ["to tidy", "to repair"]
   },
   {
     "spanish": "beber",
@@ -613,7 +529,7 @@
   },
   {
     "spanish": "cenar",
-    "english": "to have dinner/supper"
+    "english": "to have dinner"
   },
   {
     "spanish": "cocinar",
@@ -696,8 +612,8 @@
     "english": "to keep oneself fit"
   },
   {
-    "spanish": "mejorar(se)",
-    "english": "to get better/to improve"
+    "spanish": "mejorarse",
+    "english": ["to get better", "to improve"]
   },
   {
     "spanish": "morir",
@@ -749,7 +665,7 @@
   },
   {
     "spanish": "tomar",
-    "english": "to take (t)"
+    "english": "to take"
   },
   {
     "spanish": "la cebolla",
@@ -757,10 +673,10 @@
   },
   {
     "spanish": "la cena",
-    "english": "dinner/supper"
+    "english": "dinner"
   },
   {
     "spanish": "la chuleta",
-    "english": "chop/cutlet"
+    "english": ["chop", "cutlet"]
   }
 ]

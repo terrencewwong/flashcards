@@ -13,11 +13,12 @@
   },
   {
     "spanish": "claro",
-    "english": "light (adj., referring to colour)"
+    "english": "light",
+    "clarification": "of color"
   },
   {
     "spanish": "el color",
-    "english": "colour"
+    "english": "color"
   },
   {
     "spanish": "gris",
@@ -33,7 +34,8 @@
   },
   {
     "spanish": "naranja",
-    "english": "orange (adj.)"
+    "english": "orange",
+    "clarification": "of color"
   },
   {
     "spanish": "negro",
@@ -41,7 +43,8 @@
   },
   {
     "spanish": "oscuro",
-    "english": "dark (adj.) (colour tone; or without light)"
+    "english": "dark",
+    "clarification": "of color"
   },
   {
     "spanish": "pálido",
@@ -53,11 +56,7 @@
   },
   {
     "spanish": "rosa",
-    "english": "pink (not \"rosado\")"
-  },
-  {
-    "spanish": "rosado",
-    "english": "pink (not \"rosa\")"
+    "english": "pink"
   },
   {
     "spanish": "verde",
@@ -69,6 +68,6 @@
   },
   {
     "spanish": "vivo",
-    "english": "vivid/bright"
+    "english": ["vivid", "bright"]
   }
 ]

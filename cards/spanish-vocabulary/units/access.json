@@ -9,7 +9,7 @@
   },
   {
     "spanish": "el acceso",
-    "english": "access/entry"
+    "english": ["access", "entry"]
   },
   {
     "spanish": "cerrado",
@@ -20,28 +20,21 @@
     "english": "to close"
   },
   {
-    "spanish": "gratis",
-    "english": "free (g)"
-  },
-  {
     "spanish": "gratuito",
-    "english": "free/free of charge"
+    "english": ["free", "free of charge"]
   },
   {
     "spanish": "hacer falta",
-    "english": "to need (h)"
+    "english": "to need"
   },
   {
     "spanish": "libre",
-    "english": "free (l)"
-  },
-  {
-    "spanish": "necesario",
-    "english": "necessary"
+    "english": "free",
+    "clarification": "at liberty"
   },
   {
     "spanish": "ocupado",
-    "english": "engaged/occupied"
+    "english": ["engaged", "occupied"]
   },
   {
     "spanish": "permitir",
