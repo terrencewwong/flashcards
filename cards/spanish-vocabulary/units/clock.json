@@ -9,7 +9,7 @@
   },
   {
     "spanish": "en punto",
-    "english": "exactly/on the dot"
+    "english": ["exactly", "on the dot"]
   },
   {
     "spanish": "exactamente",
@@ -17,7 +17,7 @@
   },
   {
     "spanish": "la hora",
-    "english": "hour/time"
+    "english": ["hour", "time"]
   },
   {
     "spanish": "el horario",
@@ -25,7 +25,7 @@
   },
   {
     "spanish": "media hora",
-    "english": "half hour (no article)"
+    "english": "half hour"
   },
   {
     "spanish": "la medianoche",
@@ -37,23 +37,12 @@
   },
   {
     "spanish": "menos",
-    "english": "to (referring to clock time)"
-  },
-  {
-    "spanish": "y",
-    "english": "past (referring to clock time)"
+    "english": "to",
+    "example": "Son las once menos diez"
   },
   {
     "spanish": "menos cuarto",
     "english": "quarter to"
-  },
-  {
-    "spanish": "el minuto",
-    "english": "minute (time measure)"
-  },
-  {
-    "spanish": "el segundo",
-    "english": "second (time measure)"
   },
   {
     "spanish": "y cuarto",

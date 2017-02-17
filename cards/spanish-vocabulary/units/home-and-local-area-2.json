@@ -5,7 +5,7 @@
   },
   {
     "spanish": "el alquiler",
-    "english": "rent/hire"
+    "english": ["rent", "hire"]
   },
   {
     "spanish": "el ático",
@@ -21,15 +21,15 @@
   },
   {
     "spanish": "el desván",
-    "english": "loft/attic"
+    "english": ["loft", "attic"]
   },
   {
     "spanish": "el domicilio",
-    "english": "home (d)"
+    "english": "home"
   },
   {
     "spanish": "el horno",
-    "english": "oven/stove"
+    "english": ["oven", "stove"]
   },
   {
     "spanish": "las persianas",
@@ -41,6 +41,6 @@
   },
   {
     "spanish": "la vivienda",
-    "english": "house/home (v)"
+    "english": ["house", "home"]
   }
 ]

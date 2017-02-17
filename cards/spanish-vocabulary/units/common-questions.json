@@ -12,32 +12,16 @@
     "english": "How many?"
   },
   {
-    "spanish": "¿Cuánto cuesta?",
-    "english": "How much is it (c)"
+    "spanish": ["¿Cuánto cuesta?", "¿Cuánto vale?", "¿Cuánto es?"],
+    "english": "How much is it?"
   },
   {
-    "spanish": "¿Cuánto cuestan?",
-    "english": "How much are they (c)"
-  },
-  {
-    "spanish": "¿Cuánto es?",
-    "english": "How much is it/are they (e)"
-  },
-  {
-    "spanish": "¿Cuánto vale?",
-    "english": "How much is it? (v)"
-  },
-  {
-    "spanish": "¿Cuánto valen?",
-    "english": "How much are they? (v)"
-  },
-  {
-    "spanish": "¿Cuántos años tiene?",
-    "english": "How old are you? (formal)"
+    "spanish": ["¿Cuánto cuestan?", "¿Cuánto valen?"],
+    "english": "How much are they?"
   },
   {
     "spanish": "¿Cuántos años tienes?",
-    "english": "How old are you? (informal)"
+    "english": "How old are you?"
   },
   {
     "spanish": "¿De qué color?",
@@ -49,11 +33,13 @@
   },
   {
     "spanish": "¿Para cuánto tiempo?",
-    "english": "For how long? (using \"Para\")"
+    "english": "For how long?",
+    "clarification": "with para"
   },
   {
     "spanish": "¿Por cuánto tiempo?",
-    "english": "For how long? (using \"Por\")"
+    "english": "For how long?",
+    "clarification": "with por"
   },
   {
     "spanish": "¿Qué?",

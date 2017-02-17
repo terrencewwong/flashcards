@@ -5,15 +5,15 @@
   },
   {
     "spanish": "el aprendiz",
-    "english": "apprentice/trainee"
+    "english": ["apprentice", "trainee"]
   },
   {
     "spanish": "el camionero",
-    "english": "lorry driver"
+    "english": "truck driver"
   },
   {
     "spanish": "conseguir",
-    "english": "to obtain/to achieve (c)"
+    "english": ["to obtain", "to achieve"]
   },
   {
     "spanish": "el ejecutivo",
@@ -21,7 +21,7 @@
   },
   {
     "spanish": "encargado de",
-    "english": "in charge of/responsible for"
+    "english": ["in charge of", "responsible for"]
   },
   {
     "spanish": "entusiasta",
@@ -37,7 +37,7 @@
   },
   {
     "spanish": "llegar a ser",
-    "english": "to become (ll)"
+    "english": "to become"
   },
   {
     "spanish": "el propósito",
@@ -49,7 +49,7 @@
   },
   {
     "spanish": "adjuntar",
-    "english": "to enclose/to attach"
+    "english": ["to enclose", "to attach"]
   },
   {
     "spanish": "encargarse",

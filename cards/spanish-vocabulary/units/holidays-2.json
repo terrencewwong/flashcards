@@ -1,13 +1,5 @@
 [
   {
-    "spanish": "argentino",
-    "english": "Argentinian"
-  },
-  {
-    "spanish": "alquiler (de coches)",
-    "english": "(car) hire"
-  },
-  {
     "spanish": "la avería",
     "english": "breakdown"
   },
@@ -21,47 +13,23 @@
   },
   {
     "spanish": "el camión",
-    "english": "lorry"
+    "english": "truck"
   },
   {
     "spanish": "el carnet de conducir",
-    "english": "driving licence (c)"
+    "english": "driving licence"
   },
   {
     "spanish": "el casco",
     "english": "helmet"
   },
   {
-    "spanish": "chileno",
-    "english": "Chilean"
-  },
-  {
-    "spanish": "colombiano",
-    "english": "Colombian"
-  },
-  {
-    "spanish": "cubano",
-    "english": "Cuban"
-  },
-  {
     "spanish": "disponible",
     "english": "available"
   },
   {
-    "spanish": "DNI",
-    "english": "National Identity Card"
-  },
-  {
-    "spanish": "el extranjero",
-    "english": "foreigner"
-  },
-  {
     "spanish": "el motor",
     "english": "engine"
-  },
-  {
-    "spanish": "peruano",
-    "english": "Peruvian"
   },
   {
     "spanish": "la queja",
@@ -84,12 +52,12 @@
     "english": "tram"
   },
   {
-    "spanish": "detener(se)",
-    "english": "to stop (d)"
+    "spanish": "detenerse",
+    "english": "to stop"
   },
   {
     "spanish": "hacer transbordo",
-    "english": "to change (h)"
+    "english": "to change"
   },
   {
     "spanish": "quejarse",

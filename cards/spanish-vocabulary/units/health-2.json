@@ -5,11 +5,11 @@
   },
   {
     "spanish": "la alimentación",
-    "english": "food (not \"el alimento\" or \"la comida\")"
+    "english": "food"
   },
   {
     "spanish": "apetecer",
-    "english": "to crave/to long for"
+    "english": ["to crave", "to long for"]
   },
   {
     "spanish": "el ataque cardíaco",
@@ -53,11 +53,13 @@
   },
   {
     "spanish": "el porro",
-    "english": "joint = cannabis cigarette (informal)"
+    "english": "joint",
+    "clarification": "cannabis"
   },
   {
     "spanish": "la articulación",
-    "english": "joint (anatomy)"
+    "english": "joint",
+    "clarification": "anatomy"
   },
   {
     "spanish": "respiratorio",
@@ -65,7 +67,7 @@
   },
   {
     "spanish": "sabroso",
-    "english": "tasty (s)"
+    "english": "tasty"
   },
   {
     "spanish": "seropositivo",

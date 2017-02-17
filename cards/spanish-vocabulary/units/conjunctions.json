@@ -5,7 +5,7 @@
   },
   {
     "spanish": "así que",
-    "english": "so, therefore (a); as soon as"
+    "english": ["so", "therefore", "as soon as"]
   },
   {
     "spanish": "aun (si)",
@@ -16,32 +16,12 @@
     "english": "although"
   },
   {
-    "spanish": "como",
-    "english": "like/as"
-  },
-  {
-    "spanish": "cuando",
-    "english": "when"
-  },
-  {
     "spanish": "incluso",
-    "english": "even (i)"
+    "english": "even"
   },
   {
     "spanish": "mientras (que)",
     "english": "while"
-  },
-  {
-    "spanish": "o",
-    "english": "or"
-  },
-  {
-    "spanish": "u",
-    "english": "or (preceding word beginning with \"o\" sound)"
-  },
-  {
-    "spanish": "pero",
-    "english": "but (p)"
   },
   {
     "spanish": "por eso",
@@ -49,19 +29,11 @@
   },
   {
     "spanish": "por lo tanto",
-    "english": "so/therefore (p)"
+    "english": ["so", "therefore"]
   },
   {
     "spanish": "porque",
     "english": "because"
-  },
-  {
-    "spanish": "pues",
-    "english": "then (p)"
-  },
-  {
-    "spanish": "si",
-    "english": "if"
   },
   {
     "spanish": "sin embargo",
@@ -69,22 +41,10 @@
   },
   {
     "spanish": "tal vez",
-    "english": "perhaps (t)"
-  },
-  {
-    "spanish": "también",
-    "english": "also"
-  },
-  {
-    "spanish": "y",
-    "english": "and"
-  },
-  {
-    "spanish": "e",
-    "english": "and (preceding words beginning with i- or hi- sounds)"
+    "english": "perhaps"
   },
   {
     "spanish": "ya (que)",
-    "english": "as/since"
+    "english": ["as", "since"]
   }
 ]

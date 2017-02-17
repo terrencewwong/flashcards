@@ -93,7 +93,7 @@
   },
   {
     "spanish": "el bolso",
-    "english": "bag (not \"la bolsa\")"
+    "english": "bag"
   },
   {
     "spanish": "las botas",
@@ -165,7 +165,7 @@
   },
   {
     "spanish": "la chaqueta",
-    "english": "jacket (not \"la cazadora\")"
+    "english": "jacket"
   },
   {
     "spanish": "el cheque",
@@ -189,7 +189,7 @@
   },
   {
     "spanish": "clásico",
-    "english": "classic(al)"
+    "english": "classic"
   },
   {
     "spanish": "el cliente",
@@ -209,7 +209,7 @@
   },
   {
     "spanish": "el comienzo",
-    "english": "start/begining"
+    "english": ["start", "begining"]
   },
   {
     "spanish": "las compras",
@@ -229,11 +229,12 @@
   },
   {
     "spanish": "la copa",
-    "english": "cup/trophy"
+    "english": ["cup", "trophy"]
   },
   {
     "spanish": "la corbata",
-    "english": "tie (neckware)"
+    "english": "tie",
+    "clarification": "article of clothing"
   },
   {
     "spanish": "el correo basura",
@@ -241,11 +242,11 @@
   },
   {
     "spanish": "de acción",
-    "english": "action (adj.-phrase)"
+    "english": "of action"
   },
   {
     "spanish": "de aventura",
-    "english": "adventure (adj.-phrase)"
+    "english": "of adventure"
   },
   {
     "spanish": "el deporte",
@@ -253,11 +254,12 @@
   },
   {
     "spanish": "deportista",
-    "english": "sports/sporting"
+    "english": ["sports", "sporting"]
   },
   {
     "spanish": "el descanso",
-    "english": "rest (relaxation)"
+    "english": "rest",
+    "clarification": "relaxation"
   },
   {
     "spanish": "el descuento",
@@ -281,7 +283,7 @@
   },
   {
     "spanish": "la diversión",
-    "english": "fun/hobby/pastime"
+    "english": ["fun", "hobby", "pastime"]
   },
   {
     "spanish": "el documental",
@@ -297,7 +299,7 @@
   },
   {
     "spanish": "la entrada",
-    "english": "entrance/ticket"
+    "english": ["entrance", "ticket"]
   },
   {
     "spanish": "el equipo",
@@ -305,7 +307,7 @@
   },
   {
     "spanish": "el espectáculo",
-    "english": "show/performance"
+    "english": ["show", "performance"]
   },
   {
     "spanish": "el estadio",
@@ -404,8 +406,9 @@
     "english": "together"
   },
   {
-    "spanish": "la libra (esterlina)",
-    "english": "pound (sterling)"
+    "spanish": "la libra",
+    "english": "pound",
+    "clarification": "sterling"
   },
   {
     "spanish": "la librería",
@@ -421,7 +424,7 @@
   },
   {
     "spanish": "las medias",
-    "english": "tights (m) (plural)"
+    "english": "tights"
   },
   {
     "spanish": "el mensaje (de texto)",
@@ -441,7 +444,7 @@
   },
   {
     "spanish": "el monitor",
-    "english": "instructor/coach"
+    "english": ["instructor", "coach"]
   },
   {
     "spanish": "el monopatín",
@@ -541,7 +544,8 @@
   },
   {
     "spanish": "la pelota",
-    "english": "ball (small: tennis, baseball, golf)"
+    "english": "ball",
+    "clarification": "small: tennis, baseball, golf"
   },
   {
     "spanish": "la peluquería",
@@ -569,7 +573,7 @@
   },
   {
     "spanish": "el ping-pong",
-    "english": "ping pong/table tennis"
+    "english": ["ping pong", "table tennis"]
   },
   {
     "spanish": "la pista de hielo",
@@ -577,7 +581,7 @@
   },
   {
     "spanish": "policíaco",
-    "english": "police (adj.)"
+    "english": "police"
   },
   {
     "spanish": "la posibilidad",
@@ -625,15 +629,15 @@
   },
   {
     "spanish": "el regalo",
-    "english": "present/gift"
+    "english": ["present", "gift"]
   },
   {
     "spanish": "el reloj",
-    "english": "clock/watch"
+    "english": ["clock", "watch"]
   },
   {
     "spanish": "el resto",
-    "english": "rest, remainder"
+    "english": ["rest", "remainder"]
   },
   {
     "spanish": "la revista",
@@ -641,7 +645,7 @@
   },
   {
     "spanish": "rico",
-    "english": "tasty/wealthy"
+    "english": ["tasty", "wealthy"]
   },
   {
     "spanish": "el robo",
@@ -685,7 +689,7 @@
   },
   {
     "spanish": "la sesión",
-    "english": "showing/performance"
+    "english": ["showing", "performance"]
   },
   {
     "spanish": "el sitio web",
@@ -761,7 +765,7 @@
   },
   {
     "spanish": "el vendedor",
-    "english": "seller/vendor"
+    "english": ["seller", "vendor"]
   },
   {
     "spanish": "el vestido",
@@ -801,7 +805,7 @@
   },
   {
     "spanish": "acordar",
-    "english": "to agree (a.., not \"acceder\")"
+    "english": "to agree"
   },
   {
     "spanish": "actuar",
@@ -809,11 +813,11 @@
   },
   {
     "spanish": "ahorrar",
-    "english": "to save (a)"
+    "english": "to save"
   },
   {
     "spanish": "andar",
-    "english": "to walk (a)"
+    "english": "to walk"
   },
   {
     "spanish": "bailar",
@@ -821,7 +825,7 @@
   },
   {
     "spanish": "borrar",
-    "english": "to rub out/to erase"
+    "english": "to erase"
   },
   {
     "spanish": "cantar",
@@ -841,15 +845,15 @@
   },
   {
     "spanish": "conectar",
-    "english": "to connect (up)"
+    "english": "to connect"
   },
   {
-    "spanish": "conectar(se)",
+    "spanish": "conectarse",
     "english": "to get connected"
   },
   {
     "spanish": "contar",
-    "english": "to count/to tell/recount"
+    "english": ["to count", "to tell", "recount"]
   },
   {
     "spanish": "correr",
@@ -861,7 +865,7 @@
   },
   {
     "spanish": "deber",
-    "english": "must/to owe"
+    "english": ["must", "to owe"]
   },
   {
     "spanish": "descargar",
@@ -869,15 +873,15 @@
   },
   {
     "spanish": "desconectar",
-    "english": "to disconnect/ to switch off"
+    "english": ["to disconnect", "to switch off"]
   },
   {
     "spanish": "devolver",
     "english": "to give back"
   },
   {
-    "spanish": "elegir",
-    "english": "to choose (not \"escoger\")"
+    "spanish": ["elegir", "escoger"],
+    "english": "to choose"
   },
   {
     "spanish": "encontrarse",
@@ -885,11 +889,7 @@
   },
   {
     "spanish": "enviar",
-    "english": "to send (e)"
-  },
-  {
-    "spanish": "escoger",
-    "english": "to choose (not \"elegir\")"
+    "english": "to send"
   },
   {
     "spanish": "escuchar",
@@ -913,15 +913,15 @@
   },
   {
     "spanish": "guardar",
-    "english": "to save (g)"
+    "english": "to save"
   },
   {
     "spanish": "hacer",
-    "english": "to do (+ sport)"
+    "english": "to do"
   },
   {
     "spanish": "hacer la(s) compra(s)",
-    "english": "to do the shopping"
+    "english": "to go shopping"
   },
   {
     "spanish": "invitar",
@@ -937,7 +937,7 @@
   },
   {
     "spanish": "mandar",
-    "english": "to send (m)"
+    "english": "to send"
   },
   {
     "spanish": "marcar (un gol)",
@@ -949,7 +949,7 @@
   },
   {
     "spanish": "nadar",
-    "english": "to swim (n)"
+    "english": "to swim"
   },
   {
     "spanish": "navegar",
@@ -957,7 +957,7 @@
   },
   {
     "spanish": "necesitar",
-    "english": "to need (n)"
+    "english": "to need"
   },
   {
     "spanish": "organizar",
@@ -973,7 +973,7 @@
   },
   {
     "spanish": "pasear",
-    "english": "to walk (p)"
+    "english": "to walk"
   },
   {
     "spanish": "dar un paseo",
@@ -1025,7 +1025,7 @@
   },
   {
     "spanish": "seleccionar",
-    "english": "to pick/to choose (s)"
+    "english": ["to pick", "to choose"]
   },
   {
     "spanish": "servir",
@@ -1054,10 +1054,6 @@
   {
     "spanish": "venir",
     "english": "to come"
-  },
-  {
-    "spanish": "ver",
-    "english": "to see"
   },
   {
     "spanish": "el nadador",

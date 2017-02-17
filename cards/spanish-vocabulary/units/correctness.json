@@ -17,7 +17,7 @@
   },
   {
     "spanish": "falso",
-    "english": "false/untrue"
+    "english": ["false", "untrue"]
   },
   {
     "spanish": "la falta",
@@ -41,7 +41,7 @@
   },
   {
     "spanish": "verdadero",
-    "english": "true (v)"
+    "english": "true"
   },
   {
     "spanish": "corregir",
@@ -53,7 +53,8 @@
   },
   {
     "spanish": "mentir",
-    "english": "to lie (not tell the truth)"
+    "english": "to lie",
+    "clarification": "not tell the truth"
   },
   {
     "spanish": "tener razón",

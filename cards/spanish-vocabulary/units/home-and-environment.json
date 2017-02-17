@@ -61,7 +61,7 @@
   },
   {
     "spanish": "ecológico",
-    "english": "ecological/environmentally friendly"
+    "english": ["ecological", "environmentally friendly"]
   },
   {
     "spanish": "la electricidad",
@@ -101,7 +101,7 @@
   },
   {
     "spanish": "mundial",
-    "english": "world (adj.)"
+    "english": "world-wide"
   },
   {
     "spanish": "el mundo",
@@ -144,16 +144,12 @@
     "english": "worried"
   },
   {
-    "spanish": "el problema",
-    "english": "problem"
-  },
-  {
     "spanish": "los productos químicos",
     "english": "chemicals"
   },
   {
     "spanish": "químico",
-    "english": "chemical (adj.)"
+    "english": "chemical"
   },
   {
     "spanish": "recargable",
@@ -185,7 +181,7 @@
   },
   {
     "spanish": "tóxico",
-    "english": "toxic/poisonous"
+    "english": ["toxic", "poisonous"]
   },
   {
     "spanish": "el tráfico",
@@ -229,7 +225,7 @@
   },
   {
     "spanish": "encender",
-    "english": "to light/ to turn on"
+    "english": ["to light", "to turn on"]
   },
   {
     "spanish": "ensuciar",
@@ -257,7 +253,7 @@
   },
   {
     "spanish": "recoger",
-    "english": "to pick up/to collect"
+    "english": ["to pick up", "to collect"]
   },
   {
     "spanish": "reducir",
@@ -269,7 +265,7 @@
   },
   {
     "spanish": "salvar",
-    "english": "to save (s)"
+    "english": "to save"
   },
   {
     "spanish": "separar la basura",
@@ -284,11 +280,7 @@
     "english": "to transport"
   },
   {
-    "spanish": "usar",
-    "english": "to use (not \"utilizar\")"
-  },
-  {
-    "spanish": "utilizar",
-    "english": "to use (not \"usar\")"
+    "spanish": ["usar", "utilizar"],
+    "english": "to use"
   }
 ]

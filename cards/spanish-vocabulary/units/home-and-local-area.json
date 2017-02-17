@@ -5,7 +5,7 @@
   },
   {
     "spanish": "la alfombra",
-    "english": "carpet/rug (a)"
+    "english": ["carpet", "rug"]
   },
   {
     "spanish": "alquilado",
@@ -13,7 +13,7 @@
   },
   {
     "spanish": "el aniversario",
-    "english": "anniversary/birthday"
+    "english": ["anniversary", "birthday"]
   },
   {
     "spanish": "el aparcamiento",
@@ -21,7 +21,7 @@
   },
   {
     "spanish": "el apartamento",
-    "english": "apartment/flat"
+    "english": ["apartment", "flat"]
   },
   {
     "spanish": "el árbol",
@@ -29,7 +29,7 @@
   },
   {
     "spanish": "el armario",
-    "english": "cupboard/wardrobe"
+    "english": ["cupboard", "wardrobe"]
   },
   {
     "spanish": "el ascensor",
@@ -45,7 +45,7 @@
   },
   {
     "spanish": "el banco",
-    "english": "bank/bench"
+    "english": ["bank", "bench"]
   },
   {
     "spanish": "el baño",
@@ -53,7 +53,7 @@
   },
   {
     "spanish": "el barrio",
-    "english": "district/area"
+    "english": ["district", "area"]
   },
   {
     "spanish": "la biblioteca",
@@ -69,39 +69,19 @@
   },
   {
     "spanish": "el bosque",
-    "english": "wood/forest (b)"
+    "english": ["wood", "forest"]
   },
   {
     "spanish": "la butaca",
-    "english": "armchair (b)"
+    "english": "armchair"
   },
   {
     "spanish": "la calefacción",
     "english": "heating"
   },
   {
-    "spanish": "la calle",
-    "english": "street"
-  },
-  {
-    "spanish": "la cama",
-    "english": "bed"
-  },
-  {
-    "spanish": "el campo",
-    "english": "country(side)"
-  },
-  {
     "spanish": "la cancha (de tenis)",
     "english": "(tennis) court"
-  },
-  {
-    "spanish": "la casa",
-    "english": "house (c)"
-  },
-  {
-    "spanish": "la casa adosada",
-    "english": "semi-detached house"
   },
   {
     "spanish": "el castillo",
@@ -124,32 +104,16 @@
     "english": "lawn"
   },
   {
-    "spanish": "el chalet",
-    "english": "detached house (not \"el chalé\")"
-  },
-  {
-    "spanish": "el chalé",
-    "english": "detached house (not \"el chalet\")"
-  },
-  {
     "spanish": "la chimenea",
-    "english": "chimney/fireplace"
+    "english": ["chimney", "fireplace"]
   },
   {
     "spanish": "el cine",
     "english": "cinema"
   },
   {
-    "spanish": "la ciudad",
-    "english": "city"
-  },
-  {
     "spanish": "el club de jóvenes",
     "english": "youth club"
-  },
-  {
-    "spanish": "la cocina",
-    "english": "kitchen"
   },
   {
     "spanish": "la cocina (de gas)",
@@ -190,10 +154,6 @@
   {
     "spanish": "el cuarto de baño",
     "english": "bathroom"
-  },
-  {
-    "spanish": "el cumpleaños",
-    "english": "birthday"
   },
   {
     "spanish": "la dirección",
@@ -249,7 +209,7 @@
   },
   {
     "spanish": "el estanco",
-    "english": "tobacconist's (e)"
+    "english": "tabacco store"
   },
   {
     "spanish": "el estante",
@@ -257,7 +217,7 @@
   },
   {
     "spanish": "la estantería",
-    "english": "bookcase/shelving"
+    "english": ["bookcase", "shelving"]
   },
   {
     "spanish": "el estéreo",
@@ -266,10 +226,6 @@
   {
     "spanish": "la fábrica",
     "english": "factory"
-  },
-  {
-    "spanish": "la fiesta de cumpleaños",
-    "english": "birthday party"
   },
   {
     "spanish": "la flor",
@@ -281,7 +237,7 @@
   },
   {
     "spanish": "el frigorífico",
-    "english": "fridge (f)"
+    "english": "fridge"
   },
   {
     "spanish": "la galería (de arte)",
@@ -302,10 +258,6 @@
   {
     "spanish": "el habitante",
     "english": "inhabitant"
-  },
-  {
-    "spanish": "histórico",
-    "english": "historic(al)"
   },
   {
     "spanish": "la iglesia",
@@ -348,10 +300,6 @@
     "english": "dishwasher"
   },
   {
-    "spanish": "la librería",
-    "english": "bookcase/bookshop"
-  },
-  {
     "spanish": "limpio",
     "english": "clean"
   },
@@ -389,7 +337,7 @@
   },
   {
     "spanish": "la moqueta",
-    "english": "carpet/rug (m)"
+    "english": ["carpet", "rug"]
   },
   {
     "spanish": "los muebles",
@@ -401,7 +349,7 @@
   },
   {
     "spanish": "la nevera",
-    "english": "fridge (n)"
+    "english": "fridge"
   },
   {
     "spanish": "el palacio",
@@ -441,11 +389,11 @@
   },
   {
     "spanish": "el piso",
-    "english": "floor/flat"
+    "english": ["floor", "flat"]
   },
   {
     "spanish": "la planta",
-    "english": "floor/plant"
+    "english": ["floor", "plant"]
   },
   {
     "spanish": "la planta baja",
@@ -466,10 +414,6 @@
   {
     "spanish": "la provincia",
     "english": "province"
-  },
-  {
-    "spanish": "el pueblo",
-    "english": "small town"
   },
   {
     "spanish": "el puente",
@@ -533,7 +477,7 @@
   },
   {
     "spanish": "el sillón",
-    "english": "armchair (s)"
+    "english": "armchair"
   },
   {
     "spanish": "el sofá",
@@ -541,39 +485,23 @@
   },
   {
     "spanish": "el sótano",
-    "english": "basement/cellar"
+    "english": ["basement", "cellar"]
   },
   {
     "spanish": "el suelo",
-    "english": "floor/ground"
+    "english": ["floor", "ground"]
   },
   {
     "spanish": "el teatro",
     "english": "theatre"
   },
   {
-    "spanish": "el teléfono (móvil)",
-    "english": "(mobile) phone"
-  },
-  {
     "spanish": "el televisor",
     "english": "television set"
   },
   {
-    "spanish": "la terraza",
-    "english": "terrace"
-  },
-  {
-    "spanish": "la tienda",
-    "english": "shop"
-  },
-  {
     "spanish": "la ventana",
     "english": "window"
-  },
-  {
-    "spanish": "la vida",
-    "english": "life"
   },
   {
     "spanish": "la zona",
@@ -585,11 +513,11 @@
   },
   {
     "spanish": "alquilar",
-    "english": "to rent/to hire"
+    "english": ["to rent", "to hire"]
   },
   {
     "spanish": "arreglar",
-    "english": "to tidy/to repair"
+    "english": ["to tidy", "to repair"]
   },
   {
     "spanish": "bajar",
@@ -598,10 +526,6 @@
   {
     "spanish": "celebrar",
     "english": "to celebrate"
-  },
-  {
-    "spanish": "coger",
-    "english": "to take (c)"
   },
   {
     "spanish": "compartir",
@@ -621,7 +545,7 @@
   },
   {
     "spanish": "enseñar",
-    "english": "to show/to teach"
+    "english": ["to show", "to teach"]
   },
   {
     "spanish": "entrar",
@@ -646,9 +570,5 @@
   {
     "spanish": "subir",
     "english": "to go up"
-  },
-  {
-    "spanish": "vivir",
-    "english": "to live"
   }
 ]
