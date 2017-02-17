@@ -1,20 +1,13 @@
 const rl = require('readline-sync')
 const {green, red, underline} = require('colors') // modifies String prototype
 const dictionary = require('./cards/spanish-vocabulary/all.json')
+const Card = require('./cards/spanish-vocabulary/card')
 
-dictionary.forEach((word, index) => {
-  const source = word.english
-  const target = word.spanish
+dictionary.forEach((cardDefinition) => {
+  const card = new Card(cardDefinition)
+  const [sideA, sideB] = card.renderRandomVariant()
 
-  const answer = rl.question(`Translate ${underline(source)}: `)
-
-  if (verify(target, answer)) {
-    console.log(green('correct!'))
-  } else {
-    console.log(red('wrong!'), target)
-  }
+  rl.question(`${sideA}`)
+  console.log(`${sideB}`)
+  const response = rl.question('Did you get it correct (y/n)? ')
 })
-
-function verify (expected, answer) {
-  return answer.toLowerCase() === expected.toLowerCase()
-}
