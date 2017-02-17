@@ -8,14 +8,17 @@
   "dependencies": {
     "colors": "^1.1.2",
     "expect": "^1.20.2",
+    "hapi": "^16.1.0",
+    "knuth-shuffle": "^1.0.1",
     "mocha": "^3.2.0",
+    "node-persist": "^2.0.8",
     "readline-sync": "^1.4.6"
   },
   "scripts": {
     "compile": "yarn run compile:cards:spanish",
     "compile:cards:spanish": "cd cards/spanish-vocabulary &&  node compile.js > all.json",
-	  "test": "npm run test:cards",
-  	"test:cards": "NODE_ENV=test mocha \"cards/**/*.spec.js\" --recursive --colors",
-  	"test:cards:watch": "npm run test:cards:spanish:watch -- --watch --growl -R min"
+    "test": "npm run test:cards",
+    "test:cards": "NODE_ENV=test mocha \"cards/**/*.spec.js\" --recursive --colors",
+    "test:cards:watch": "npm run test:cards:spanish:watch -- --watch --growl -R min"
   }
 }
