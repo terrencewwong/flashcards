@@ -1,7 +1,7 @@
 [
   {
-    "spanish": "jamás",
-    "english": "never (j)"
+    "spanish": ["jamás", "nunca"],
+    "english": "never"
   },
   {
     "spanish": "nada",
@@ -20,16 +20,8 @@
     "english": "not any"
   },
   {
-    "spanish": "no",
-    "english": "not"
-  },
-  {
-    "spanish": "nunca",
-    "english": "never (n)"
-  },
-  {
     "spanish": "sino",
-    "english": "but (s)"
+    "english": "but rather"
   },
   {
     "spanish": "tampoco",
@@ -37,6 +29,6 @@
   },
   {
     "spanish": "ya no",
-    "english": "not any more/ no longer"
+    "english": ["not any more", "no longer"]
   }
 ]

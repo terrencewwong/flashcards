@@ -1,67 +1,15 @@
 [
   {
-    "spanish": "dar",
-    "english": "to give"
-  },
-  {
-    "spanish": "deber",
-    "english": "must (verb infinitive)"
-  },
-  {
-    "spanish": "estar",
-    "english": "to be (e)"
-  },
-  {
-    "spanish": "hacer",
-    "english": "to do/to make"
-  },
-  {
-    "spanish": "hay",
-    "english": "there is/there are"
-  },
-  {
     "spanish": "hay que",
     "english": "one has to"
-  },
-  {
-    "spanish": "ir",
-    "english": "to go"
-  },
-  {
-    "spanish": "poder",
-    "english": "to be able"
-  },
-  {
-    "spanish": "querer",
-    "english": "to want/ to love"
-  },
-  {
-    "spanish": "quisiera",
-    "english": "I would like (not \"me gustaría\")"
-  },
-  {
-    "spanish": "ser",
-    "english": "to be (s)"
-  },
-  {
-    "spanish": "tener",
-    "english": "to have"
-  },
-  {
-    "spanish": "tener que",
-    "english": "to have to"
   },
   {
     "spanish": "acabar de (+ inf.)",
     "english": "to have just done something (+ inf.)"
   },
   {
-    "spanish": "ir a (+ inf.)",
-    "english": "to be going to do something (+ inf.)"
-  },
-  {
     "spanish": "ocurrir",
-    "english": "to happen (o)"
+    "english": "to happen"
   },
   {
     "spanish": "oír",
@@ -69,23 +17,29 @@
   },
   {
     "spanish": "pasar",
-    "english": "to happen (p)"
-  },
-  {
-    "spanish": "poner",
-    "english": "to put"
+    "english": "to happen"
   },
   {
     "spanish": "tener lugar",
     "english": "to take place"
   },
   {
+    "spanish": "ponerse",
+    "english": "to become",
+    "clarification": "change in emotion, mood, or physical appearance and many other traits",
+    "example": "En aquel día me puse enfermo"
+  },
+  {
     "spanish": "volverse",
-    "english": "to become (v)"
+    "english": "to become",
+    "clarification": "involuntary change that usually applies to people not inanimate objects",
+    "example": "Los jugadores se volvieron locos"
   },
   {
     "spanish": "hacerse",
-    "english": "to become (h)"
+    "english": "to become",
+    "clarification": "deliberate or voluntary change, often refers to change in identity or affiliation",
+    "example": "Vamos a hacernos millonarios."
   },
   {
     "spanish": "irse",

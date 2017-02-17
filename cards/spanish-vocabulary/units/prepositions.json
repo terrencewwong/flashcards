@@ -1,42 +1,14 @@
 [
   {
-    "spanish": "a",
-    "english": "to"
-  },
-  {
-    "spanish": "con",
-    "english": "with"
-  },
-  {
-    "spanish": "de",
-    "english": "of"
-  },
-  {
-    "spanish": "en",
-    "english": "in/on"
-  },
-  {
     "spanish": "hacia",
     "english": "towards"
   },
   {
     "spanish": "hasta",
-    "english": "to/as far as"
-  },
-  {
-    "spanish": "para",
-    "english": "for (not \"por\")"
-  },
-  {
-    "spanish": "por",
-    "english": "because of, for (not \"para\")"
+    "english": ["to", "as far as"]
   },
   {
     "spanish": "según",
     "english": "according to"
-  },
-  {
-    "spanish": "sin",
-    "english": "without"
   }
 ]
