@@ -12,7 +12,8 @@
     "knuth-shuffle": "^1.0.1",
     "mocha": "^3.2.0",
     "node-persist": "^2.0.8",
-    "readline-sync": "^1.4.6"
+    "readline-sync": "^1.4.6",
+    "request": "^2.79.0"
   },
   "scripts": {
     "compile": "yarn run compile:cards:spanish",
