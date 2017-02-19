@@ -1,0 +1,12 @@
+{
+  "name": "spanish-vocabulary",
+  "version": "1.0.0",
+  "description": "Spanish vocabulary flashcards for cli-flashcards",
+  "keywords": [
+    "spanish",
+    "flashcards",
+    "cli-flashcards"
+  ],
+  "author": "Terrence Wong",
+  "license": "ISC"
+}
