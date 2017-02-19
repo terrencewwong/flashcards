@@ -8,12 +8,14 @@
   "dependencies": {
     "colors": "^1.1.2",
     "expect": "^1.20.2",
+    "forever-monitor": "^1.7.1",
     "hapi": "^16.1.0",
     "knuth-shuffle": "^1.0.1",
     "mocha": "^3.2.0",
     "node-persist": "^2.0.8",
     "readline-sync": "^1.4.6",
-    "request": "^2.79.0"
+    "request": "^2.79.0",
+    "yargs": "^6.6.0"
   },
   "scripts": {
     "compile": "yarn run compile:cards:spanish",
