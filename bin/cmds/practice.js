@@ -1,10 +1,6 @@
 const rl = require('readline-sync')
 const client = require('../../lib/client')
-const serverLauncher = require('../../lib/server-launcher')
-
-function handler (deck) {
-  serverLauncher.launch(() => practiceDeck(deck))
-}
+const ensureServer = require('../utils/ensure-server')
 
 function practiceDeck (deck) {
   client.getNextCard((err, card) => {
@@ -31,5 +27,5 @@ module.exports = {
       choices: ['spanish']
     }
   },
-  handler: ({deck}) => handler(deck)
+  handler: ({deck}) => ensureServer(() => practiceDeck(deck))
 }
