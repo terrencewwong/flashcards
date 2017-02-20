@@ -3,7 +3,7 @@ const client = require('../../lib/client')
 const ensureServer = require('../utils/ensure-server')
 
 function practiceDeck (deck) {
-  client.getNextCard((err, card) => {
+  client.getNextCard(deck, (err, card) => {
     const {sideA, sideB} = card
     if (err) {
       console.log(err)
@@ -23,8 +23,7 @@ module.exports = {
   builder: {
     deck: {
       describe: 'Specify a deck(s) of flashcards to practice',
-      type: 'array',
-      choices: ['spanish']
+      choices: ['spanish-vocabulary']
     }
   },
   handler: ({deck}) => ensureServer(() => practiceDeck(deck))
