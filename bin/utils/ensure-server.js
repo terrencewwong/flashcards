@@ -4,7 +4,7 @@ const client = require('../../lib/client')
 module.exports = function (callback) {
   client.checkHealth((err) => {
     if (err) {
-      return serverLauncher.launch(callback)
+      return serverLauncher.launch(() => callback(err))
     }
 
     callback()
