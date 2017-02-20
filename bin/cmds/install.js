@@ -7,7 +7,7 @@ function installDeck (deck) {
   process.stdout.write(`installing ${deck}`)
   data.forEach(card => {
     process.stdout.write('.')
-    connection.insertIntoBacklog(deck, card)
+    connection.pushIntoBacklog(deck, card)
   })
   console.log('done')
 }
