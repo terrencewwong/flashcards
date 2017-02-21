@@ -1,0 +1,22 @@
+HP = High Priority Queue
+LP = Low Priority Queue
+BL = Backlog
+DONE = DONE
+
+HP_CAPACITY  = 10
+LP_CAPACITY  = 40
+LEARNED_LIMIT = 30
+
+Case 1: HP empty, LP empty
+1. move HP capacity cards from BL into HP
+2. peek card from HP
+3. if correct -> dequeue from HP
+  a. if (correct - incorrect >= LEARNED_LIMIT) move to DONE
+  b. else enqueue into LP
+
+Case 2: HP < (HP_CAPACITY/2)
+1. move Math.floor(LP, HP_CAPACITY/4) cards from LP to HP, fill remaining HP from BL
+2. peek card from HP
+3. if correct -> dequeue from HP
+  a. if (correct - incorrect >= LEARNED_LIMIT) move to DONE
+  b. else enqueue into LP
