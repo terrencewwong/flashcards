@@ -1,11 +1,12 @@
 const storageAdapter = require('../../lib/storage-adapter')
+const shuffle = require('knuth-shuffle').knuthShuffle
 const path = require('path')
 
 function installDeck (deck) {
   const connection = storageAdapter.connect()
   const data = require(`../../decks/decks/${deck}/data.json`)
   process.stdout.write(`installing ${deck}`)
-  data.forEach(card => {
+  shuffle(data).forEach(card => {
     process.stdout.write('.')
     connection.pushIntoBacklog(deck, card)
   })
