@@ -12,8 +12,8 @@ function practiceDeck (deck) {
 
     rl.question(`${sideA}`)
     console.log(`${sideB}`)
-    const response = rl.question('Did you get it correct (y/n)? ')
-    process.exit()
+    const answer = rl.question('Did you get it correct (y/n)? ')
+    client.submitCard(deck, answer, () => process.exit())
   })
 }
 
