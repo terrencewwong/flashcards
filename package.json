@@ -1,6 +1,5 @@
 {
   "name": "cli-flashcards",
-  "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/wongterrencew/cli-flashcards.git",
   "author": "Terrence Wong <wongterrencew@gmail.com>",
@@ -12,7 +11,21 @@
     "test:lib": "NODE_ENV=test mocha \"lib/**/*.spec.js\" --recursive --colors",
     "test:lib:watch": "NODE_ENV=test mocha \"lib/**/*.spec.js\" --recursive --colors --watch",
     "test:cards": "NODE_ENV=test mocha \"decks/decks/**/*.spec.js\" --recursive --colors",
-    "test:cards:watch": "npm run test:cards:spanish:watch -- --watch --growl -R min"
+    "test:cards:watch": "npm run test:cards:spanish:watch -- --watch --growl -R min",
+    "lint": "standard --verbose | snazzy",
+    "semantic-release": "semantic-release pre && npm publish && semantic-release post"
+  },
+  "config": {
+    "ghooks": {
+      "pre-commit": "npm t && npm run lint",
+      "commit-msg": "validate-commit-msg"
+    }
+  },
+  "standard": {
+    "globals": [
+      "describe",
+      "it"
+    ]
   },
   "dependencies": {
     "colors": "^1.1.2",
@@ -28,6 +41,9 @@
   "devDependencies": {
     "expect": "^1.20.2",
     "mocha-mock": "^1.0.0",
-    "sinon": "^1.17.7"
+    "semantic-release": "^6.3.2",
+    "sinon": "^1.17.7",
+    "snazzy": "^6.0.0",
+    "standard": "^8.6.0"
   }
 }
