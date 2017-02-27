@@ -5,6 +5,15 @@
   "repository": "https://github.com/wongterrencew/cli-flashcards.git",
   "author": "Terrence Wong <wongterrencew@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "compile": "yarn run compile:cards:spanish",
+    "compile:cards:spanish": "cd cards/spanish-vocabulary &&  node compile.js > all.json",
+    "test": "npm run test:lib",
+    "test:lib": "NODE_ENV=test mocha \"lib/**/*.spec.js\" --recursive --colors",
+    "test:lib:watch": "NODE_ENV=test mocha \"lib/**/*.spec.js\" --recursive --colors --watch",
+    "test:cards": "NODE_ENV=test mocha \"decks/decks/**/*.spec.js\" --recursive --colors",
+    "test:cards:watch": "npm run test:cards:spanish:watch -- --watch --growl -R min"
+  },
   "dependencies": {
     "colors": "^1.1.2",
     "forever-monitor": "^1.7.1",
@@ -15,15 +24,6 @@
     "readline-sync": "^1.4.6",
     "request": "^2.79.0",
     "yargs": "^6.6.0"
-  },
-  "scripts": {
-    "compile": "yarn run compile:cards:spanish",
-    "compile:cards:spanish": "cd cards/spanish-vocabulary &&  node compile.js > all.json",
-    "test": "npm run test:lib",
-    "test:lib": "NODE_ENV=test mocha \"lib/**/*.spec.js\" --recursive --colors",
-    "test:lib:watch": "NODE_ENV=test mocha \"lib/**/*.spec.js\" --recursive --colors --watch",
-    "test:cards": "NODE_ENV=test mocha \"decks/decks/**/*.spec.js\" --recursive --colors",
-    "test:cards:watch": "npm run test:cards:spanish:watch -- --watch --growl -R min"
   },
   "devDependencies": {
     "expect": "^1.20.2",
