@@ -19,13 +19,14 @@
   "scripts": {
     "compile": "yarn run compile:cards:spanish",
     "compile:cards:spanish": "cd cards/spanish-vocabulary &&  node compile.js > all.json",
-    "test": "npm run test:cards",
+    "test": "npm run test:lib",
     "test:lib": "NODE_ENV=test mocha \"lib/**/*.spec.js\" --recursive --colors",
     "test:cards": "NODE_ENV=test mocha \"decks/decks/**/*.spec.js\" --recursive --colors",
     "test:cards:watch": "npm run test:cards:spanish:watch -- --watch --growl -R min"
   },
   "devDependencies": {
     "expect": "^1.20.2",
+    "mocha-mock": "^1.0.0",
     "sinon": "^1.17.7"
   }
 }

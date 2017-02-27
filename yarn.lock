@@ -1055,6 +1055,12 @@ mkdirp@0.5.1, mkdirp@0.x.x, "mkdirp@>=0.5 0", mkdirp@~0.5.1:
   dependencies:
     minimist "0.0.8"
 
+mocha-mock@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/mocha-mock/-/mocha-mock-1.0.0.tgz#a57cf6f683747d2fd87dc28d6d539a61f95f4f0b"
+  dependencies:
+    mocha "^3.2.0"
+
 mocha@^3.2.0:
   version "3.2.0"
   resolved "https://registry.yarnpkg.com/mocha/-/mocha-3.2.0.tgz#7dc4f45e5088075171a68896814e6ae9eb7a85e3"
