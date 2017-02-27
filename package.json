@@ -21,6 +21,7 @@
     "compile:cards:spanish": "cd cards/spanish-vocabulary &&  node compile.js > all.json",
     "test": "npm run test:lib",
     "test:lib": "NODE_ENV=test mocha \"lib/**/*.spec.js\" --recursive --colors",
+    "test:lib:watch": "NODE_ENV=test mocha \"lib/**/*.spec.js\" --recursive --colors --watch",
     "test:cards": "NODE_ENV=test mocha \"decks/decks/**/*.spec.js\" --recursive --colors",
     "test:cards:watch": "npm run test:cards:spanish:watch -- --watch --growl -R min"
   },
