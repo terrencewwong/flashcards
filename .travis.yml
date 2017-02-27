@@ -1,0 +1,31 @@
+language: node_js
+
+node_js:
+  - "node"
+
+branches:
+  only:
+    - master
+
+cache:
+  bundler: true
+  directories:
+    - node_modules
+    - $HOME/.nvm
+    - $HOME/.npm
+
+before_install:
+  - echo "//registry.npmjs.org/:_authToken=${NPM_TOKEN}" > .npmrc
+
+before_script:
+  - npm prune
+
+script:
+  - npm run lint
+  - npm test
+
+after_success:
+  - npm run semantic-release
+
+notifications:
+  email: false
