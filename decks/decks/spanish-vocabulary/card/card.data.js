@@ -2,11 +2,11 @@ const Card = require('./')
 
 module.exports = class CardBuilder {
   constructor () {
-    this.english = "hello"
-    this.spanish = "hola"
-    this.clarification = "a greeting"
-    this.partOfSpeech = "interjection"
-    this.example = "¡Hola! ¿Cómo estás?"
+    this.english = 'hello'
+    this.spanish = 'hola'
+    this.clarification = 'a greeting'
+    this.partOfSpeech = 'interjection'
+    this.example = '¡Hola! ¿Cómo estás?'
   }
 
   static create () {
@@ -34,12 +34,12 @@ module.exports = class CardBuilder {
   }
 
   build () {
-		return new Card({
-			english: this.english,
-			spanish: this.spanish,
-			clarification: this.clarification,
-			partOfSpeech: this.partOfSpeech,
-			example: this.example
-		})
+    return new Card({
+      english: this.english,
+      spanish: this.spanish,
+      clarification: this.clarification,
+      partOfSpeech: this.partOfSpeech,
+      example: this.example
+    })
   }
 }

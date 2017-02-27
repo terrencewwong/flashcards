@@ -28,7 +28,7 @@ module.exports = class Card {
       case ENGLISH:
         return {
           sideA: english,
-          sideB: spanish  
+          sideB: spanish
         }
       case SPANISH:
         return {

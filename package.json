@@ -1,10 +1,32 @@
 {
   "name": "cli-flashcards",
-  "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/wongterrencew/cli-flashcards.git",
   "author": "Terrence Wong <wongterrencew@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "compile": "yarn run compile:cards:spanish",
+    "compile:cards:spanish": "cd cards/spanish-vocabulary &&  node compile.js > all.json",
+    "test": "npm run test:lib",
+    "test:lib": "NODE_ENV=test mocha \"lib/**/*.spec.js\" --recursive --colors",
+    "test:lib:watch": "NODE_ENV=test mocha \"lib/**/*.spec.js\" --recursive --colors --watch",
+    "test:cards": "NODE_ENV=test mocha \"decks/decks/**/*.spec.js\" --recursive --colors",
+    "test:cards:watch": "npm run test:cards:spanish:watch -- --watch --growl -R min",
+    "lint": "standard --verbose | snazzy",
+    "semantic-release": "semantic-release pre && npm publish && semantic-release post"
+  },
+  "config": {
+    "ghooks": {
+      "pre-commit": "npm t && npm run lint",
+      "commit-msg": "validate-commit-msg"
+    }
+  },
+  "standard": {
+    "globals": [
+      "describe",
+      "it"
+    ]
+  },
   "dependencies": {
     "colors": "^1.1.2",
     "forever-monitor": "^1.7.1",
@@ -16,17 +38,14 @@
     "request": "^2.79.0",
     "yargs": "^6.6.0"
   },
-  "scripts": {
-    "compile": "yarn run compile:cards:spanish",
-    "compile:cards:spanish": "cd cards/spanish-vocabulary &&  node compile.js > all.json",
-    "test": "npm run test:lib",
-    "test:lib": "NODE_ENV=test mocha \"lib/**/*.spec.js\" --recursive --colors",
-    "test:cards": "NODE_ENV=test mocha \"decks/decks/**/*.spec.js\" --recursive --colors",
-    "test:cards:watch": "npm run test:cards:spanish:watch -- --watch --growl -R min"
-  },
   "devDependencies": {
     "expect": "^1.20.2",
+    "ghooks": "^2.0.0",
     "mocha-mock": "^1.0.0",
-    "sinon": "^1.17.7"
+    "semantic-release": "^6.3.2",
+    "sinon": "^1.17.7",
+    "snazzy": "^6.0.0",
+    "standard": "^8.6.0",
+    "validate-commit-msg": "^2.11.1"
   }
 }

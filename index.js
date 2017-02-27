@@ -1,5 +1,4 @@
 const rl = require('readline-sync')
-const {green, red, underline} = require('colors') // modifies String prototype
 const dictionary = require('./cards/spanish-vocabulary/all.json')
 const Card = require('./cards/spanish-vocabulary/card')
 
@@ -9,5 +8,5 @@ dictionary.forEach((cardDefinition) => {
 
   rl.question(`${sideA}`)
   console.log(`${sideB}`)
-  const response = rl.question('Did you get it correct (y/n)? ')
+  // const response = rl.question('Did you get it correct (y/n)? ')
 })
