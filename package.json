@@ -40,10 +40,12 @@
   },
   "devDependencies": {
     "expect": "^1.20.2",
+    "ghooks": "^2.0.0",
     "mocha-mock": "^1.0.0",
     "semantic-release": "^6.3.2",
     "sinon": "^1.17.7",
     "snazzy": "^6.0.0",
-    "standard": "^8.6.0"
+    "standard": "^8.6.0",
+    "validate-commit-msg": "^2.11.1"
   }
 }

@@ -3,6 +3,10 @@ const client = require('../../lib/client')
 
 function stopServer () {
   client.getServerPid((err, pid) => {
+    if (err) {
+      throw err
+    }
+
     if (pid) {
       execSync(`kill -9 ${pid}`)
       console.log('stopped flashcard server')

@@ -1,6 +1,5 @@
 const storageAdapter = require('../../lib/storage-adapter')
 const shuffle = require('knuth-shuffle').knuthShuffle
-const path = require('path')
 
 function installDeck (deck) {
   const connection = storageAdapter.connect()
