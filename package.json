@@ -5,26 +5,39 @@
   "author": "Terrence Wong <wongterrencew@gmail.com>",
   "license": "MIT",
   "scripts": {
+    "build": "yarn run flow:transpile",
     "compile": "yarn run compile:cards:spanish",
     "compile:cards:spanish": "cd cards/spanish-vocabulary &&  node compile.js > all.json",
     "test": "npm run test:lib",
-    "test:lib": "NODE_ENV=test mocha \"lib/**/*.spec.js\" --recursive --colors",
+    "test:lib": "NODE_ENV=test mocha -r flow-remove-types/register \"lib/**/*.spec.js\" --recursive --colors",
     "test:lib:watch": "NODE_ENV=test mocha \"lib/**/*.spec.js\" --recursive --colors --watch",
     "test:cards": "NODE_ENV=test mocha \"decks/decks/**/*.spec.js\" --recursive --colors",
     "test:cards:watch": "npm run test:cards:spanish:watch -- --watch --growl -R min",
     "lint": "standard --verbose | snazzy",
-    "semantic-release": "semantic-release pre && npm publish && semantic-release post"
+    "prepublish": "in-publish && NODE_ENV=production yarn run build || not-in-publish",
+    "semantic-release": "semantic-release pre && npm publish && semantic-release post",
+    "flow:check": "flow",
+    "flow:transpile": "yarn run flow:transpile:lib && yarn run flow:transpile:bin && yarn run flow:transpile:decks",
+    "flow:transpile:lib": "flow-remove-types -a lib/ --out-dir dist/lib/",
+    "flow:transpile:bin": "flow-remove-types -a bin/ --out-dir dist/bin/",
+    "flow:transpile:decks": "cp -r decks/ dist/decks/ && flow-remove-types -a dist/decks/ --out-dir dist/decks/"
   },
   "config": {
     "ghooks": {
-      "pre-commit": "npm t && npm run lint",
+      "pre-commit": "yarn test && yarn run lint && yarn run flow",
       "commit-msg": "validate-commit-msg"
     }
   },
   "standard": {
+    "parser": "babel-eslint",
+    "plugins": [
+      "flowtype"
+    ],
     "globals": [
       "describe",
-      "it"
+      "it",
+      "Queue",
+      "T"
     ]
   },
   "dependencies": {
@@ -39,8 +52,13 @@
     "yargs": "^6.6.0"
   },
   "devDependencies": {
+    "babel-eslint": "^7.1.1",
+    "eslint-plugin-flowtype": "^2.30.2",
     "expect": "^1.20.2",
+    "flow-bin": "^0.40.0",
+    "flow-remove-types": "^1.2.0",
     "ghooks": "^2.0.0",
+    "in-publish": "^2.0.0",
     "mocha-mock": "^1.0.0",
     "semantic-release": "^6.3.2",
     "sinon": "^1.17.7",
