@@ -21,11 +21,12 @@ before_script:
   - npm prune
 
 script:
-  - npm run lint
-  - npm test
+  - yarn run lint
+  - yarn run flow
+  - yarn test
 
 after_success:
-  - npm run semantic-release
+  - yarn run semantic-release
 
 notifications:
   email: false
