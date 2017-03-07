@@ -1,5 +1,6 @@
 {
   "name": "flashcards",
+  "description": "practice flashcards from the terminal",
   "bin": {
     "flashcards": "./dist/bin/index.js"
   },
