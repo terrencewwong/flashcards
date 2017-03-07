@@ -1,7 +1,9 @@
 {
-  "name": "cli-flashcards",
-  "main": "index.js",
-  "repository": "https://github.com/wongterrencew/cli-flashcards.git",
+  "name": "flashcards",
+  "bin": {
+    "flashcards": "./dist/bin/index.js"
+  },
+  "repository": "https://github.com/wongterrencew/flashcards.git",
   "author": "Terrence Wong <wongterrencew@gmail.com>",
   "license": "MIT",
   "scripts": {
