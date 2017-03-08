@@ -2,7 +2,7 @@
   "name": "flashcards",
   "description": "practice flashcards from the terminal",
   "bin": {
-    "flashcards": "./dist/bin/index.js"
+    "flashcards": "./dist/bin/flashcards"
   },
   "repository": "https://github.com/wongterrencew/flashcards.git",
   "author": "Terrence Wong <wongterrencew@gmail.com>",
