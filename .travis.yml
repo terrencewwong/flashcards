@@ -8,7 +8,6 @@ branches:
     - master
 
 cache:
-  bundler: true
   directories:
     - node_modules
     - $HOME/.nvm
@@ -17,13 +16,8 @@ cache:
 before_install:
   - echo "//registry.npmjs.org/:_authToken=${NPM_TOKEN}" > .npmrc
 
-before_script:
-  - npm prune
-
 script:
-  - yarn run lint
-  - yarn run flow
-  - yarn test
+  - yarn run check
 
 after_success:
   - yarn run semantic-release

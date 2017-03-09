@@ -11,23 +11,26 @@
     "build": "yarn run flow:transpile",
     "compile": "yarn run compile:cards:spanish",
     "compile:cards:spanish": "cd cards/spanish-vocabulary &&  node compile.js > all.json",
+    "check": "npm run lint:test && npm run flow && npm run test",
     "test": "npm run test:lib",
-    "test:lib": "NODE_ENV=test mocha -r flow-remove-types/register \"lib/**/*.spec.js\" --recursive --colors",
+    "test:lib": "NODE_ENV=test mocha --compilers js:babel-register \"lib/**/*.spec.js\" --recursive --colors",
     "test:lib:watch": "NODE_ENV=test mocha \"lib/**/*.spec.js\" --recursive --colors --watch",
     "test:cards": "NODE_ENV=test mocha \"decks/decks/**/*.spec.js\" --recursive --colors",
     "test:cards:watch": "npm run test:cards:spanish:watch -- --watch --growl -R min",
     "lint": "standard --verbose | snazzy",
+    "lint:test": "standard --env mocha --verbose | snazzy",
     "prepublish": "in-publish && NODE_ENV=production yarn run build || not-in-publish",
     "semantic-release": "semantic-release pre && npm publish && semantic-release post",
-    "flow:check": "flow",
+    "flow": "flow",
     "flow:transpile": "yarn run flow:transpile:lib && yarn run flow:transpile:bin && yarn run flow:transpile:decks",
     "flow:transpile:lib": "flow-remove-types -a lib/ --out-dir dist/lib/",
     "flow:transpile:bin": "flow-remove-types -a bin/ --out-dir dist/bin/",
-    "flow:transpile:decks": "cp -r decks/ dist/decks/ && flow-remove-types -a dist/decks/ --out-dir dist/decks/"
+    "flow:transpile:decks": "cp -r decks/ dist/decks/ && flow-remove-types -a dist/decks/ --out-dir dist/decks/",
+    "flow+test": "yarn run flow && yarn test"
   },
   "config": {
     "ghooks": {
-      "pre-commit": "yarn test && yarn run lint && yarn run flow",
+      "pre-commit": "npm run check",
       "commit-msg": "validate-commit-msg"
     }
   },
@@ -37,12 +40,19 @@
       "flowtype"
     ],
     "globals": [
-      "describe",
-      "it",
       "Queue",
+      "AsyncQueue",
       "T",
       "Card",
       "CardId"
+    ]
+  },
+  "babel": {
+    "plugins": [
+      "transform-flow-strip-types"
+    ],
+    "presets": [
+      "stage-3"
     ]
   },
   "dependencies": {
@@ -51,12 +61,17 @@
     "hapi": "^16.1.0",
     "knuth-shuffle": "^1.0.1",
     "node-persist": "^2.0.8",
+    "pouchdb": "^6.1.2",
+    "pouchdb-upsert": "^2.1.0",
     "readline-sync": "^1.4.6",
     "request": "^2.79.0",
     "yargs": "^6.6.0"
   },
   "devDependencies": {
+    "babel-cli": "^6.23.0",
     "babel-eslint": "^7.1.1",
+    "babel-plugin-transform-flow-strip-types": "^6.22.0",
+    "babel-preset-stage-3": "^6.22.0",
     "eslint-plugin-flowtype": "^2.30.2",
     "expect": "^1.20.2",
     "flow-bin": "^0.40.0",
@@ -65,6 +80,7 @@
     "in-publish": "^2.0.0",
     "mocha": "^3.2.0",
     "mocha-mock": "^1.1.0",
+    "pouchdb-adapter-memory": "^6.1.2",
     "semantic-release": "^6.3.2",
     "sinon": "^1.17.7",
     "snazzy": "^6.0.0",
