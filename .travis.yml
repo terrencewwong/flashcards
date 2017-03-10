@@ -17,10 +17,12 @@ before_install:
   - echo "//registry.npmjs.org/:_authToken=${NPM_TOKEN}" > .npmrc
 
 script:
-  - yarn run check
-
-after_success:
-  - yarn run semantic-release
+  - if [ "$TRAVIS_EVENT_TYPE" == "pull_request" ]; then yarn run check; fi
+  - if [ "$TRAVIS_EVENT_TYPE" == "push" ] && [ "$TRAVIS_BRANCH" = "master" ]; then yarn run semantic-release; fi
 
 notifications:
-  email: false
+  email:
+    recipients:
+      - wongterrencew@gmail.com
+    on_success: never
+    on_failure: always
