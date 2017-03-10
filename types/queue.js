@@ -1,7 +1,7 @@
 declare interface Queue<T> {
   getLength(): number;
-  peek(): T;
+  peek(): ?T;
   enqueue(item: T): void;
   dequeue(): ?T;
-  remove(callback: (element: T) => boolean): T;
+  remove(callback: (element: T) => boolean): T[];
 }
