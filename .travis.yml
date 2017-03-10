@@ -20,6 +20,9 @@ script:
   - if [ "$TRAVIS_EVENT_TYPE" == "pull_request" ]; then yarn run check; fi
   - if [ "$TRAVIS_EVENT_TYPE" == "push" ] && [ "$TRAVIS_BRANCH" = "master" ]; then yarn run semantic-release; fi
 
+after_success:
+  - yarn run semantic-release
+
 notifications:
   email:
     recipients:
