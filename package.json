@@ -42,6 +42,7 @@
     "globals": [
       "Queue",
       "AsyncQueue",
+      "DeckLoader",
       "T",
       "Card",
       "CardId"
