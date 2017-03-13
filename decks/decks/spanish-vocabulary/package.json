@@ -1,5 +1,6 @@
 {
   "name": "spanish-vocabulary",
+  "main": "data.json",
   "version": "1.0.0",
   "description": "Spanish vocabulary flashcards for cli-flashcards",
   "keywords": [

@@ -2,13 +2,15 @@
   "name": "flashcards",
   "description": "practice flashcards from the terminal",
   "bin": {
-    "flashcards": "./dist/bin/flashcards"
+    "flashcards": "./dist/bin/flashcards.js"
   },
   "repository": "https://github.com/wongterrencew/flashcards.git",
   "author": "Terrence Wong <wongterrencew@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "build": "yarn run flow:transpile",
+    "build": "npm run build:lib && npm run build:bin",
+    "build:lib": "babel lib/ --out-dir dist/lib/",
+    "build:bin": "babel bin/ --out-dir dist/bin/",
     "compile": "yarn run compile:cards:spanish",
     "compile:cards:spanish": "cd cards/spanish-vocabulary &&  node compile.js > all.json",
     "check": "npm run lint:test && npm run flow && npm run test",
