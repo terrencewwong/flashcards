@@ -9,7 +9,8 @@ async function practiceDeck (deck) {
     rl.question(`${sideA}`)
     console.log(`${sideB}`)
     const answer = rl.question('Did you get it correct (y/n)? ')
-    learningStrategy.submitCard(id, answer, () => process.exit())
+    const correct = answer === 'y'
+    learningStrategy.submitCard(id, correct, () => process.exit())
   } else {
     console.log(`Looks like there are no cards to study in ${deck}`)
   }
