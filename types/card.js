@@ -1,4 +1,5 @@
 declare type CardId = number
 declare type Card = {
-  id: CardId
+  id: CardId,
+  data: any
 }

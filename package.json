@@ -2,13 +2,16 @@
   "name": "flashcards",
   "description": "practice flashcards from the terminal",
   "bin": {
-    "flashcards": "./dist/bin/flashcards"
+    "flashcards": "./dist/bin/flashcards.js"
   },
   "repository": "https://github.com/wongterrencew/flashcards.git",
   "author": "Terrence Wong <wongterrencew@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "build": "yarn run flow:transpile",
+    "build": "npm run build:lib && npm run build:bin && npm run build:decks",
+    "build:lib": "babel lib/ --out-dir dist/lib/ --copy-files",
+    "build:bin": "babel bin/ --out-dir dist/bin/ --copy-files",
+    "build:decks": "babel decks/ --out-dir dist/decks/ --copy-files",
     "compile": "yarn run compile:cards:spanish",
     "compile:cards:spanish": "cd cards/spanish-vocabulary &&  node compile.js > all.json",
     "check": "npm run lint:test && npm run flow && npm run test",
@@ -80,7 +83,7 @@
     "ghooks": "^2.0.0",
     "in-publish": "^2.0.0",
     "mocha": "^3.2.0",
-    "mocha-mock": "^1.2.0",
+    "mocha-mock": "^1.2.1",
     "pouchdb-adapter-memory": "^6.1.2",
     "semantic-release": "^6.3.2",
     "sinon": "^1.17.7",
