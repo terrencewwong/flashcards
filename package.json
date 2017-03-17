@@ -49,15 +49,10 @@
     ]
   },
   "dependencies": {
-    "colors": "^1.1.2",
-    "forever-monitor": "^1.7.1",
-    "hapi": "^16.1.0",
     "knuth-shuffle": "^1.0.1",
-    "node-persist": "^2.0.8",
     "pouchdb": "^6.1.2",
     "pouchdb-upsert": "^2.1.0",
     "readline-sync": "^1.4.6",
-    "request": "^2.79.0",
     "yargs": "^6.6.0"
   },
   "devDependencies": {
@@ -68,7 +63,6 @@
     "eslint-plugin-flowtype": "^2.30.2",
     "expect": "^1.20.2",
     "flow-bin": "^0.40.0",
-    "flow-remove-types": "^1.2.0",
     "ghooks": "^2.0.0",
     "in-publish": "^2.0.0",
     "mocha": "^3.2.0",
@@ -76,7 +70,6 @@
     "mock-fs": "^4.2.0",
     "pouchdb-adapter-memory": "^6.1.2",
     "semantic-release": "^6.3.2",
-    "sinon": "^1.17.7",
     "snazzy": "^6.0.0",
     "standard": "^8.6.0",
     "validate-commit-msg": "^2.11.1"
