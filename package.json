@@ -12,24 +12,13 @@
     "build:lib": "babel lib/ --out-dir dist/lib/ --copy-files",
     "build:bin": "babel bin/ --out-dir dist/bin/ --copy-files",
     "build:decks": "babel decks/ --out-dir dist/decks/ --copy-files",
-    "compile": "yarn run compile:cards:spanish",
-    "compile:cards:spanish": "cd cards/spanish-vocabulary &&  node compile.js > all.json",
-    "check": "npm run lint:test && npm run flow && npm run test",
+    "check": "npm run lint && npm run flow && npm run test",
     "test": "npm run test:lib",
     "test:lib": "NODE_ENV=test mocha --compilers js:babel-register \"lib/**/*.spec.js\" --recursive --colors",
-    "test:lib:watch": "NODE_ENV=test mocha \"lib/**/*.spec.js\" --recursive --colors --watch",
-    "test:cards": "NODE_ENV=test mocha \"decks/decks/**/*.spec.js\" --recursive --colors",
-    "test:cards:watch": "npm run test:cards:spanish:watch -- --watch --growl -R min",
-    "lint": "standard --verbose | snazzy",
-    "lint:test": "standard --env mocha --verbose | snazzy",
+    "lint": "standard --env mocha --verbose | snazzy",
     "prepublish": "in-publish && NODE_ENV=production yarn run build || not-in-publish",
     "semantic-release": "semantic-release pre && npm publish && semantic-release post",
-    "flow": "flow",
-    "flow:transpile": "yarn run flow:transpile:lib && yarn run flow:transpile:bin && yarn run flow:transpile:decks",
-    "flow:transpile:lib": "flow-remove-types -a lib/ --out-dir dist/lib/",
-    "flow:transpile:bin": "flow-remove-types -a bin/ --out-dir dist/bin/",
-    "flow:transpile:decks": "cp -r decks/ dist/decks/ && flow-remove-types -a dist/decks/ --out-dir dist/decks/",
-    "flow+test": "yarn run flow && yarn test"
+    "flow": "flow"
   },
   "config": {
     "ghooks": {
@@ -60,15 +49,10 @@
     ]
   },
   "dependencies": {
-    "colors": "^1.1.2",
-    "forever-monitor": "^1.7.1",
-    "hapi": "^16.1.0",
     "knuth-shuffle": "^1.0.1",
-    "node-persist": "^2.0.8",
     "pouchdb": "^6.1.2",
     "pouchdb-upsert": "^2.1.0",
     "readline-sync": "^1.4.6",
-    "request": "^2.79.0",
     "yargs": "^6.6.0"
   },
   "devDependencies": {
@@ -79,7 +63,6 @@
     "eslint-plugin-flowtype": "^2.30.2",
     "expect": "^1.20.2",
     "flow-bin": "^0.40.0",
-    "flow-remove-types": "^1.2.0",
     "ghooks": "^2.0.0",
     "in-publish": "^2.0.0",
     "mocha": "^3.2.0",
@@ -87,7 +70,6 @@
     "mock-fs": "^4.2.0",
     "pouchdb-adapter-memory": "^6.1.2",
     "semantic-release": "^6.3.2",
-    "sinon": "^1.17.7",
     "snazzy": "^6.0.0",
     "standard": "^8.6.0",
     "validate-commit-msg": "^2.11.1"
