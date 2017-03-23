@@ -3,4 +3,5 @@ declare interface DeckLoader {
   setLoaded(state: boolean): void;
   load(): any[];
   getCardRenderer(): any;
+  getStorage(): Database;
 }
