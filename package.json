@@ -37,7 +37,8 @@
       "DeckLoader",
       "T",
       "Card",
-      "CardId"
+      "CardId",
+      "Database"
     ]
   },
   "babel": {
