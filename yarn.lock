@@ -51,6 +51,13 @@ abstract-leveldown@~2.6.1:
   dependencies:
     xtend "~4.0.0"
 
+accept@2.x.x:
+  version "2.1.3"
+  resolved "https://registry.yarnpkg.com/accept/-/accept-2.1.3.tgz#ab0f5bda4c449bbe926aea607b3522562f5acf86"
+  dependencies:
+    boom "4.x.x"
+    hoek "4.x.x"
+
 acorn-jsx@^3.0.0:
   version "3.0.1"
   resolved "https://registry.yarnpkg.com/acorn-jsx/-/acorn-jsx-3.0.1.tgz#afdf9488fb1ecefc8348f6fb22f464e32a58b36b"
@@ -86,6 +93,13 @@ ajv@^4.7.0, ajv@^4.9.1:
   dependencies:
     co "^4.6.0"
     json-stable-stringify "^1.0.1"
+
+ammo@2.x.x:
+  version "2.0.3"
+  resolved "https://registry.yarnpkg.com/ammo/-/ammo-2.0.3.tgz#914bbcf65b043ed0f58a8a9d0196e250ec51e6a7"
+  dependencies:
+    boom "4.x.x"
+    hoek "4.x.x"
 
 ansi-escapes@^1.1.0:
   version "1.4.0"
@@ -218,6 +232,10 @@ aws-sign2@~0.6.0:
 aws4@^1.2.1:
   version "1.6.0"
   resolved "https://registry.yarnpkg.com/aws4/-/aws4-1.6.0.tgz#83ef5ca860b2b32e4a0deedee8c771b9db57471e"
+
+b64@3.x.x:
+  version "3.0.2"
+  resolved "https://registry.yarnpkg.com/b64/-/b64-3.0.2.tgz#7a9d60466adf7b8de114cbdf651a5fdfcc90894d"
 
 babel-cli@^6.23.0:
   version "6.24.0"
@@ -538,6 +556,12 @@ boom@2.x.x:
   dependencies:
     hoek "2.x.x"
 
+boom@4.x.x:
+  version "4.2.0"
+  resolved "https://registry.yarnpkg.com/boom/-/boom-4.2.0.tgz#c1a74174b11fbba223f6162d4fd8851a1b82a536"
+  dependencies:
+    hoek "4.x.x"
+
 brace-expansion@^1.0.0:
   version "1.1.6"
   resolved "https://registry.yarnpkg.com/brace-expansion/-/brace-expansion-1.1.6.tgz#7197d7eaa9b87e648390ea61fc66c84427420df9"
@@ -571,6 +595,13 @@ builtin-modules@^1.0.0:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/builtin-modules/-/builtin-modules-1.1.1.tgz#270f076c5a72c02f5b65a47df94c5fe3a278892f"
 
+call@4.x.x:
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/call/-/call-4.0.0.tgz#cd29381a98046a132db26e2628e70bd8321a1ddf"
+  dependencies:
+    boom "4.x.x"
+    hoek "4.x.x"
+
 caller-path@^0.1.0:
   version "0.1.0"
   resolved "https://registry.yarnpkg.com/caller-path/-/caller-path-0.1.0.tgz#94085ef63581ecd3daa92444a8fe94e82577751f"
@@ -603,6 +634,20 @@ caseless@~0.11.0:
 caseless@~0.12.0:
   version "0.12.0"
   resolved "https://registry.yarnpkg.com/caseless/-/caseless-0.12.0.tgz#1b681c21ff84033c826543090689420d187151dc"
+
+catbox-memory@2.x.x:
+  version "2.0.4"
+  resolved "https://registry.yarnpkg.com/catbox-memory/-/catbox-memory-2.0.4.tgz#433e255902caf54233d1286429c8f4df14e822d5"
+  dependencies:
+    hoek "4.x.x"
+
+catbox@7.x.x:
+  version "7.1.3"
+  resolved "https://registry.yarnpkg.com/catbox/-/catbox-7.1.3.tgz#9817edec5a921743282addfc9c45ace52847eebb"
+  dependencies:
+    boom "4.x.x"
+    hoek "4.x.x"
+    joi "10.x.x"
 
 chalk@^1.0.0, chalk@^1.1.0, chalk@^1.1.1, chalk@^1.1.3:
   version "1.1.3"
@@ -710,6 +755,12 @@ console-control-strings@^1.0.0, console-control-strings@~1.1.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/console-control-strings/-/console-control-strings-1.1.0.tgz#3d7cf4464db6446ea644bf4b39507f9851008e8e"
 
+content@3.x.x:
+  version "3.0.3"
+  resolved "https://registry.yarnpkg.com/content/-/content-3.0.3.tgz#000f8a01371b95c66afe99be9390fa6cb91aa87a"
+  dependencies:
+    boom "4.x.x"
+
 conventional-changelog@0.0.17:
   version "0.0.17"
   resolved "https://registry.yarnpkg.com/conventional-changelog/-/conventional-changelog-0.0.17.tgz#5e0216600f4686190f0c82efbb0b3dd11b49ce34"
@@ -748,6 +799,12 @@ cryptiles@2.x.x:
   resolved "https://registry.yarnpkg.com/cryptiles/-/cryptiles-2.0.5.tgz#3bdfecdc608147c1c67202fa291e7dca59eaa3b8"
   dependencies:
     boom "2.x.x"
+
+cryptiles@3.x.x:
+  version "3.1.1"
+  resolved "https://registry.yarnpkg.com/cryptiles/-/cryptiles-3.1.1.tgz#86a9203f7367a0e9324bc7555ff0fcf5f81979ee"
+  dependencies:
+    boom "4.x.x"
 
 currently-unhandled@^0.4.1:
   version "0.4.1"
@@ -1528,6 +1585,29 @@ growl@1.9.2:
   version "1.9.2"
   resolved "https://registry.yarnpkg.com/growl/-/growl-1.9.2.tgz#0ea7743715db8d8de2c5ede1775e1b45ac85c02f"
 
+hapi@^16.1.0:
+  version "16.1.0"
+  resolved "https://registry.yarnpkg.com/hapi/-/hapi-16.1.0.tgz#419dd86347588821eb5a0a5f493bce019802d33b"
+  dependencies:
+    accept "2.x.x"
+    ammo "2.x.x"
+    boom "4.x.x"
+    call "4.x.x"
+    catbox "7.x.x"
+    catbox-memory "2.x.x"
+    cryptiles "3.x.x"
+    heavy "4.x.x"
+    hoek "4.x.x"
+    iron "4.x.x"
+    items "2.x.x"
+    joi "10.x.x"
+    mimos "3.x.x"
+    podium "^1.2.x"
+    shot "3.x.x"
+    statehood "5.x.x"
+    subtext "^4.3.x"
+    topo "2.x.x"
+
 har-schema@^1.0.5:
   version "1.0.5"
   resolved "https://registry.yarnpkg.com/har-schema/-/har-schema-1.0.5.tgz#d263135f43307c02c602afc8fe95970c0151369e"
@@ -1587,9 +1667,21 @@ hawk@~3.1.3:
     hoek "2.x.x"
     sntp "1.x.x"
 
+heavy@4.x.x:
+  version "4.0.3"
+  resolved "https://registry.yarnpkg.com/heavy/-/heavy-4.0.3.tgz#976bba118b011b15fe904aa4f292a168bfc6232f"
+  dependencies:
+    boom "4.x.x"
+    hoek "4.x.x"
+    joi "10.x.x"
+
 hoek@2.x.x:
   version "2.16.3"
   resolved "https://registry.yarnpkg.com/hoek/-/hoek-2.16.3.tgz#20bb7403d3cea398e91dc4710a8ff1b8274a25ed"
+
+hoek@4.x.x:
+  version "4.1.0"
+  resolved "https://registry.yarnpkg.com/hoek/-/hoek-4.1.0.tgz#4a4557460f69842ed463aa00628cc26d2683afa7"
 
 home-or-tmp@^2.0.0:
   version "2.0.0"
@@ -1697,6 +1789,14 @@ invariant@^2.2.0:
 invert-kv@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/invert-kv/-/invert-kv-1.0.0.tgz#104a8e4aaca6d3d8cd157a8ef8bfab2d7a3ffdb6"
+
+iron@4.x.x:
+  version "4.0.4"
+  resolved "https://registry.yarnpkg.com/iron/-/iron-4.0.4.tgz#c1f8cc4c91454194ab8920d9247ba882e528061a"
+  dependencies:
+    boom "4.x.x"
+    cryptiles "3.x.x"
+    hoek "4.x.x"
 
 is-array-buffer-x@^1.0.13:
   version "1.1.0"
@@ -1906,6 +2006,10 @@ isarray@1.0.0, isarray@^1.0.0, isarray@~1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/isarray/-/isarray-1.0.0.tgz#bb935d48582cba168c06834957a54a3e07124f11"
 
+isemail@2.x.x:
+  version "2.2.1"
+  resolved "https://registry.yarnpkg.com/isemail/-/isemail-2.2.1.tgz#0353d3d9a62951080c262c2aa0a42b8ea8e9e2a6"
+
 isexe@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/isexe/-/isexe-2.0.0.tgz#e8fbf374dc556ff8947a10dcb0572d633f2cfa10"
@@ -1920,11 +2024,24 @@ isstream@~0.1.2:
   version "0.1.2"
   resolved "https://registry.yarnpkg.com/isstream/-/isstream-0.1.2.tgz#47e63f7af55afa6f92e1500e690eb8b8529c099a"
 
+items@2.x.x:
+  version "2.1.1"
+  resolved "https://registry.yarnpkg.com/items/-/items-2.1.1.tgz#8bd16d9c83b19529de5aea321acaada78364a198"
+
 jodid25519@^1.0.0:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/jodid25519/-/jodid25519-1.0.2.tgz#06d4912255093419477d425633606e0e90782967"
   dependencies:
     jsbn "~0.1.0"
+
+joi@10.x.x:
+  version "10.2.2"
+  resolved "https://registry.yarnpkg.com/joi/-/joi-10.2.2.tgz#dc5a792b7b4c6fffa562242a95b55d9d3f077e24"
+  dependencies:
+    hoek "4.x.x"
+    isemail "2.x.x"
+    items "2.x.x"
+    topo "2.x.x"
 
 js-tokens@^3.0.0:
   version "3.0.1"
@@ -2309,7 +2426,7 @@ micromatch@^2.1.5:
     parse-glob "^3.0.4"
     regex-cache "^0.4.2"
 
-mime-db@~1.26.0:
+mime-db@1.x.x, mime-db@~1.26.0:
   version "1.26.0"
   resolved "https://registry.yarnpkg.com/mime-db/-/mime-db-1.26.0.tgz#eaffcd0e4fc6935cf8134da246e2e6c35305adff"
 
@@ -2322,6 +2439,13 @@ mime-types@^2.1.11, mime-types@^2.1.12, mime-types@~2.1.7:
 mime@^1.2.11:
   version "1.3.4"
   resolved "https://registry.yarnpkg.com/mime/-/mime-1.3.4.tgz#115f9e3b6b3daf2959983cb38f149a2d40eb5d53"
+
+mimos@3.x.x:
+  version "3.0.3"
+  resolved "https://registry.yarnpkg.com/mimos/-/mimos-3.0.3.tgz#b9109072ad378c2b72f6a0101c43ddfb2b36641f"
+  dependencies:
+    hoek "4.x.x"
+    mime-db "1.x.x"
 
 minimatch@3, minimatch@^3.0.0, minimatch@^3.0.2:
   version "3.0.3"
@@ -2400,6 +2524,13 @@ nerf-dart@^1.0.0:
 netrc@^0.1.4:
   version "0.1.4"
   resolved "https://registry.yarnpkg.com/netrc/-/netrc-0.1.4.tgz#6be94fcaca8d77ade0a9670dc460914c94472444"
+
+nigel@2.x.x:
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/nigel/-/nigel-2.0.2.tgz#93a1866fb0c52d87390aa75e2b161f4b5c75e5b1"
+  dependencies:
+    hoek "4.x.x"
+    vise "2.x.x"
 
 node-abi@^2.0.0:
   version "2.0.0"
@@ -2739,6 +2870,16 @@ performance-now@^0.2.0:
   version "0.2.0"
   resolved "https://registry.yarnpkg.com/performance-now/-/performance-now-0.2.0.tgz#33ef30c5c77d4ea21c5a53869d91b56d8f2555e5"
 
+pez@2.x.x:
+  version "2.1.4"
+  resolved "https://registry.yarnpkg.com/pez/-/pez-2.1.4.tgz#73f822fa62d599d65c4606f490d54d345191bc7c"
+  dependencies:
+    b64 "3.x.x"
+    boom "4.x.x"
+    content "3.x.x"
+    hoek "4.x.x"
+    nigel "2.x.x"
+
 pify@^2.0.0:
   version "2.3.0"
   resolved "https://registry.yarnpkg.com/pify/-/pify-2.3.0.tgz#ed141a6ac043a849ea588498e7dca8b15330e90c"
@@ -2764,6 +2905,14 @@ pkg-config@^1.0.1, pkg-config@^1.1.0:
 pluralize@^1.2.1:
   version "1.2.1"
   resolved "https://registry.yarnpkg.com/pluralize/-/pluralize-1.2.1.tgz#d1a21483fd22bb41e58a12fa3421823140897c45"
+
+podium@^1.2.x:
+  version "1.2.5"
+  resolved "https://registry.yarnpkg.com/podium/-/podium-1.2.5.tgz#87c566c2f0365bcf0a1ec7602c4d01948cdd2ad5"
+  dependencies:
+    hoek "4.x.x"
+    items "2.x.x"
+    joi "10.x.x"
 
 pouchdb-adapter-leveldb-core@6.1.2:
   version "6.1.2"
@@ -3361,6 +3510,13 @@ shelljs@^0.7.5:
     interpret "^1.0.0"
     rechoir "^0.6.2"
 
+shot@3.x.x:
+  version "3.4.0"
+  resolved "https://registry.yarnpkg.com/shot/-/shot-3.4.0.tgz#e7125ee72575ae5218349e933636808d790d4b92"
+  dependencies:
+    hoek "4.x.x"
+    joi "10.x.x"
+
 signal-exit@^3.0.0:
   version "3.0.2"
   resolved "https://registry.yarnpkg.com/signal-exit/-/signal-exit-3.0.2.tgz#b5fdc08f1287ea1178628e415e25132b73646c6d"
@@ -3497,6 +3653,17 @@ standard@*, standard@^8.6.0:
     eslint-plugin-standard "~2.0.1"
     standard-engine "~5.2.0"
 
+statehood@5.x.x:
+  version "5.0.1"
+  resolved "https://registry.yarnpkg.com/statehood/-/statehood-5.0.1.tgz#fc13c97b37751c18e70513d2b97e896ac8b73005"
+  dependencies:
+    boom "4.x.x"
+    cryptiles "3.x.x"
+    hoek "4.x.x"
+    iron "4.x.x"
+    items "2.x.x"
+    joi "10.x.x"
+
 stealthy-require@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/stealthy-require/-/stealthy-require-1.0.0.tgz#1a8ed8fc19a8b56268f76f5a1a3e3832b0c26200"
@@ -3576,6 +3743,16 @@ sublevel-pouchdb@6.1.2:
     level-codec "7.0.0"
     ltgt "2.1.2"
     readable-stream "1.0.33"
+
+subtext@^4.3.x:
+  version "4.3.0"
+  resolved "https://registry.yarnpkg.com/subtext/-/subtext-4.3.0.tgz#dfac90492ec35669fd6e00c6e5d938b06d7ccfbb"
+  dependencies:
+    boom "4.x.x"
+    content "3.x.x"
+    hoek "4.x.x"
+    pez "2.x.x"
+    wreck "10.x.x"
 
 supports-color@3.1.2:
   version "3.1.2"
@@ -3673,6 +3850,12 @@ to-string-tag-x@^1.1.0:
   dependencies:
     lodash.isnull "^3.0.0"
     validate.io-undefined "^1.0.3"
+
+topo@2.x.x:
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/topo/-/topo-2.0.2.tgz#cd5615752539057c0dc0491a621c3bc6fbe1d182"
+  dependencies:
+    hoek "4.x.x"
 
 tough-cookie@~2.3.0:
   version "2.3.2"
@@ -3812,6 +3995,12 @@ verror@1.3.6:
   dependencies:
     extsprintf "1.0.2"
 
+vise@2.x.x:
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/vise/-/vise-2.0.2.tgz#6b08e8fb4cb76e3a50cd6dd0ec37338e811a0d39"
+  dependencies:
+    hoek "4.x.x"
+
 vuvuzela@1.0.3:
   version "1.0.3"
   resolved "https://registry.yarnpkg.com/vuvuzela/-/vuvuzela-1.0.3.tgz#3be145e58271c73ca55279dd851f12a682114b0b"
@@ -3852,6 +4041,13 @@ wrap-ansi@^2.0.0:
 wrappy@1:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/wrappy/-/wrappy-1.0.2.tgz#b5243d8f3ec1aa35f1364605bc0d1036e30ab69f"
+
+wreck@10.x.x:
+  version "10.0.0"
+  resolved "https://registry.yarnpkg.com/wreck/-/wreck-10.0.0.tgz#98ab882f85e16a526332507f101f5a7841162278"
+  dependencies:
+    boom "4.x.x"
+    hoek "4.x.x"
 
 write-stream@~0.4.3:
   version "0.4.3"
