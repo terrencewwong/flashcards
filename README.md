@@ -34,3 +34,4 @@ Then instead of using `git` use `flash` instead:
 
 TODO:
 - document creating new decks and installing them
+- document learning algorithm
