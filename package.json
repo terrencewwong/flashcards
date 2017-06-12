@@ -18,7 +18,9 @@
     "lint": "standard --env mocha --verbose | snazzy",
     "prepublish": "in-publish && NODE_ENV=production yarn run build || not-in-publish",
     "semantic-release": "semantic-release pre && npm publish && semantic-release post",
-    "flow": "flow"
+    "flow": "flow",
+    "flow:watch": "flow-watch",
+    "flow:types": "flow-typed install"
   },
   "config": {
     "ghooks": {
@@ -39,6 +41,9 @@
       "Card",
       "CardId",
       "Database"
+    ],
+    "ignore": [
+      "flow-typed"
     ]
   },
   "babel": {
@@ -50,6 +55,7 @@
     ]
   },
   "dependencies": {
+    "hapi": "^16.1.0",
     "knuth-shuffle": "^1.0.1",
     "leveldown": "^1.6.0",
     "levelup": "^1.3.5",
@@ -68,6 +74,8 @@
     "eslint-plugin-flowtype": "^2.30.2",
     "expect": "^1.20.2",
     "flow-bin": "^0.40.0",
+    "flow-typed": "^2.1.2",
+    "flow-watch": "^1.1.1",
     "ghooks": "^2.0.0",
     "in-publish": "^2.0.0",
     "mocha": "^3.2.0",
