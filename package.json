@@ -1,0 +1,32 @@
+{
+  "name": "flashcards",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Terrence Wong <wongterrencew@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "flashcards": "./dist/bin/flashcards.js"
+  },
+  "scripts": {
+    "clean": "rimraf dist",
+    "build": "npm run clean && npm run build:bin && npm run build:lib",
+    "build:bin": "babel bin/ --out-dir dist/bin/",
+    "build:lib": "babel lib/ --out-dir dist/lib/"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-flow": "^6.23.0",
+    "flow-bin": "^0.60.1",
+    "flow-typed": "^2.2.3",
+    "flow-watch": "^1.1.1",
+    "rimraf": "^2.6.2"
+  },
+  "dependencies": {
+    "babel-polyfill": "^6.26.0",
+    "forever-monitor": "^1.7.1",
+    "hapi": "^17.1.1",
+    "wreck": "^14.0.2",
+    "yargs": "^10.0.3"
+  }
+}
